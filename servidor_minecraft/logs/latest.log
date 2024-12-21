@@ -498,3 +498,13 @@
 [19:08:44] [Server thread/INFO]: Named entity bvm['Bombardier'/18956, l='ServerLevel[world]', x=606.73, y=12.75, z=-822.82] died: Bombardier was shot by TioSkrollex using [Harbinger of Pain]
 [19:09:02] [Server thread/ERROR]: Display entityNot a string
 [19:09:21] [Server thread/INFO]: Named entity bvm['Bombardier'/19294, l='ServerLevel[world]', x=597.70, y=15.01, z=-784.30] died: Bombardier was shot by TioSkrollex using [Harbinger of Pain]
+[19:10:42] [Server thread/INFO]: Named entity bvm['Bombardier'/19542, l='ServerLevel[world]', x=587.68, y=39.33, z=-744.25] died: Bombardier was shot by TioSkrollex using [Harbinger of Pain]
+[19:11:07] [Server thread/INFO]: Named entity bvo['Rage Creeper'/19640, l='ServerLevel[world]', x=607.56, y=58.00, z=-783.49] died: Rage Creeper was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[19:14:33] [Server thread/INFO]: Named entity bvo['Rage Creeper'/20270, l='ServerLevel[world]', x=657.03, y=42.00, z=-918.50] died: Rage Creeper was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[19:15:32] [Server thread/INFO]: Named entity bxe['Piglin Bandit'/20507, l='ServerLevel[world]', x=679.81, y=26.00, z=-882.18] died: Piglin Bandit was blown up by Rage Creeper
+[19:15:37] [Server thread/INFO]: Named entity bxe['Piglin Bandit'/20508, l='ServerLevel[world]', x=662.17, y=30.00, z=-891.81] died: Piglin Bandit was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[19:15:42] [Server thread/INFO]: Named entity bxe['Piglin Bandit'/20506, l='ServerLevel[world]', x=666.49, y=28.00, z=-887.57] died: Piglin Bandit was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[19:16:59] [Server thread/INFO]: Named entity bxe['Piglin Bandit'/20713, l='ServerLevel[world]', x=722.80, y=26.00, z=-872.84] died: Piglin Bandit was killed whilst fighting TioSkrollex
+[19:18:56] [Server thread/INFO]: Named entity bvo['Rage Creeper'/20830, l='ServerLevel[world]', x=790.64, y=32.00, z=-884.50] died: Rage Creeper was shot by Danielcf37 using [Watcher's Bow of Healing]
+[19:19:25] [Server thread/INFO]: Named entity brm['Infernal Wisp'/21083, l='ServerLevel[world]', x=815.32, y=29.59, z=-901.23] died: Infernal Wisp was slain by Danielcf37 using [Smoldering Labrys of Combustion]
+[19:19:47] [Server thread/INFO]: Named entity bvm['Bombardier'/21091, l='ServerLevel[world]', x=858.46, y=24.78, z=-885.98] died: Bombardier was shot by Danielcf37 using [Watcher's Bow of Healing]
