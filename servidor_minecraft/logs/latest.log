@@ -86,3 +86,53 @@
 [16:33:12] [Server thread/INFO]: Named entity bwk['Twisted Thrall'/1696, l='ServerLevel[world]', x=-17.50, y=153.30, z=176.33] died: Twisted Thrall was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
 [16:33:12] [Server thread/INFO]: Named entity bwk['Twisted Thrall'/1694, l='ServerLevel[world]', x=-26.83, y=154.00, z=180.82] died: Twisted Thrall was killed whilst fighting Danielcf37
 [16:33:14] [Server thread/INFO]: Named entity bwk['Twisted Thrall'/1701, l='ServerLevel[world]', x=-21.22, y=153.30, z=175.49] died: Twisted Thrall was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[16:33:58] [Server thread/INFO]: Named entity bwt['Void Specter'/1692, l='ServerLevel[world]', x=-17.50, y=153.30, z=176.33] died: Void Specter was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[16:34:16] [Server thread/INFO]: Named entity bwt['Twisted Champion'/2075, l='ServerLevel[world]', x=-26.79, y=153.30, z=182.28] died: Twisted Champion was killed whilst fighting Danielcf37
+[16:34:25] [Server thread/INFO]: Named entity bwk['Twisted Thrall'/2073, l='ServerLevel[world]', x=-34.41, y=154.00, z=190.59] died: Twisted Thrall was shot by TioSkrollex using [Harbinger of Pain]
+[16:34:26] [Server thread/INFO]: Named entity bwk['Twisted Thrall'/2066, l='ServerLevel[world]', x=-32.11, y=154.00, z=191.90] died: Twisted Thrall was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[16:34:26] [Server thread/INFO]: Named entity bwk['Twisted Thrall'/2071, l='ServerLevel[world]', x=-32.90, y=154.00, z=190.10] died: Twisted Thrall was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[16:34:27] [Server thread/INFO]: Danielcf37 was slain by Void Specter
+[16:34:36] [Server thread/INFO]: Named entity bwk['Twisted Thrall'/2072, l='ServerLevel[world]', x=-31.82, y=154.00, z=185.80] died: Twisted Thrall was killed whilst fighting TioSkrollex
+[16:34:36] [Server thread/INFO]: Named entity bwk['Twisted Thrall'/2068, l='ServerLevel[world]', x=-28.76, y=154.00, z=185.50] died: Twisted Thrall was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[16:34:41] [Server thread/INFO]: Named entity bwk['Twisted Thrall'/2070, l='ServerLevel[world]', x=-27.22, y=153.30, z=174.91] died: Twisted Thrall was burnt to a crisp whilst fighting TioSkrollex
+[16:34:44] [Server thread/INFO]: Named entity bwt['Twisted Champion'/2074, l='ServerLevel[world]', x=-27.12, y=153.30, z=175.08] died: Twisted Champion was killed whilst fighting TioSkrollex
+[16:34:51] [Server thread/INFO]: Named entity bwk['Twisted Thrall'/2069, l='ServerLevel[world]', x=-18.84, y=153.30, z=181.31] died: Twisted Thrall was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[16:35:11] [Server thread/INFO]: Named entity bwt['Void Specter'/2064, l='ServerLevel[world]', x=-17.50, y=153.30, z=176.33] died: Void Specter was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[16:35:19] [Server thread/INFO]: [Danielcf37: Executed 9 command(s) from function 'boss:void_arena/1_start']
+[16:35:26] [Server thread/INFO]: Named entity bwk['Twisted Thrall'/2564, l='ServerLevel[world]', x=-24.83, y=154.00, z=179.49] died: Twisted Thrall was slain by Danielcf37 using [Phantom's Obsidian Spike of Evisceration]
+[16:35:26] [Server thread/INFO]: Named entity bwk['Twisted Thrall'/2567, l='ServerLevel[world]', x=-21.10, y=154.00, z=168.71] died: Twisted Thrall was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[16:35:29] [Server thread/INFO]: Danielcf37 tried to swim in lava to escape Twisted Thrall
+[16:35:30] [Server thread/INFO]: Named entity bwk['Twisted Thrall'/2067, l='ServerLevel[world]', x=-18.24, y=154.50, z=159.83] died: Twisted Thrall was burnt to a crisp whilst fighting TioSkrollex
+[16:35:32] [Server thread/INFO]: Named entity bwk['Twisted Thrall'/2563, l='ServerLevel[world]', x=-34.14, y=154.00, z=180.46] died: Twisted Thrall was killed
+[16:35:32] [Server thread/INFO]: Named entity bwk['Twisted Thrall'/2557, l='ServerLevel[world]', x=-46.38, y=155.50, z=194.63] died: Twisted Thrall was killed
+[16:35:32] [Server thread/INFO]: Named entity bwk['Twisted Thrall'/2556, l='ServerLevel[world]', x=-25.76, y=154.50, z=159.83] died: Twisted Thrall was killed
+[16:35:32] [Server thread/INFO]: Named entity bwk['Twisted Thrall'/2565, l='ServerLevel[world]', x=-27.12, y=153.30, z=175.08] died: Twisted Thrall was killed
+[16:35:32] [Server thread/INFO]: Named entity bwk['Twisted Thrall'/2559, l='ServerLevel[world]', x=-27.72, y=154.50, z=160.77] died: Twisted Thrall was killed
+[16:35:32] [Server thread/INFO]: Named entity bwk['Twisted Thrall'/2558, l='ServerLevel[world]', x=-26.66, y=154.50, z=160.40] died: Twisted Thrall was killed
+[16:35:32] [Server thread/INFO]: Named entity bwk['Twisted Thrall'/2562, l='ServerLevel[world]', x=-27.63, y=154.50, z=160.14] died: Twisted Thrall was killed
+[16:35:32] [Server thread/INFO]: Named entity bwk['Twisted Thrall'/2561, l='ServerLevel[world]', x=-18.84, y=153.30, z=181.31] died: Twisted Thrall was killed
+[16:35:32] [Server thread/INFO]: Named entity bwt['Void Specter'/2554, l='ServerLevel[world]', x=-30.10, y=154.00, z=184.90] died: Void Specter was killed
+[16:35:32] [Server thread/INFO]: Named entity bwk['Twisted Thrall'/2566, l='ServerLevel[world]', x=-12.27, y=155.00, z=202.49] died: Twisted Thrall was killed
+[16:35:32] [Server thread/INFO]: Named entity bwt['Twisted Champion'/2076, l='ServerLevel[world]', x=1.50, y=155.00, z=164.65] died: Twisted Champion was killed
+[16:35:32] [Server thread/INFO]: Named entity bwk['Twisted Thrall'/2560, l='ServerLevel[world]', x=1.27, y=155.50, z=186.53] died: Twisted Thrall was killed
+[16:41:01] [Server thread/INFO]: [Danielcf37: Executed 31 command(s) from function 'boss:void_arena/1_start']
+[16:41:16] [Server thread/INFO]: Named entity bwk['Twisted Thrall'/3542, l='ServerLevel[world]', x=-27.01, y=153.30, z=182.49] died: Twisted Thrall was killed whilst fighting Danielcf37
+[16:41:20] [Server thread/INFO]: Named entity bwk['Twisted Thrall'/3541, l='ServerLevel[world]', x=-27.01, y=153.30, z=182.49] died: Twisted Thrall was slain by Danielcf37 using [Phantom's Obsidian Spike of Evisceration]
+[16:41:27] [Server thread/INFO]: Named entity bwk['Twisted Thrall'/3539, l='ServerLevel[world]', x=-21.12, y=154.00, z=181.80] died: Twisted Thrall was slain by Danielcf37 using [Phantom's Obsidian Spike of Evisceration]
+[16:41:29] [Server thread/INFO]: TioSkrollex lost connection: Disconnected
+[16:41:29] [Server thread/INFO]: TioSkrollex left the game
+[16:41:29] [Server thread/WARN]: handleDisconnection() called twice
+[16:41:33] [Server thread/INFO]: Named entity bwk['Twisted Thrall'/3540, l='ServerLevel[world]', x=-17.50, y=153.30, z=176.33] died: Twisted Thrall was slain by Danielcf37 using [Phantom's Obsidian Spike of Evisceration]
+[16:41:51] [Server thread/INFO]: Named entity bwk['Twisted Thrall'/3536, l='ServerLevel[world]', x=-28.39, y=153.30, z=179.96] died: Twisted Thrall was killed whilst fighting Danielcf37
+[16:42:24] [Server thread/INFO]: Named entity bwt['Void Specter'/3532, l='ServerLevel[world]', x=-17.73, y=153.30, z=176.49] died: Void Specter was slain by Danielcf37 using [Phantom's Obsidian Spike of Evisceration]
+[16:42:27] [Server thread/INFO]: Named entity bwk['Twisted Thrall'/3537, l='ServerLevel[world]', x=-26.82, y=153.30, z=175.60] died: Twisted Thrall was slain by Danielcf37 using [Phantom's Obsidian Spike of Evisceration]
+[16:42:28] [Server thread/INFO]: Named entity bwk['Twisted Thrall'/3538, l='ServerLevel[world]', x=-27.12, y=153.30, z=175.08] died: Twisted Thrall was slain by Danielcf37 using [Phantom's Obsidian Spike of Evisceration]
+[16:42:35] [Server thread/INFO]: Named entity bwk['Twisted Thrall'/3786, l='ServerLevel[world]', x=-30.04, y=154.00, z=182.71] died: Twisted Thrall was slain by Danielcf37 using [Phantom's Obsidian Spike of Evisceration]
+[16:42:39] [Server thread/INFO]: Named entity bwk['Twisted Thrall'/3785, l='ServerLevel[world]', x=-28.41, y=153.30, z=179.88] died: Twisted Thrall was slain by Danielcf37 using [Phantom's Obsidian Spike of Evisceration]
+[16:42:44] [Server thread/INFO]: Named entity bwk['Twisted Thrall'/3534, l='ServerLevel[world]', x=-35.35, y=154.00, z=167.60] died: Twisted Thrall was slain by Danielcf37 using [Phantom's Obsidian Spike of Evisceration]
+[16:42:46] [Server thread/INFO]: Named entity bwk['Twisted Thrall'/3789, l='ServerLevel[world]', x=-38.83, y=150.88, z=179.24] died: Twisted Thrall tried to swim in lava
+[16:42:49] [Server thread/INFO]: Named entity bwk['Twisted Thrall'/3535, l='ServerLevel[world]', x=-31.61, y=154.00, z=176.21] died: Twisted Thrall was slain by Danielcf37 using [Phantom's Obsidian Spike of Evisceration]
+[16:42:53] [Server thread/INFO]: Named entity bwk['Twisted Thrall'/3790, l='ServerLevel[world]', x=-36.87, y=155.00, z=163.19] died: Twisted Thrall was slain by Danielcf37 using [Phantom's Obsidian Spike of Evisceration]
+[16:43:20] [Server thread/INFO]: Named entity bwk['Twisted Thrall'/3781, l='ServerLevel[world]', x=-24.61, y=153.30, z=172.56] died: Twisted Thrall was slain by Danielcf37 using [Phantom's Obsidian Spike of Evisceration]
+[16:43:42] [Server thread/INFO]: Named entity bwt['Void Specter'/3779, l='ServerLevel[world]', x=-26.89, y=153.30, z=175.15] died: Void Specter was slain by Danielcf37 using [Phantom's Obsidian Spike of Evisceration]
+[16:43:59] [Server thread/INFO]: Named entity bwk['Twisted Thrall'/3787, l='ServerLevel[world]', x=-7.67, y=150.88, z=177.98] died: Twisted Thrall tried to swim in lava
