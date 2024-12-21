@@ -69,3 +69,44 @@
 [16:00:05] [Server thread/INFO]: Named entity bwt['Undead Sensei'/1230, l='ServerLevel[world]', x=415.18, y=113.00, z=-611.60] died: Undead Sensei was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
 [16:00:39] [Server thread/INFO]: [@: Executed 4 command(s) from function 'boss:ninja_area/tp_back_at_end']
 [16:08:00] [Server thread/INFO]: Named entity bvo['Rage Creeper'/2295, l='ServerLevel[world]', x=512.60, y=78.00, z=-782.16] died: Rage Creeper was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[16:10:10] [Server thread/INFO]: Named entity bvo['Rage Creeper'/2618, l='ServerLevel[world]', x=590.23, y=48.00, z=-937.70] died: Rage Creeper was slain by Danielcf37 using [Phantom's Obsidian Spike of Evisceration]
+[16:10:17] [Server thread/INFO]: Named entity bvo['Rage Creeper'/2648, l='ServerLevel[world]', x=590.04, y=46.00, z=-924.56] died: Rage Creeper was killed whilst fighting TioSkrollex
+[16:10:30] [Server thread/INFO]: Named entity bxe['Piglin Bandit'/2799, l='ServerLevel[world]', x=563.56, y=52.00, z=-942.50] died: Piglin Bandit was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[16:10:32] [Server thread/INFO]: Named entity bxe['Piglin Bandit'/2801, l='ServerLevel[world]', x=563.64, y=52.00, z=-943.33] died: Piglin Bandit was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[16:10:34] [Server thread/INFO]: Named entity bwn['Flamecrawler'/2804, l='ServerLevel[world]', x=564.90, y=53.00, z=-938.85] died: Flamecrawler was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[16:10:36] [Server thread/INFO]: Named entity bwn['Flamecrawler'/2805, l='ServerLevel[world]', x=580.82, y=54.09, z=-942.53] died: Flamecrawler was slain by Danielcf37 using [Phantom's Obsidian Spike of Evisceration]
+[16:10:37] [Server thread/INFO]: Named entity bxe['Piglin Bandit'/2800, l='ServerLevel[world]', x=564.96, y=50.00, z=-935.85] died: Piglin Bandit was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[16:11:00] [Server thread/INFO]: Named entity bvm['Bombardier'/2616, l='ServerLevel[world]', x=569.70, y=58.00, z=-958.80] died: Bombardier was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[16:11:06] [Server thread/INFO]: Named entity bvm['Bombardier'/2867, l='ServerLevel[world]', x=566.04, y=59.00, z=-950.94] died: Bombardier was shot by TioSkrollex using [Harbinger of Pain]
+[16:11:11] [Server thread/INFO]: Named entity bwn['Flamecrawler'/2803, l='ServerLevel[world]', x=563.73, y=52.00, z=-939.73] died: Flamecrawler was killed whilst fighting TioSkrollex
+[16:13:03] [Server thread/INFO]: Named entity bvo['Rage Creeper'/2651, l='ServerLevel[world]', x=618.66, y=51.00, z=-932.59] died: Rage Creeper was shot by Danielcf37 using [Watcher's Bow of Healing]
+[16:13:37] [Server thread/INFO]: Named entity bvm['Bombardier'/3260, l='ServerLevel[world]', x=582.04, y=65.91, z=-993.87] died: Bombardier was shot by Danielcf37 using [Watcher's Bow of Healing]
+[16:14:05] [Server thread/INFO]: Named entity bvo['Rage Creeper'/3021, l='ServerLevel[world]', x=613.10, y=42.00, z=-959.86] died: Rage Creeper was doomed to fall by TioSkrollex using [Harbinger of Pain]
+[16:14:18] [Server thread/INFO]: Named entity bxe['Piglin Bandit'/3294, l='ServerLevel[world]', x=588.61, y=59.00, z=-965.68] died: Piglin Bandit was killed whilst fighting Danielcf37
+[16:14:20] [Server thread/INFO]: Named entity bxe['Piglin Bandit'/3292, l='ServerLevel[world]', x=588.51, y=58.94, z=-965.66] died: Piglin Bandit was slain by Danielcf37 using [Phantom's Obsidian Spike of Evisceration]
+[16:14:43] [Server thread/INFO]: Named entity bvo['Rage Creeper'/3097, l='ServerLevel[world]', x=609.55, y=72.00, z=-938.65] died: Rage Creeper was slain by Danielcf37 using [Phantom's Obsidian Spike of Evisceration]
+[16:14:45] [Server thread/INFO]: Named entity bxe['Piglin Bandit'/3378, l='ServerLevel[world]', x=604.79, y=72.30, z=-935.37] died: Piglin Bandit was blown up by Rage Creeper
+[16:14:45] [Server thread/INFO]: Named entity bxe['Piglin Bandit'/3299, l='ServerLevel[world]', x=608.50, y=72.00, z=-936.82] died: Piglin Bandit was blown up by Rage Creeper
+[16:14:51] [Server thread/INFO]: Named entity bxe['Piglin Bandit'/3223, l='ServerLevel[world]', x=603.66, y=72.00, z=-937.69] died: Piglin Bandit was slain by Danielcf37 using [Phantom's Obsidian Spike of Evisceration]
+[16:14:57] [Server thread/INFO]: Named entity bxe['Piglin Bandit'/3507, l='ServerLevel[world]', x=607.98, y=71.46, z=-934.60] died: Piglin Bandit was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[16:15:15] [Server thread/INFO]: Named entity bvo['Rage Creeper'/3417, l='ServerLevel[world]', x=616.98, y=45.00, z=-927.99] died: Rage Creeper was doomed to fall
+[16:15:49] [Server thread/INFO]: Named entity bxe['Piglin Bandit'/3035, l='ServerLevel[world]', x=583.77, y=56.00, z=-951.06] died: Piglin Bandit was doomed to fall by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[16:16:20] [Server thread/INFO]: Named entity bxe['Piglin Bandit'/3293, l='ServerLevel[world]', x=585.36, y=69.00, z=-998.27] died: Piglin Bandit was blown up by Rage Creeper
+[16:16:44] [Server thread/INFO]: Named entity bwn['Flamecrawler'/3777, l='ServerLevel[world]', x=550.62, y=81.40, z=-982.29] died: Flamecrawler was killed whilst fighting TioSkrollex
+[16:16:47] [Server thread/INFO]: Named entity bwn['Flamecrawler'/3776, l='ServerLevel[world]', x=550.52, y=82.14, z=-984.69] died: Flamecrawler was blown up by Creeper
+[16:16:49] [Server thread/INFO]: Named entity bwn['Flamecrawler'/3783, l='ServerLevel[world]', x=552.14, y=81.65, z=-987.29] died: Flamecrawler was slain by Danielcf37 using [Phantom's Obsidian Spike of Evisceration]
+[16:17:00] [Server thread/INFO]: Named entity bvm['Bombardier'/3779, l='ServerLevel[world]', x=555.95, y=89.00, z=-1007.42] died: Bombardier was blown up by Creeper
+[16:17:03] [Server thread/INFO]: Named entity bwn['Flamecrawler'/3781, l='ServerLevel[world]', x=555.44, y=89.11, z=-1007.28] died: Flamecrawler was slain by Danielcf37 using [Phantom's Obsidian Spike of Evisceration]
+[16:17:05] [Server thread/INFO]: Named entity bwn['Flamecrawler'/3782, l='ServerLevel[world]', x=550.17, y=86.00, z=-1007.93] died: Flamecrawler was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[16:17:16] [Server thread/INFO]: Named entity bwv['Zombee'/3827, l='ServerLevel[world]', x=550.48, y=84.43, z=-997.69] died: Zombee was slain by Danielcf37 using [Phantom's Obsidian Spike of Evisceration]
+[16:17:18] [Server thread/INFO]: Named entity bxe['Piglin Bandit'/3780, l='ServerLevel[world]', x=550.58, y=82.94, z=-994.27] died: Piglin Bandit was slain by Danielcf37 using [Phantom's Obsidian Spike of Evisceration]
+[16:17:18] [Server thread/INFO]: Named entity bxe['Piglin Bandit'/3919, l='ServerLevel[world]', x=550.57, y=83.94, z=-995.55] died: Piglin Bandit was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[16:17:32] [Server thread/INFO]: Named entity bwn['Flamecrawler'/3948, l='ServerLevel[world]', x=560.81, y=88.54, z=-1001.23] died: Flamecrawler was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[16:17:36] [Server thread/INFO]: Named entity bwv['Zombee'/3927, l='ServerLevel[world]', x=545.59, y=86.50, z=-1001.89] died: death.attack.magic.item
+[16:17:50] [Server thread/INFO]: Named entity bvo['Rage Creeper'/4035, l='ServerLevel[world]', x=536.54, y=97.00, z=-1020.30] died: Rage Creeper was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[16:17:51] [Server thread/INFO]: Named entity bxe['Piglin Bandit'/4033, l='ServerLevel[world]', x=552.62, y=86.00, z=-1007.41] died: Piglin Bandit was killed whilst fighting Danielcf37
+[16:17:52] [Server thread/INFO]: Named entity bvo['Rage Creeper'/4036, l='ServerLevel[world]', x=536.70, y=98.00, z=-1022.49] died: Rage Creeper was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[16:18:06] [Server thread/INFO]: Named entity bwv['Zombee'/4048, l='ServerLevel[world]', x=523.36, y=98.00, z=-1024.38] died: Zombee was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[16:18:08] [Server thread/INFO]: Named entity bwv['Zombee'/4028, l='ServerLevel[world]', x=525.65, y=98.00, z=-1024.50] died: Zombee was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[16:18:10] [Server thread/INFO]: Named entity bwv['Zombee'/3985, l='ServerLevel[world]', x=523.97, y=99.37, z=-1025.82] died: Zombee was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[16:18:22] [Server thread/INFO]: Named entity bwv['Zombee'/4112, l='ServerLevel[world]', x=525.43, y=98.00, z=-1014.53] died: Zombee was killed whilst fighting TioSkrollex
