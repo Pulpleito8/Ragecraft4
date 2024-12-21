@@ -531,3 +531,20 @@
 [19:26:53] [Server thread/INFO]: Named entity bxh['☆ Butcher ☆'/22476, l='ServerLevel[world]', x=735.36, y=75.00, z=-944.71] died: ☆ Butcher ☆ was slain by Danielcf37 using [Smoldering Labrys of Combustion]
 [19:26:54] [Server thread/INFO]: Named entity bxe['Cannibal'/22483, l='ServerLevel[world]', x=736.26, y=75.00, z=-945.75] died: Cannibal was slain by Danielcf37 using [Smoldering Labrys of Combustion]
 [19:27:04] [Server thread/INFO]: Named entity bxe['Cannibal'/22481, l='ServerLevel[world]', x=722.07, y=75.63, z=-944.01] died: Cannibal was slain by Danielcf37 using [Smoldering Labrys of Combustion]
+[19:31:27] [Server thread/WARN]: UUID of added entity already exists: buy['Glow Item Frame'/23441, l='ServerLevel[world]', x=-53.50, y=171.03, z=283.50]
+[19:32:43] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[19:32:43] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[19:32:43] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[19:32:51] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[19:32:51] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[19:32:51] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[19:34:30] [Server thread/INFO]: Villager byb['Linus'/21366, l='ServerLevel[world]', x=710.50, y=-218.00, z=-1024.50] died, message: 'Linus was killed whilst fighting Danielcf37'
+[19:34:30] [Server thread/INFO]: Named entity byb['Linus'/21366, l='ServerLevel[world]', x=710.50, y=-218.00, z=-1024.50] died: Linus was killed whilst fighting Danielcf37
+[19:34:30] [Server thread/INFO]: [Danielcf37: Executed 35 command(s) from function 'npc:r2_villagers/alchemist_rescue']
+[19:35:36] [Server thread/WARN]: UUID of added entity already exists: buy['Glow Item Frame'/24128, l='ServerLevel[world]', x=-53.50, y=171.03, z=283.50]
+[19:35:54] [Server thread/INFO]: [Danielcf37: Executed 5 command(s) from function 'npc:r2_villagers/maegos_2']
+[19:35:54] [Server thread/INFO]: [Danielcf37: Executed 5 command(s) from function 'npc:r2_villagers/maegos_3']
+[19:35:55] [Server thread/INFO]: [Danielcf37: Executed 7 command(s) from function 'npc:r2_villagers/maegos_4']
+[19:36:44] [Server thread/INFO]: Named entity bwn['Nightmare'/24304, l='ServerLevel[world]', x=795.50, y=92.00, z=-1031.50] died: Nightmare withered away
+[19:38:07] [Server thread/INFO]: [Danielcf37: Executed 5 command(s) from function 'npc:r1_villagers/ronan_2']
+[19:38:08] [Server thread/INFO]: [Danielcf37: Executed 3 command(s) from function 'npc:r1_villagers/ronan_3']
