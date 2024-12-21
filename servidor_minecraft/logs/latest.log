@@ -388,3 +388,65 @@
 [18:48:53] [Server thread/INFO]: Named entity bvo['Rage Creeper'/14804, l='ServerLevel[world]', x=761.88, y=52.00, z=-887.52] died: Rage Creeper was shot by TioSkrollex using [Harbinger of Pain]
 [18:48:56] [Server thread/INFO]: Named entity bwn['Flamecrawler'/14881, l='ServerLevel[world]', x=761.37, y=52.42, z=-887.96] died: Flamecrawler was shot by TioSkrollex using [Harbinger of Pain]
 [18:49:18] [Server thread/INFO]: Named entity bvo['Rage Creeper'/14963, l='ServerLevel[world]', x=744.53, y=53.00, z=-886.59] died: Rage Creeper was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[18:50:03] [Server thread/INFO]: Named entity bxe['Piglin Bandit'/14987, l='ServerLevel[world]', x=741.80, y=24.00, z=-877.84] died: Piglin Bandit was slain by Danielcf37 using [Executioner's Labrys of Combustion]
+[18:50:11] [Server thread/INFO]: Danielcf37 was burnt to a crisp whilst fighting Piglin
+[18:50:21] [Server thread/INFO]: Named entity bxe['Piglin Bandit'/15050, l='ServerLevel[world]', x=757.96, y=26.50, z=-875.50] died: Piglin Bandit was shot by TioSkrollex using [Harbinger of Pain]
+[18:50:33] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[18:50:33] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[18:50:33] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[18:50:36] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[18:50:36] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[18:50:36] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[18:50:36] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[18:50:36] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[18:50:36] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[18:50:38] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[18:50:38] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[18:50:38] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[18:50:39] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[18:50:39] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[18:50:39] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[18:50:40] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[18:50:40] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[18:50:40] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[18:50:41] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[18:50:41] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[18:50:41] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[18:50:42] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[18:50:42] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[18:50:42] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[18:50:44] [Server thread/INFO]: Named entity bxe['Piglin Bandit'/14989, l='ServerLevel[world]', x=740.61, y=33.00, z=-875.17] died: Piglin Bandit was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[18:51:06] [Server thread/INFO]: Named entity bxe['Piglin Bandit'/15459, l='ServerLevel[world]', x=731.70, y=33.00, z=-873.53] died: Piglin Bandit was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[18:51:09] [Server thread/INFO]: Named entity bxe['Piglin Bandit'/15620, l='ServerLevel[world]', x=733.92, y=32.00, z=-876.35] died: Piglin Bandit was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[18:51:26] [Server thread/INFO]: Named entity bxe['Piglin Bandit'/15672, l='ServerLevel[world]', x=734.47, y=33.00, z=-878.00] died: Piglin Bandit was killed whilst fighting TioSkrollex
+[18:52:15] [Server thread/INFO]: Named entity bvo['Rage Creeper'/15019, l='ServerLevel[world]', x=720.35, y=39.00, z=-877.22] died: Rage Creeper was shot by TioSkrollex using [Harbinger of Pain]
+[18:52:16] [Server thread/INFO]: Named entity bxe['Piglin Bandit'/15461, l='ServerLevel[world]', x=720.40, y=39.00, z=-877.42] died: Piglin Bandit was shot by TioSkrollex using [Harbinger of Pain]
+[18:52:18] [Server thread/INFO]: Named entity bvo['Rage Creeper'/15653, l='ServerLevel[world]', x=720.35, y=39.00, z=-877.39] died: Rage Creeper was shot by TioSkrollex using [Harbinger of Pain]
+[18:52:28] [Server thread/INFO]: Named entity bxe['Piglin Bandit'/15082, l='ServerLevel[world]', x=722.13, y=37.00, z=-877.26] died: Piglin Bandit was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[18:52:38] [Server thread/INFO]: Named entity bxe['Piglin Bandit'/15650, l='ServerLevel[world]', x=726.96, y=32.50, z=-872.08] died: Piglin Bandit was killed whilst fighting TioSkrollex
+[18:53:16] [Server thread/INFO]: Named entity bvo['Rage Creeper'/15632, l='ServerLevel[world]', x=710.70, y=36.00, z=-876.52] died: Rage Creeper was shot by TioSkrollex using [Harbinger of Pain]
+[18:53:25] [Server thread/INFO]: Named entity bvo['Rage Creeper'/15711, l='ServerLevel[world]', x=706.30, y=35.00, z=-861.31] died: Rage Creeper was killed whilst fighting TioSkrollex
+[18:53:39] [Server thread/INFO]: Named entity bxe['Piglin Bandit'/16189, l='ServerLevel[world]', x=702.18, y=35.00, z=-858.85] died: Piglin Bandit was killed whilst fighting TioSkrollex
+[18:53:42] [Server thread/INFO]: Named entity bvo['Rage Creeper'/15880, l='ServerLevel[world]', x=697.70, y=14.50, z=-861.77] died: Rage Creeper was doomed to fall
+[18:54:54] [Server thread/WARN]: UUID of added entity already exists: buy['Glow Item Frame'/16477, l='ServerLevel[world]', x=-53.50, y=171.03, z=283.50]
+[18:57:08] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[18:57:08] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[18:57:08] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[18:57:21] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[18:57:21] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[18:57:21] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[18:57:25] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[18:57:25] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[18:57:25] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[18:57:31] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[18:57:31] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[18:57:31] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[18:58:02] [Server thread/ERROR]: Display entityNot a string
+[18:58:02] [Server thread/ERROR]: Display entityNot a string
+[18:58:02] [Server thread/ERROR]: Display entityNot a string
+[18:58:41] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:22,cr_axe:1,cr_enchant:63,cr_rarity:1,cr_tier:4,display:{Lore:['{"text":"Uncommon Prefix Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"d","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"8","color":"light_purple","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"4","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"Axe ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','{"text":"Sharpness IV","color":"#BEDCFA","bold":true,"italic":false}','{"text":"Fire Aspect IV","color":"#BEDCFA","bold":true,"italic":false}','{"text":"Knockback II","color":"#BEDCFA","bold":true,"italic":false}'],Name:'{"text":"Smoldering Rune","color":"#269AFF","bold":true,"italic":false}'}}}
+[18:58:41] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[18:58:41] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[18:58:41] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[18:58:41] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[18:58:43] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
