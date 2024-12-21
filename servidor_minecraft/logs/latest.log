@@ -682,3 +682,52 @@
 [20:09:57] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
 [20:09:57] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
 [20:09:57] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[20:12:36] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[20:12:36] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[20:13:16] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[20:13:18] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[20:13:18] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[20:13:18] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[20:14:26] [Server thread/WARN]: Danielcf37 moved wrongly!
+[20:14:34] [Server thread/INFO]: Danielcf37 fell from a high place
+[20:14:54] [Server thread/INFO]: Named entity bvo['Rage Creeper'/31027, l='ServerLevel[world]', x=673.38, y=111.00, z=-989.21] died: Rage Creeper was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[20:15:09] [Server thread/INFO]: Named entity bvo['Rage Creeper'/31209, l='ServerLevel[world]', x=673.05, y=111.00, z=-992.22] died: Rage Creeper was burnt to a crisp whilst fighting TioSkrollex
+[20:15:17] [Server thread/INFO]: Named entity bxh['☆ Butcher ☆'/31244, l='ServerLevel[world]', x=673.86, y=111.00, z=-987.05] died: ☆ Butcher ☆ was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[20:15:52] [Server thread/INFO]: Named entity bvo['Rage Creeper'/31211, l='ServerLevel[world]', x=688.64, y=111.00, z=-984.47] died: Rage Creeper was shot by TioSkrollex using [Harbinger of Pain]
+[20:15:56] [Server thread/INFO]: Named entity bwk['Leftovers'/31424, l='ServerLevel[world]', x=689.57, y=111.00, z=-987.07] died: Leftovers was killed whilst fighting TioSkrollex
+[20:16:08] [Server thread/INFO]: Named entity bwx['Baby Cannibal'/31299, l='ServerLevel[world]', x=670.35, y=119.00, z=-988.05] died: Baby Cannibal was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[20:16:09] [Server thread/WARN]: UUID of added entity already exists: buy['Glow Item Frame'/31582, l='ServerLevel[world]', x=-53.50, y=171.03, z=283.50]
+[20:16:11] [Server thread/INFO]: Named entity bwx['Baby Cannibal'/31298, l='ServerLevel[world]', x=674.28, y=119.00, z=-988.47] died: Baby Cannibal was blown up by Rage Creeper
+[20:16:11] [Server thread/INFO]: Named entity bwk['Leftovers'/31316, l='ServerLevel[world]', x=671.07, y=119.07, z=-985.95] died: Leftovers was killed
+[20:16:33] [Server thread/INFO]: Named entity bwx['Baby Cannibal'/31730, l='ServerLevel[world]', x=679.02, y=128.00, z=-980.51] died: Baby Cannibal was blown up by Rage Creeper
+[20:16:33] [Server thread/INFO]: Named entity bwx['Baby Cannibal'/31731, l='ServerLevel[world]', x=678.70, y=128.00, z=-980.73] died: Baby Cannibal was blown up by Rage Creeper
+[20:16:38] [Server thread/INFO]: Named entity bwn['Nightmare'/31717, l='ServerLevel[world]', x=767.30, y=89.10, z=-1054.02] died: Nightmare suffocated in a wall
+[20:16:38] [Server thread/INFO]: Named entity bwx['Baby Cannibal'/31733, l='ServerLevel[world]', x=676.67, y=128.00, z=-980.50] died: Baby Cannibal was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[20:16:38] [Server thread/INFO]: Named entity bwx['Baby Cannibal'/31734, l='ServerLevel[world]', x=677.54, y=128.00, z=-981.43] died: Baby Cannibal was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[20:16:39] [Server thread/INFO]: Named entity bwx['Baby Cannibal'/31732, l='ServerLevel[world]', x=676.43, y=128.00, z=-980.36] died: Baby Cannibal was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[20:16:43] [Server thread/INFO]: Named entity bwx['Baby Cannibal'/29808, l='ServerLevel[world]', x=677.25, y=128.35, z=-968.59] died: Baby Cannibal was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[20:16:49] [Server thread/WARN]: Danielcf37 moved wrongly!
+[20:16:53] [Server thread/INFO]: Named entity bwx['Baby Cannibal'/29806, l='ServerLevel[world]', x=677.26, y=128.50, z=-968.79] died: Baby Cannibal was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[20:17:01] [Server thread/INFO]: Named entity bwk['Leftovers'/31284, l='ServerLevel[world]', x=688.05, y=128.00, z=-967.96] died: Leftovers was killed whilst fighting TioSkrollex
+[20:17:10] [Server thread/INFO]: Named entity bwx['Baby Cannibal'/31245, l='ServerLevel[world]', x=685.15, y=111.00, z=-971.22] died: Baby Cannibal was slain by Danielcf37 using [Smoldering Labrys of Combustion]
+[20:17:12] [Server thread/INFO]: Named entity bwx['Baby Cannibal'/31494, l='ServerLevel[world]', x=683.17, y=111.00, z=-971.92] died: Baby Cannibal was slain by Danielcf37 using [Smoldering Labrys of Combustion]
+[20:17:12] [Server thread/INFO]: TioSkrollex lost connection: Disconnected
+[20:17:12] [Server thread/INFO]: TioSkrollex left the game
+[20:17:34] [Server thread/INFO]: Named entity bwk['Leftovers'/31192, l='ServerLevel[world]', x=689.40, y=128.00, z=-954.59] died: Leftovers was killed whilst fighting Danielcf37
+[20:17:39] [Server thread/INFO]: Named entity bwk['Leftovers'/31008, l='ServerLevel[world]', x=691.40, y=128.00, z=-946.62] died: Leftovers was killed whilst fighting Danielcf37
+[20:17:52] [Server thread/INFO]: Named entity bwk['Leftovers'/31778, l='ServerLevel[world]', x=694.06, y=127.30, z=-959.70] died: Leftovers was killed
+[20:18:10] [Server thread/INFO]: Named entity bxh['☆ Butcher ☆'/29707, l='ServerLevel[world]', x=690.68, y=128.00, z=-966.77] died: ☆ Butcher ☆ was slain by Danielcf37 using [Smoldering Labrys of Combustion]
+[20:18:19] [Server thread/INFO]: Named entity bxh['☆ Butcher ☆'/28890, l='ServerLevel[world]', x=693.87, y=127.45, z=-959.64] died: ☆ Butcher ☆ was slain by Danielcf37 using [Smoldering Labrys of Combustion]
+[20:19:00] [Server thread/INFO]: Named entity bwx['Baby Cannibal'/31963, l='ServerLevel[world]', x=708.14, y=129.50, z=-956.17] died: Baby Cannibal was slain by Danielcf37 using [Gluttony]
+[20:19:07] [Server thread/INFO]: Named entity bwx['Baby Cannibal'/31964, l='ServerLevel[world]', x=707.23, y=128.00, z=-953.40] died: Baby Cannibal was slain by Danielcf37 using [Gluttony]
+[20:19:09] [Server thread/INFO]: Named entity bwx['Baby Cannibal'/31965, l='ServerLevel[world]', x=706.48, y=128.00, z=-952.15] died: Baby Cannibal was slain by Danielcf37 using [Gluttony]
+[20:19:48] [Server thread/INFO]: Named entity bvo['Rage Creeper'/32295, l='ServerLevel[world]', x=722.17, y=119.00, z=-990.12] died: Rage Creeper was killed whilst fighting Danielcf37
+[20:19:57] [Server thread/INFO]: Named entity bwk['Leftovers'/32060, l='ServerLevel[world]', x=726.30, y=119.00, z=-994.23] died: Leftovers was killed whilst fighting Danielcf37
+[20:20:02] [Server thread/INFO]: Named entity bxe['Cannibal'/32420, l='ServerLevel[world]', x=720.67, y=119.00, z=-989.67] died: Cannibal was slain by Danielcf37 using [Gluttony]
+[20:20:03] [Server thread/INFO]: Named entity bxe['Cannibal'/32422, l='ServerLevel[world]', x=718.50, y=119.00, z=-987.72] died: Cannibal was killed whilst fighting Danielcf37
+[20:20:21] [Server thread/INFO]: Named entity bvm['Bombardier'/32377, l='ServerLevel[world]', x=724.50, y=119.00, z=-997.54] died: Bombardier was slain by Danielcf37 using [Smoldering Labrys of Combustion]
+[20:20:35] [Server thread/INFO]: Named entity bxh['☆ Butcher ☆'/32551, l='ServerLevel[world]', x=709.26, y=119.00, z=-988.44] died: ☆ Butcher ☆ was slain by Danielcf37 using [Gluttony]
+[20:20:54] [Server thread/INFO]: Named entity bvm['Bombardier'/32610, l='ServerLevel[world]', x=739.40, y=128.11, z=-988.82] died: Bombardier was killed whilst fighting Danielcf37
+[20:21:09] [Server thread/INFO]: Named entity bwx['Baby Cannibal'/32630, l='ServerLevel[world]', x=728.36, y=132.00, z=-978.34] died: Baby Cannibal was slain by Danielcf37 using [Gluttony]
+[20:21:12] [Server thread/INFO]: Named entity bwx['Baby Cannibal'/32628, l='ServerLevel[world]', x=727.40, y=132.00, z=-977.97] died: Baby Cannibal was slain by Danielcf37 using [Gluttony]
+[20:21:13] [Server thread/INFO]: Named entity bwx['Baby Cannibal'/32629, l='ServerLevel[world]', x=727.88, y=132.00, z=-977.82] died: Baby Cannibal was slain by Danielcf37 using [Gluttony]
