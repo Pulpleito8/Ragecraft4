@@ -357,3 +357,34 @@
 [18:38:38] [Server thread/INFO]: Named entity bxe['Cannibal'/11935, l='ServerLevel[world]', x=700.60, y=53.00, z=-979.51] died: Cannibal was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
 [18:38:43] [Server thread/INFO]: Named entity bxh['☆ Butcher ☆'/12815, l='ServerLevel[world]', x=693.55, y=54.00, z=-981.60] died: ☆ Butcher ☆ was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
 [18:38:54] [Server thread/INFO]: Named entity bwx['Baby Cannibal'/12747, l='ServerLevel[world]', x=692.33, y=54.00, z=-986.74] died: Baby Cannibal was killed whilst fighting Danielcf37
+[18:39:59] [Server thread/INFO]: Named entity bwx['Baby Cannibal'/13036, l='ServerLevel[world]', x=729.76, y=54.50, z=-944.56] died: Baby Cannibal was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[18:40:08] [Server thread/INFO]: Named entity bwx['Baby Cannibal'/13037, l='ServerLevel[world]', x=737.16, y=53.00, z=-944.27] died: Baby Cannibal was killed whilst fighting TioSkrollex
+[18:40:16] [Server thread/INFO]: Named entity bxe['Cannibal'/13106, l='ServerLevel[world]', x=743.66, y=53.00, z=-942.50] died: Cannibal was slain by Danielcf37 using [Phantom's Obsidian Spike of Evisceration]
+[18:40:18] [Server thread/INFO]: Named entity bxe['Cannibal'/13108, l='ServerLevel[world]', x=744.25, y=53.00, z=-943.95] died: Cannibal was slain by Danielcf37 using [Phantom's Obsidian Spike of Evisceration]
+[18:40:18] [Server thread/INFO]: Named entity bxe['Cannibal'/13104, l='ServerLevel[world]', x=743.29, y=53.00, z=-943.65] died: Cannibal was killed whilst fighting Danielcf37
+[18:40:34] [Server thread/INFO]: Danielcf37 was blown up by Rage Creeper
+[18:41:03] [Server thread/INFO]: Named entity bxe['Cannibal'/13359, l='ServerLevel[world]', x=741.48, y=53.00, z=-944.32] died: Cannibal was shot by TioSkrollex using [Harbinger of Pain]
+[18:41:07] [Server thread/INFO]: Named entity bvm['Bombardier'/13184, l='ServerLevel[world]', x=768.84, y=53.60, z=-943.90] died: Bombardier drowned
+[18:41:08] [Server thread/INFO]: Named entity bxe['Cannibal'/13361, l='ServerLevel[world]', x=733.32, y=54.00, z=-945.50] died: Cannibal was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[18:41:16] [Server thread/INFO]: Named entity bxe['Cannibal'/13340, l='ServerLevel[world]', x=757.52, y=51.00, z=-940.98] died: Cannibal drowned
+[18:41:18] [Server thread/INFO]: Named entity bxe['Cannibal'/13338, l='ServerLevel[world]', x=757.51, y=51.00, z=-936.71] died: Cannibal drowned
+[18:41:19] [Server thread/INFO]: Named entity bxe['Cannibal'/13363, l='ServerLevel[world]', x=757.60, y=51.00, z=-941.06] died: Cannibal drowned
+[18:41:35] [Server thread/INFO]: Named entity bvo['Rage Creeper'/13367, l='ServerLevel[world]', x=779.01, y=53.61, z=-942.07] died: Rage Creeper was shot by TioSkrollex using [Harbinger of Pain]
+[18:42:24] [Server thread/INFO]: Named entity bvo['Rage Creeper'/13612, l='ServerLevel[world]', x=774.61, y=53.72, z=-952.39] died: Rage Creeper was shot by TioSkrollex using [Harbinger of Pain]
+[18:43:04] [Server thread/INFO]: Named entity bvo['Rage Creeper'/13706, l='ServerLevel[world]', x=766.54, y=78.00, z=-944.28] died: Rage Creeper was shot by TioSkrollex using [Harbinger of Pain]
+[18:43:06] [Server thread/INFO]: Named entity bvo['Rage Creeper'/13705, l='ServerLevel[world]', x=766.48, y=78.00, z=-944.69] died: Rage Creeper was shot by TioSkrollex using [Harbinger of Pain]
+[18:43:13] [Server thread/INFO]: Named entity bxe['Cannibal'/13746, l='ServerLevel[world]', x=752.57, y=53.00, z=-965.49] died: Cannibal was killed whilst fighting Danielcf37
+[18:43:22] [Server thread/INFO]: Danielcf37 was slain by ☆ Butcher ☆
+[18:43:46] [Server thread/INFO]: Named entity bxe['Cannibal'/13969, l='ServerLevel[world]', x=768.41, y=90.00, z=-931.94] died: Cannibal was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[18:43:52] [Server thread/INFO]: Named entity bxe['Cannibal'/13971, l='ServerLevel[world]', x=767.63, y=90.00, z=-928.57] died: Cannibal was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[18:44:28] [Server thread/INFO]: Named entity bvo['Rage Creeper'/14078, l='ServerLevel[world]', x=766.21, y=85.00, z=-897.15] died: Rage Creeper was blown up by Rage Creeper
+[18:44:28] [Server thread/INFO]: Named entity bvm['Bombardier'/14101, l='ServerLevel[world]', x=766.60, y=87.55, z=-891.21] died: Bombardier was blown up by Rage Creeper
+[18:44:40] [Server thread/INFO]: Named entity bvm['Bombardier'/14229, l='ServerLevel[world]', x=754.70, y=57.20, z=-988.70] died: Bombardier was shot by Danielcf37 using [Watcher's Bow of Healing]
+[18:45:02] [Server thread/INFO]: Named entity bwx['Baby Cannibal'/14316, l='ServerLevel[world]', x=756.46, y=53.00, z=-979.52] died: Baby Cannibal was slain by Danielcf37 using [Prismarine Blade]
+[18:45:06] [Server thread/INFO]: Named entity bvo['Rage Creeper'/14230, l='ServerLevel[world]', x=741.04, y=54.94, z=-975.44] died: Rage Creeper was blown up by Rage Creeper
+[18:45:25] [Server thread/INFO]: Named entity bvm['Bombardier'/14344, l='ServerLevel[world]', x=752.42, y=54.83, z=-991.70] died: Bombardier was shot by Danielcf37 using [Watcher's Bow of Healing]
+[18:45:40] [Server thread/INFO]: Danielcf37 was blown up by Rage Creeper
+[18:48:30] [Server thread/INFO]: Named entity bvo['Rage Creeper'/14847, l='ServerLevel[world]', x=751.34, y=65.00, z=-888.43] died: Rage Creeper was killed whilst fighting TioSkrollex
+[18:48:53] [Server thread/INFO]: Named entity bvo['Rage Creeper'/14804, l='ServerLevel[world]', x=761.88, y=52.00, z=-887.52] died: Rage Creeper was shot by TioSkrollex using [Harbinger of Pain]
+[18:48:56] [Server thread/INFO]: Named entity bwn['Flamecrawler'/14881, l='ServerLevel[world]', x=761.37, y=52.42, z=-887.96] died: Flamecrawler was shot by TioSkrollex using [Harbinger of Pain]
+[18:49:18] [Server thread/INFO]: Named entity bvo['Rage Creeper'/14963, l='ServerLevel[world]', x=744.53, y=53.00, z=-886.59] died: Rage Creeper was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
