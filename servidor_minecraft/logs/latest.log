@@ -187,3 +187,47 @@
 [18:09:09] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
 [18:09:09] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
 [18:09:09] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[18:10:35] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[18:10:35] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[18:10:35] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[18:10:38] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[18:10:38] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[18:10:38] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[18:11:38] [Server thread/INFO]: Danielcf37 was shot by TioSkrollex using [Harbinger of Pain]
+[18:12:34] [Server thread/ERROR]: Display entityNot a string
+[18:12:34] [Server thread/ERROR]: Display entityNot a string
+[18:12:34] [Server thread/ERROR]: Display entityNot a string
+[18:12:47] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:21,cr_enchant:51,cr_rarity:0,cr_sword:1,cr_tier:2,display:{Lore:['{"text":"Common Prefix Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"d","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"3","color":"light_purple","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"2","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"Sword ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','{"text":"Sharpness IV","color":"#BEDCFA","bold":true,"italic":false}'],Name:'{"text":"Spiked Rune","color":"white","bold":true,"italic":false}'}}}
+[18:12:49] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:21,cr_enchant:51,cr_rarity:0,cr_sword:1,cr_tier:2,display:{Lore:['{"text":"Common Prefix Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"d","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"3","color":"light_purple","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"2","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"Sword ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','{"text":"Sharpness IV","color":"#BEDCFA","bold":true,"italic":false}'],Name:'{"text":"Spiked Rune","color":"white","bold":true,"italic":false}'}}}
+[18:12:51] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:21,cr_enchant:51,cr_rarity:0,cr_sword:1,cr_tier:2,display:{Lore:['{"text":"Common Prefix Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"d","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"3","color":"light_purple","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"2","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"Sword ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','{"text":"Sharpness IV","color":"#BEDCFA","bold":true,"italic":false}'],Name:'{"text":"Spiked Rune","color":"white","bold":true,"italic":false}'}}}
+[18:12:57] [Server thread/ERROR]: Display entityNot a string
+[18:14:09] [Server thread/ERROR]: Display entityNot a string
+[18:14:09] [Server thread/ERROR]: Display entityNot a string
+[18:14:09] [Server thread/ERROR]: Display entityNot a string
+[18:14:12] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[18:14:12] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[18:14:12] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[18:14:28] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[18:14:28] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[18:14:28] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[18:14:28] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[18:14:28] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[18:14:28] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[18:14:31] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[18:14:31] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[18:14:31] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[18:14:45] [Server thread/INFO]: Named entity bxe['Piglin Bandit'/6413, l='ServerLevel[world]', x=632.60, y=64.00, z=-999.61] died: Piglin Bandit was blown up by Rage Creeper
+[18:14:59] [Server thread/INFO]: Named entity bvo['Rage Creeper'/6209, l='ServerLevel[world]', x=609.19, y=61.00, z=-974.50] died: Rage Creeper was shot by TioSkrollex using [Harbinger of Pain]
+[18:15:27] [Server thread/INFO]: Named entity bvm['Bombardier'/6391, l='ServerLevel[world]', x=640.70, y=62.37, z=-984.30] died: Bombardier was shot by TioSkrollex using [Harbinger of Pain]
+[18:15:53] [Server thread/INFO]: Named entity bxe['Cannibal'/6654, l='ServerLevel[world]', x=636.12, y=69.54, z=-1011.61] died: Cannibal was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[18:16:03] [Server thread/INFO]: Named entity bwn['Flamecrawler'/6414, l='ServerLevel[world]', x=648.46, y=75.00, z=-1009.36] died: Flamecrawler was killed whilst fighting TioSkrollex
+[18:16:36] [Server thread/INFO]: Named entity bwn['Nightmare'/6808, l='ServerLevel[world]', x=668.50, y=76.00, z=-1114.50] died: Nightmare suffocated in a wall
+[18:17:05] [Server thread/INFO]: Named entity bxe['Cannibal'/6836, l='ServerLevel[world]', x=681.70, y=75.40, z=-1010.70] died: Cannibal was burnt to a crisp whilst fighting Danielcf37
+[18:17:20] [Server thread/INFO]: Named entity bxe['Cannibal'/7002, l='ServerLevel[world]', x=678.08, y=75.00, z=-1006.50] died: Cannibal was blown up by Rage Creeper
+[18:17:20] [Server thread/INFO]: Named entity bxe['Cannibal'/7004, l='ServerLevel[world]', x=679.14, y=75.00, z=-1007.44] died: Cannibal was blown up by Rage Creeper
+[18:17:21] [Server thread/INFO]: Named entity bxh['☆ Butcher ☆'/6909, l='ServerLevel[world]', x=662.66, y=74.39, z=-1003.84] died: ☆ Butcher ☆ was killed whilst fighting Danielcf37
+[18:17:32] [Server thread/INFO]: Named entity bxe['Cannibal'/7006, l='ServerLevel[world]', x=662.98, y=74.39, z=-1003.69] died: Cannibal was slain by Danielcf37 using [Colossus]
+[18:17:33] [Server thread/INFO]: Named entity bxe['Cannibal'/6746, l='ServerLevel[world]', x=650.53, y=75.00, z=-994.47] died: Cannibal was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[18:17:49] [Server thread/INFO]: Danielcf37 was slain by Piglin
+[18:18:08] [Server thread/INFO]: Named entity bxe['Cannibal'/6744, l='ServerLevel[world]', x=654.10, y=75.00, z=-1004.92] died: Cannibal was shot by TioSkrollex using [Harbinger of Pain]
+[18:18:57] [Server thread/INFO]: Named entity bxh['☆ Butcher ☆'/7358, l='ServerLevel[world]', x=633.49, y=68.94, z=-1010.96] died: ☆ Butcher ☆ was killed whilst fighting TioSkrollex
