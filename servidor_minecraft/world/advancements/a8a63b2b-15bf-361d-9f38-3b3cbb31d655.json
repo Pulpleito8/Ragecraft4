@@ -1,0 +1,15 @@
+{
+  "chests:explain_refill": {
+    "criteria": {
+      "requirement": "2024-11-24 17:37:57 +0000"
+    },
+    "done": true
+  },
+  "skills:rangedkill_x": {
+    "criteria": {
+      "requirement": "2024-11-24 17:46:10 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
