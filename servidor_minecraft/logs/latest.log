@@ -54,3 +54,18 @@
 [15:56:30] [Server thread/INFO]: Named entity bwk['Undead Swordmaster'/957, l='ServerLevel[world]', x=421.44, y=60.00, z=-696.54] died: Undead Swordmaster was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
 [15:56:31] [Server thread/INFO]: Named entity bwk['Undead Swordmaster'/958, l='ServerLevel[world]', x=424.76, y=60.00, z=-698.69] died: Undead Swordmaster was burnt to a crisp whilst fighting TioSkrollex
 [15:56:34] [Server thread/INFO]: Named entity bwt['Undead Sensei'/959, l='ServerLevel[world]', x=423.20, y=60.00, z=-696.90] died: Undead Sensei was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[15:57:15] [Server thread/INFO]: Named entity bwk['Undead Swordmaster'/1036, l='ServerLevel[world]', x=423.56, y=68.00, z=-639.38] died: Undead Swordmaster was killed whilst fighting TioSkrollex
+[15:57:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20549ms or 410 ticks behind
+[15:57:36] [Server thread/WARN]: TioSkrollex moved too quickly! 4.146031982441116,0.0,9.319677596777296
+[15:57:36] [Server thread/WARN]: Danielcf37 moved too quickly! -3.98091465816724,0.0,9.43409324124184
+[15:57:42] [Server thread/INFO]: Named entity bwt['Undead Sensei'/1038, l='ServerLevel[world]', x=422.60, y=68.00, z=-637.36] died: Undead Sensei was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[15:58:10] [Server thread/INFO]: Named entity bwk['Undead Swordmaster'/1103, l='ServerLevel[world]', x=407.48, y=107.00, z=-677.79] died: Undead Swordmaster was killed whilst fighting TioSkrollex
+[15:58:12] [Server thread/INFO]: Named entity bwk['Undead Swordmaster'/1102, l='ServerLevel[world]', x=408.85, y=107.00, z=-677.43] died: Undead Swordmaster was burnt to a crisp whilst fighting TioSkrollex
+[15:58:15] [Server thread/INFO]: Named entity bwt['Undead Sensei'/1104, l='ServerLevel[world]', x=408.45, y=107.00, z=-679.97] died: Undead Sensei was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[15:59:56] [Server thread/INFO]: Named entity bwk['Undead Swordmaster'/1226, l='ServerLevel[world]', x=417.26, y=113.00, z=-605.05] died: Undead Swordmaster was killed whilst fighting TioSkrollex
+[15:59:57] [Server thread/INFO]: Named entity bwk['Undead Swordmaster'/1227, l='ServerLevel[world]', x=416.67, y=113.00, z=-607.66] died: Undead Swordmaster was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[15:59:58] [Server thread/INFO]: Named entity bwk['Undead Swordmaster'/1228, l='ServerLevel[world]', x=417.31, y=113.00, z=-606.25] died: Undead Swordmaster was burnt to a crisp whilst fighting TioSkrollex
+[15:59:58] [Server thread/INFO]: Named entity bwk['Undead Swordmaster'/1229, l='ServerLevel[world]', x=416.90, y=113.00, z=-607.03] died: Undead Swordmaster was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[16:00:05] [Server thread/INFO]: Named entity bwt['Undead Sensei'/1230, l='ServerLevel[world]', x=415.18, y=113.00, z=-611.60] died: Undead Sensei was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[16:00:39] [Server thread/INFO]: [@: Executed 4 command(s) from function 'boss:ninja_area/tp_back_at_end']
+[16:08:00] [Server thread/INFO]: Named entity bvo['Rage Creeper'/2295, l='ServerLevel[world]', x=512.60, y=78.00, z=-782.16] died: Rage Creeper was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
