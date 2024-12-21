@@ -624,3 +624,61 @@
 [20:00:57] [Server thread/INFO]: Named entity bvo['Rage Creeper'/27899, l='ServerLevel[world]', x=656.20, y=111.02, z=-941.45] died: Rage Creeper was shot by Danielcf37 using [Watcher's Bow of Healing]
 [20:01:09] [Server thread/INFO]: Named entity bwk['Leftovers'/27213, l='ServerLevel[world]', x=660.32, y=111.50, z=-941.61] died: Leftovers was killed
 [20:01:10] [Server thread/INFO]: Named entity bvo['Rage Creeper'/27525, l='ServerLevel[world]', x=665.39, y=111.00, z=-950.50] died: Rage Creeper was blown up by Rage Creeper
+[20:01:17] [Server thread/INFO]: Named entity bwk['Leftovers'/27320, l='ServerLevel[world]', x=660.30, y=111.64, z=-953.61] died: Leftovers was killed whilst fighting TioSkrollex
+[20:01:17] [Server thread/INFO]: Named entity bvo['Rage Creeper'/27843, l='ServerLevel[world]', x=659.86, y=112.64, z=-950.70] died: Rage Creeper was killed whilst fighting TioSkrollex
+[20:01:17] [Server thread/INFO]: Named entity bwk['Leftovers'/27430, l='ServerLevel[world]', x=660.70, y=111.00, z=-954.48] died: Leftovers was killed whilst fighting TioSkrollex
+[20:01:18] [Server thread/INFO]: Named entity bvo['Rage Creeper'/27526, l='ServerLevel[world]', x=655.53, y=102.00, z=-951.35] died: Rage Creeper was doomed to fall by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[20:01:18] [Server thread/INFO]: Named entity bvo['Rage Creeper'/27969, l='ServerLevel[world]', x=654.26, y=103.00, z=-951.30] died: Rage Creeper was doomed to fall by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[20:01:26] [Server thread/INFO]: Named entity bvo['Rage Creeper'/27898, l='ServerLevel[world]', x=656.71, y=110.94, z=-941.62] died: Rage Creeper was slain by Danielcf37 using [Smoldering Labrys of Combustion]
+[20:01:30] [Server thread/INFO]: Named entity bvo['Rage Creeper'/27829, l='ServerLevel[world]', x=663.50, y=111.17, z=-952.28] died: Rage Creeper was burnt to a crisp whilst fighting Danielcf37
+[20:01:36] [Server thread/INFO]: Named entity bvo['Rage Creeper'/27968, l='ServerLevel[world]', x=660.30, y=111.00, z=-949.30] died: Rage Creeper was slain by Danielcf37 using [Smoldering Labrys of Combustion]
+[20:01:41] [Server thread/INFO]: Named entity bwk['Leftovers'/27827, l='ServerLevel[world]', x=660.88, y=111.00, z=-952.87] died: Leftovers was killed whilst fighting Danielcf37
+[20:01:53] [Server thread/INFO]: Named entity bvo['Rage Creeper'/27966, l='ServerLevel[world]', x=672.97, y=111.00, z=-951.97] died: Rage Creeper was slain by Danielcf37 using [Smoldering Labrys of Combustion]
+[20:01:53] [Server thread/INFO]: Named entity bvo['Rage Creeper'/27876, l='ServerLevel[world]', x=674.30, y=112.00, z=-942.16] died: Rage Creeper was burnt to a crisp whilst fighting Danielcf37
+[20:01:55] [Server thread/INFO]: Named entity bxe['Cannibal'/27308, l='ServerLevel[world]', x=658.69, y=117.00, z=-941.69] died: Cannibal was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[20:01:55] [Server thread/INFO]: Named entity bvo['Rage Creeper'/27818, l='ServerLevel[world]', x=667.65, y=111.00, z=-952.78] died: Rage Creeper was blown up by Rage Creeper
+[20:01:56] [Server thread/INFO]: TioSkrollex was blown up by Rage Creeper
+[20:02:22] [Server thread/INFO]: TioSkrollex was blown up by Rage Creeper
+[20:03:09] [Server thread/INFO]: Named entity bwk['Leftovers'/27811, l='ServerLevel[world]', x=676.46, y=112.09, z=-953.36] died: Leftovers was killed whilst fighting Danielcf37
+[20:03:17] [Server thread/INFO]: Named entity bwk['Leftovers'/28490, l='ServerLevel[world]', x=666.73, y=111.00, z=-955.73] died: Leftovers was killed whilst fighting Danielcf37
+[20:03:31] [Server thread/INFO]: Named entity bwk['Leftovers'/28472, l='ServerLevel[world]', x=665.19, y=117.00, z=-948.57] died: Leftovers was killed whilst fighting Danielcf37
+[20:03:31] [Server thread/INFO]: Named entity bwk['Leftovers'/28597, l='ServerLevel[world]', x=664.33, y=117.36, z=-948.50] died: Leftovers was killed whilst fighting Danielcf37
+[20:03:48] [Server thread/INFO]: Named entity bxe['Cannibal'/28631, l='ServerLevel[world]', x=662.64, y=110.45, z=-949.87] died: Cannibal was burnt to a crisp whilst fighting Danielcf37
+[20:04:05] [Server thread/INFO]: Named entity bwk['Leftovers'/28477, l='ServerLevel[world]', x=668.30, y=118.00, z=-961.94] died: Leftovers was killed whilst fighting Danielcf37
+[20:04:08] [Server thread/INFO]: Named entity bvo['Rage Creeper'/27981, l='ServerLevel[world]', x=668.41, y=117.00, z=-967.70] died: Rage Creeper was shot by Danielcf37 using [Watcher's Bow of Healing]
+[20:04:28] [Server thread/INFO]: Named entity bwx['Baby Cannibal'/28778, l='ServerLevel[world]', x=665.36, y=117.00, z=-971.36] died: Baby Cannibal was slain by Danielcf37 using [Smoldering Labrys of Combustion]
+[20:04:30] [Server thread/INFO]: Named entity bwx['Baby Cannibal'/28780, l='ServerLevel[world]', x=661.01, y=117.00, z=-970.50] died: Baby Cannibal was slain by Danielcf37 using [Smoldering Labrys of Combustion]
+[20:04:37] [Server thread/INFO]: Named entity bwk['Leftovers'/28388, l='ServerLevel[world]', x=689.80, y=111.79, z=-959.14] died: Leftovers was killed
+[20:04:37] [Server thread/INFO]: Named entity bwk['Leftovers'/28796, l='ServerLevel[world]', x=688.99, y=111.44, z=-962.22] died: Leftovers was killed
+[20:04:53] [Server thread/INFO]: Named entity bwk['Leftovers'/28710, l='ServerLevel[world]', x=664.56, y=117.00, z=-947.85] died: Leftovers was killed whilst fighting TioSkrollex
+[20:05:12] [Server thread/INFO]: Named entity bvm['Bombardier'/28811, l='ServerLevel[world]', x=698.10, y=117.67, z=-953.13] died: Bombardier was shot by Danielcf37 using [Watcher's Bow of Healing]
+[20:05:21] [Server thread/INFO]: Named entity bwk['Leftovers'/28466, l='ServerLevel[world]', x=662.93, y=112.16, z=-945.48] died: Leftovers was killed whilst fighting TioSkrollex
+[20:05:39] [Server thread/INFO]: Named entity bxe['Cannibal'/29023, l='ServerLevel[world]', x=684.47, y=112.25, z=-961.76] died: Cannibal was burnt to a crisp whilst fighting Danielcf37
+[20:05:55] [Server thread/INFO]: Named entity bwx['Baby Cannibal'/28810, l='ServerLevel[world]', x=660.72, y=110.23, z=-969.71] died: Baby Cannibal was blown up by Rage Creeper
+[20:05:55] [Server thread/INFO]: Named entity bwk['Leftovers'/28272, l='ServerLevel[world]', x=661.53, y=111.00, z=-970.51] died: Leftovers was killed whilst fighting Rage Creeper
+[20:05:58] [Server thread/INFO]: Named entity bwx['Baby Cannibal'/28779, l='ServerLevel[world]', x=651.31, y=75.00, z=-1006.57] died: Baby Cannibal was doomed to fall by Rage Creeper
+[20:06:08] [Server thread/INFO]: Named entity bxe['Cannibal'/28635, l='ServerLevel[world]', x=658.64, y=102.00, z=-951.53] died: Cannibal was doomed to fall
+[20:06:29] [Server thread/INFO]: Named entity bwx['Baby Cannibal'/29049, l='ServerLevel[world]', x=675.85, y=111.00, z=-942.86] died: Baby Cannibal was slain by Danielcf37 using [Smoldering Labrys of Combustion]
+[20:06:30] [Server thread/INFO]: Named entity bwx['Baby Cannibal'/28809, l='ServerLevel[world]', x=675.28, y=111.00, z=-943.34] died: Baby Cannibal was slain by Danielcf37 using [Smoldering Labrys of Combustion]
+[20:06:31] [Server thread/INFO]: Named entity bwx['Baby Cannibal'/29048, l='ServerLevel[world]', x=674.03, y=111.00, z=-943.90] died: Baby Cannibal was slain by Danielcf37 using [Smoldering Labrys of Combustion]
+[20:06:46] [Server thread/INFO]: Named entity bxh['☆ Butcher ☆'/28821, l='ServerLevel[world]', x=672.32, y=111.00, z=-947.80] died: ☆ Butcher ☆ was killed whilst fighting TioSkrollex
+[20:06:48] [Server thread/INFO]: Named entity bxh['☆ Butcher ☆'/8354, l='ServerLevel[world]', x=675.25, y=111.00, z=-942.63] died: ☆ Butcher ☆ was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[20:06:51] [Server thread/INFO]: Named entity bwx['Baby Cannibal'/28993, l='ServerLevel[world]', x=665.83, y=111.00, z=-951.60] died: Baby Cannibal was doomed to fall by Danielcf37 using [Smoldering Labrys of Combustion]
+[20:07:05] [Server thread/INFO]: Named entity bxe['Cannibal'/29554, l='ServerLevel[world]', x=699.02, y=111.00, z=-953.79] died: Cannibal was slain by Danielcf37 using [Smoldering Labrys of Combustion]
+[20:07:09] [Server thread/INFO]: Named entity bvo['Rage Creeper'/29218, l='ServerLevel[world]', x=701.41, y=111.00, z=-934.70] died: Rage Creeper was slain by Danielcf37 using [Smoldering Labrys of Combustion]
+[20:07:45] [Server thread/INFO]: Named entity bvo['Rage Creeper'/29139, l='ServerLevel[world]', x=703.69, y=117.00, z=-967.88] died: Rage Creeper was killed whilst fighting TioSkrollex
+[20:08:05] [Server thread/INFO]: Named entity bwx['Baby Cannibal'/29703, l='ServerLevel[world]', x=714.81, y=117.00, z=-969.92] died: Baby Cannibal was shot by TioSkrollex using [Harbinger of Pain]
+[20:08:09] [Server thread/INFO]: Named entity bwx['Baby Cannibal'/29702, l='ServerLevel[world]', x=703.88, y=117.00, z=-969.59] died: Baby Cannibal was blown up by Rage Creeper
+[20:08:47] [Server thread/INFO]: Named entity bvo['Rage Creeper'/29759, l='ServerLevel[world]', x=677.74, y=128.40, z=-967.47] died: Rage Creeper was shot by Danielcf37 using [Watcher's Bow of Healing]
+[20:08:48] [Server thread/INFO]: Named entity bwk['Leftovers'/29534, l='ServerLevel[world]', x=677.82, y=127.80, z=-968.26] died: Leftovers was killed whilst fighting Danielcf37
+[20:09:04] [Server thread/INFO]: Named entity bxe['Cannibal'/28862, l='ServerLevel[world]', x=680.49, y=128.00, z=-976.59] died: Cannibal was slain by Danielcf37 using [Smoldering Labrys of Combustion]
+[20:09:19] [Server thread/INFO]: Named entity bxe['Cannibal'/29584, l='ServerLevel[world]', x=682.66, y=111.00, z=-947.21] died: Cannibal was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[20:09:26] [Server thread/WARN]: UUID of added entity already exists: buy['Glow Item Frame'/29966, l='ServerLevel[world]', x=-53.50, y=171.03, z=283.50]
+[20:09:29] [Server thread/INFO]: Named entity bvo['Rage Creeper'/29859, l='ServerLevel[world]', x=671.39, y=111.00, z=-951.37] died: Rage Creeper was blown up by Rage Creeper
+[20:09:35] [Server thread/INFO]: Named entity bwk['Leftovers'/29824, l='ServerLevel[world]', x=663.87, y=111.00, z=-951.52] died: Leftovers was killed
+[20:09:52] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[20:09:52] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[20:09:52] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[20:09:57] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[20:09:57] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[20:09:57] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
