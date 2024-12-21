@@ -221,9 +221,15 @@
     },
     "done": true
   },
-  "skills:bow_drawtime": {
+  "skills:witherkill_melee": {
     "criteria": {
-      "requirement": "2024-12-21 19:49:10 +0000"
+      "requirement": "2024-12-21 19:58:10 +0000"
+    },
+    "done": true
+  },
+  "challenges:explorer/aspirant": {
+    "criteria": {
+      "requirement": "2024-12-21 19:55:26 +0000"
     },
     "done": true
   },

@@ -564,3 +564,63 @@
 [19:50:29] [Server thread/INFO]: [@: Executed 20 command(s) from function 'events:riddle_3/button_1']
 [19:50:32] [Server thread/INFO]: [@: Executed 32 command(s) from function 'events:riddle_3/button_5']
 [19:50:35] [Server thread/INFO]: [@: Executed 20 command(s) from function 'events:riddle_3/button_1']
+[19:51:03] [Server thread/INFO]: [@: Executed 44 command(s) from function 'events:riddle_3/button_4']
+[19:51:06] [Server thread/INFO]: [@: Executed 23 command(s) from function 'events:riddle_3/button_2']
+[19:51:10] [Server thread/INFO]: [@: Executed 32 command(s) from function 'events:riddle_3/button_5']
+[19:51:14] [Server thread/INFO]: [@: Executed 29 command(s) from function 'events:riddle_3/button_6']
+[19:51:20] [Server thread/INFO]: [@: Executed 23 command(s) from function 'events:riddle_3/button_2']
+[19:51:21] [Server thread/INFO]: [@: Executed 44 command(s) from function 'events:riddle_3/button_4']
+[19:51:23] [Server thread/INFO]: [@: Executed 20 command(s) from function 'events:riddle_3/button_1']
+[19:51:26] [Server thread/INFO]: [@: Executed 29 command(s) from function 'events:riddle_3/button_6']
+[19:51:28] [Server thread/INFO]: [@: Executed 32 command(s) from function 'events:riddle_3/button_5']
+[19:51:31] [Server thread/INFO]: [@: Executed 44 command(s) from function 'events:riddle_3/button_4']
+[19:51:35] [Server thread/INFO]: [@: Executed 20 command(s) from function 'events:riddle_3/button_1']
+[19:51:38] [Server thread/INFO]: [@: Executed 29 command(s) from function 'events:riddle_3/button_6']
+[19:51:41] [Server thread/INFO]: [@: Executed 44 command(s) from function 'events:riddle_3/button_4']
+[19:51:43] [Server thread/INFO]: [@: Executed 53 command(s) from function 'events:riddle_3/button_3']
+[19:51:46] [Server thread/INFO]: [@: Executed 23 command(s) from function 'events:riddle_3/button_2']
+[19:51:58] [Server thread/INFO]: [@: Executed 32 command(s) from function 'events:riddle_3/button_5']
+[19:52:02] [Server thread/INFO]: [@: Executed 23 command(s) from function 'events:riddle_3/button_2']
+[19:52:11] [Server thread/INFO]: [@: Executed 23 command(s) from function 'events:riddle_3/button_2']
+[19:52:13] [Server thread/INFO]: [@: Executed 20 command(s) from function 'events:riddle_3/button_1']
+[19:52:15] [Server thread/INFO]: [@: Executed 53 command(s) from function 'events:riddle_3/button_3']
+[19:52:17] [Server thread/INFO]: [@: Executed 32 command(s) from function 'events:riddle_3/button_5']
+[19:52:19] [Server thread/INFO]: [@: Executed 44 command(s) from function 'events:riddle_3/button_4']
+[19:52:22] [Server thread/INFO]: [@: Executed 44 command(s) from function 'events:riddle_3/button_4']
+[19:52:23] [Server thread/INFO]: [@: Executed 32 command(s) from function 'events:riddle_3/button_5']
+[19:52:25] [Server thread/INFO]: [@: Executed 29 command(s) from function 'events:riddle_3/button_6']
+[19:52:27] [Server thread/INFO]: [@: Executed 32 command(s) from function 'events:riddle_3/button_5']
+[19:52:29] [Server thread/INFO]: [@: Executed 5 command(s) from function 'events:riddle_3/reset']
+[19:52:35] [Server thread/INFO]: [@: Executed 44 command(s) from function 'events:riddle_3/button_4']
+[19:52:43] [Server thread/INFO]: [@: Executed 5 command(s) from function 'events:riddle_3/reset']
+[19:52:44] [Server thread/INFO]: [@: Executed 20 command(s) from function 'events:riddle_3/button_1']
+[19:53:02] [Server thread/INFO]: [@: Executed 29 command(s) from function 'events:riddle_3/button_6']
+[19:53:06] [Server thread/INFO]: [@: Executed 5 command(s) from function 'events:riddle_3/reset']
+[19:54:28] [Server thread/INFO]: [@: Executed 5 command(s) from function 'events:riddle_3/reset']
+[19:54:36] [Server thread/INFO]: [@: Executed 32 command(s) from function 'events:riddle_3/button_5']
+[19:54:48] [Server thread/INFO]: [@: Executed 29 command(s) from function 'events:riddle_3/button_6']
+[19:54:53] [Server thread/INFO]: [@: Executed 5 command(s) from function 'events:riddle_3/reset']
+[19:54:55] [Server thread/INFO]: [@: Executed 20 command(s) from function 'events:riddle_3/button_1']
+[19:54:58] [Server thread/INFO]: [@: Executed 23 command(s) from function 'events:riddle_3/button_2']
+[19:55:01] [Server thread/INFO]: [@: Executed 53 command(s) from function 'events:riddle_3/button_3']
+[19:55:04] [Server thread/INFO]: [@: Executed 32 command(s) from function 'events:riddle_3/button_5']
+[19:55:07] [Server thread/INFO]: [@: Executed 29 command(s) from function 'events:riddle_3/button_6']
+[19:55:14] [Server thread/INFO]: [@: Executed 32 command(s) from function 'events:riddle_3/button_5']
+[19:55:18] [Server thread/INFO]: [@: Executed 44 command(s) from function 'events:riddle_3/button_4']
+[19:55:26] [Server thread/INFO]: [@: Executed 40 command(s) from function 'events:riddle_3/open_door_try']
+[19:55:26] [Server thread/INFO]: Danielcf37 has completed the challenge [Aspirant]
+[19:55:26] [Server thread/INFO]: TioSkrollex has completed the challenge [Aspirant]
+[19:57:38] [Server thread/INFO]: Named entity bwk['Leftovers'/27040, l='ServerLevel[world]', x=681.60, y=97.00, z=-938.65] died: Leftovers was killed whilst fighting TioSkrollex
+[19:58:05] [Server thread/INFO]: Named entity bvo['Rage Creeper'/27120, l='ServerLevel[world]', x=645.51, y=83.00, z=-958.56] died: Rage Creeper was killed whilst fighting Danielcf37
+[19:58:06] [Server thread/INFO]: Named entity bxe['Cannibal'/27265, l='ServerLevel[world]', x=646.64, y=93.03, z=-953.13] died: Cannibal was killed whilst fighting TioSkrollex
+[19:58:10] [Server thread/INFO]: Named entity bwk['Leftovers'/27296, l='ServerLevel[world]', x=646.49, y=92.57, z=-953.89] died: Leftovers was killed whilst fighting Danielcf37
+[19:58:21] [Server thread/INFO]: Named entity bxe['Cannibal'/27261, l='ServerLevel[world]', x=646.56, y=92.53, z=-953.08] died: Cannibal was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[19:58:23] [Server thread/INFO]: Named entity bxe['Cannibal'/27415, l='ServerLevel[world]', x=646.49, y=92.26, z=-954.70] died: Cannibal was burnt to a crisp whilst fighting TioSkrollex
+[19:58:31] [Server thread/INFO]: Named entity bvo['Rage Creeper'/27464, l='ServerLevel[world]', x=659.16, y=75.50, z=-948.83] died: Rage Creeper fell from a high place
+[19:58:31] [Server thread/INFO]: Named entity bvo['Rage Creeper'/27465, l='ServerLevel[world]', x=660.01, y=75.50, z=-948.66] died: Rage Creeper fell from a high place
+[19:59:36] [Server thread/INFO]: TioSkrollex was blown up by Rage Creeper
+[19:59:37] [Server thread/INFO]: Named entity bwk['Leftovers'/27133, l='ServerLevel[world]', x=655.70, y=75.00, z=-936.36] died: Leftovers was killed whilst fighting TioSkrollex
+[19:59:50] [Server thread/INFO]: Named entity bvo['Rage Creeper'/27789, l='ServerLevel[world]', x=667.77, y=75.31, z=-940.30] died: Rage Creeper fell from a high place
+[20:00:57] [Server thread/INFO]: Named entity bvo['Rage Creeper'/27899, l='ServerLevel[world]', x=656.20, y=111.02, z=-941.45] died: Rage Creeper was shot by Danielcf37 using [Watcher's Bow of Healing]
+[20:01:09] [Server thread/INFO]: Named entity bwk['Leftovers'/27213, l='ServerLevel[world]', x=660.32, y=111.50, z=-941.61] died: Leftovers was killed
+[20:01:10] [Server thread/INFO]: Named entity bvo['Rage Creeper'/27525, l='ServerLevel[world]', x=665.39, y=111.00, z=-950.50] died: Rage Creeper was blown up by Rage Creeper

@@ -203,5 +203,11 @@
     },
     "done": true
   },
+  "challenges:explorer/aspirant": {
+    "criteria": {
+      "requirement": "2024-12-21 19:55:26 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
