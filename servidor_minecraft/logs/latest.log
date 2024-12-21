@@ -1,112 +1,88 @@
-[15:46:47] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[15:46:49] [ServerMain/INFO]: Loaded 7 recipes
-[15:46:49] [ServerMain/INFO]: Loaded 1633 advancements
-[15:46:50] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[15:46:50] [Server thread/INFO]: Loading properties
-[15:46:50] [Server thread/INFO]: Default game type: SURVIVAL
-[15:46:50] [Server thread/INFO]: Generating keypair
-[15:46:50] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:46:50] [Server thread/INFO]: Using epoll channel type
-[15:46:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:46:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[15:46:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15:46:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:46:50] [Server thread/INFO]: Preparing level "world"
-[15:46:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:46:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[15:46:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[15:46:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[15:46:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[15:46:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:46:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[15:46:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[15:46:54] [Worker-Main-2/INFO]: Preparing spawn area: 4%
-[15:46:55] [Worker-Main-2/INFO]: Preparing spawn area: 72%
-[15:46:55] [Server thread/INFO]: Time elapsed: 4685 ms
-[15:46:55] [Server thread/INFO]: Done (4.850s)! For help, type "help"
-[15:46:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2775ms or 55 ticks behind
-[15:46:58] [Server thread/WARN]: UUID of added entity already exists: bxe['Piglin'/39, l='ServerLevel[world]', x=659.50, y=5.00, z=508.50]
-[15:46:58] [Server thread/WARN]: UUID of added entity already exists: bga['Marker'/52, l='ServerLevel[world]', x=29999999.50, y=100.00, z=27115050.50]
-[15:47:00] [Server thread/INFO]: Danielcf37[/127.133.49.52:44531] logged in with entity id 61 at (421.4385343276411, 76.875, -750.6178824394494)
-[15:47:00] [Server thread/INFO]: Danielcf37 joined the game
-[15:47:51] [Server thread/INFO]: TioSkrollex[/127.54.56.198:52891] logged in with entity id 142 at (406.30000001192093, 75.69499999284744, -742.0251060022317)
-[15:47:51] [Server thread/INFO]: TioSkrollex joined the game
-[15:48:47] [Server thread/INFO]: Named entity bwk['Undead Swordmaster'/205, l='ServerLevel[world]', x=424.35, y=60.00, z=-692.06] died: Undead Swordmaster was killed whilst fighting TioSkrollex
-[15:49:08] [Server thread/WARN]: TioSkrollex moved wrongly!
-[15:51:11] [Server thread/INFO]: Named entity bwk['Undead Swordmaster'/204, l='ServerLevel[world]', x=424.90, y=60.00, z=-694.07] died: Undead Swordmaster was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
-[15:51:12] [Server thread/INFO]: Named entity bwk['Undead Swordmaster'/407, l='ServerLevel[world]', x=426.16, y=60.00, z=-694.82] died: Undead Swordmaster was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
-[15:51:12] [Server thread/INFO]: Named entity bwt['Undead Sensei'/206, l='ServerLevel[world]', x=424.02, y=60.00, z=-696.98] died: Undead Sensei was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
-[15:51:13] [Server thread/INFO]: Named entity bwk['Undead Swordmaster'/406, l='ServerLevel[world]', x=427.44, y=60.00, z=-694.75] died: Undead Swordmaster was burnt to a crisp whilst fighting TioSkrollex
-[15:51:20] [Server thread/INFO]: Named entity bwt['Undead Sensei'/408, l='ServerLevel[world]', x=432.34, y=60.00, z=-694.84] died: Undead Sensei was killed whilst fighting Danielcf37
-[15:52:16] [Server thread/INFO]: Named entity bwk['Undead Swordmaster'/464, l='ServerLevel[world]', x=420.75, y=68.00, z=-631.31] died: Undead Swordmaster was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
-[15:52:21] [Server thread/INFO]: Named entity bwk['Undead Swordmaster'/465, l='ServerLevel[world]', x=424.49, y=68.00, z=-632.84] died: Undead Swordmaster was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
-[15:52:27] [Server thread/INFO]: Named entity bwt['Undead Sensei'/466, l='ServerLevel[world]', x=422.94, y=68.00, z=-635.93] died: Undead Sensei was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
-[15:53:05] [Server thread/INFO]: Named entity bwk['Undead Swordmaster'/547, l='ServerLevel[world]', x=425.04, y=60.00, z=-697.37] died: Undead Swordmaster was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
-[15:53:05] [Server thread/INFO]: Named entity bwk['Undead Swordmaster'/548, l='ServerLevel[world]', x=423.97, y=60.00, z=-696.47] died: Undead Swordmaster was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
-[15:53:08] [Server thread/INFO]: Named entity bwt['Undead Sensei'/549, l='ServerLevel[world]', x=422.17, y=60.00, z=-698.78] died: Undead Sensei was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
-[15:53:39] [Server thread/WARN]: UUID of added entity already exists: buy['Glow Item Frame'/640, l='ServerLevel[world]', x=-53.50, y=171.03, z=283.50]
-[15:53:57] [Server thread/INFO]: Named entity bwk['Undead Swordmaster'/733, l='ServerLevel[world]', x=429.26, y=68.00, z=-639.19] died: Undead Swordmaster was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
-[15:54:00] [Server thread/INFO]: Named entity bwk['Undead Swordmaster'/732, l='ServerLevel[world]', x=426.60, y=68.00, z=-635.24] died: Undead Swordmaster was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
-[15:54:05] [Server thread/INFO]: Named entity bwt['Undead Sensei'/734, l='ServerLevel[world]', x=429.25, y=68.00, z=-636.48] died: Undead Sensei was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
-[15:54:41] [Server thread/INFO]: Named entity bwk['Undead Swordmaster'/802, l='ServerLevel[world]', x=404.15, y=107.00, z=-676.85] died: Undead Swordmaster was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
-[15:54:47] [Server thread/INFO]: Named entity bwk['Undead Swordmaster'/801, l='ServerLevel[world]', x=400.71, y=107.00, z=-679.64] died: Undead Swordmaster was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
-[15:54:49] [Server thread/INFO]: Named entity bwt['Undead Sensei'/803, l='ServerLevel[world]', x=404.51, y=107.00, z=-678.59] died: Undead Sensei was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
-[15:56:30] [Server thread/INFO]: Named entity bwk['Undead Swordmaster'/957, l='ServerLevel[world]', x=421.44, y=60.00, z=-696.54] died: Undead Swordmaster was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
-[15:56:31] [Server thread/INFO]: Named entity bwk['Undead Swordmaster'/958, l='ServerLevel[world]', x=424.76, y=60.00, z=-698.69] died: Undead Swordmaster was burnt to a crisp whilst fighting TioSkrollex
-[15:56:34] [Server thread/INFO]: Named entity bwt['Undead Sensei'/959, l='ServerLevel[world]', x=423.20, y=60.00, z=-696.90] died: Undead Sensei was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
-[15:57:15] [Server thread/INFO]: Named entity bwk['Undead Swordmaster'/1036, l='ServerLevel[world]', x=423.56, y=68.00, z=-639.38] died: Undead Swordmaster was killed whilst fighting TioSkrollex
-[15:57:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20549ms or 410 ticks behind
-[15:57:36] [Server thread/WARN]: TioSkrollex moved too quickly! 4.146031982441116,0.0,9.319677596777296
-[15:57:36] [Server thread/WARN]: Danielcf37 moved too quickly! -3.98091465816724,0.0,9.43409324124184
-[15:57:42] [Server thread/INFO]: Named entity bwt['Undead Sensei'/1038, l='ServerLevel[world]', x=422.60, y=68.00, z=-637.36] died: Undead Sensei was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
-[15:58:10] [Server thread/INFO]: Named entity bwk['Undead Swordmaster'/1103, l='ServerLevel[world]', x=407.48, y=107.00, z=-677.79] died: Undead Swordmaster was killed whilst fighting TioSkrollex
-[15:58:12] [Server thread/INFO]: Named entity bwk['Undead Swordmaster'/1102, l='ServerLevel[world]', x=408.85, y=107.00, z=-677.43] died: Undead Swordmaster was burnt to a crisp whilst fighting TioSkrollex
-[15:58:15] [Server thread/INFO]: Named entity bwt['Undead Sensei'/1104, l='ServerLevel[world]', x=408.45, y=107.00, z=-679.97] died: Undead Sensei was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
-[15:59:56] [Server thread/INFO]: Named entity bwk['Undead Swordmaster'/1226, l='ServerLevel[world]', x=417.26, y=113.00, z=-605.05] died: Undead Swordmaster was killed whilst fighting TioSkrollex
-[15:59:57] [Server thread/INFO]: Named entity bwk['Undead Swordmaster'/1227, l='ServerLevel[world]', x=416.67, y=113.00, z=-607.66] died: Undead Swordmaster was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
-[15:59:58] [Server thread/INFO]: Named entity bwk['Undead Swordmaster'/1228, l='ServerLevel[world]', x=417.31, y=113.00, z=-606.25] died: Undead Swordmaster was burnt to a crisp whilst fighting TioSkrollex
-[15:59:58] [Server thread/INFO]: Named entity bwk['Undead Swordmaster'/1229, l='ServerLevel[world]', x=416.90, y=113.00, z=-607.03] died: Undead Swordmaster was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
-[16:00:05] [Server thread/INFO]: Named entity bwt['Undead Sensei'/1230, l='ServerLevel[world]', x=415.18, y=113.00, z=-611.60] died: Undead Sensei was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
-[16:00:39] [Server thread/INFO]: [@: Executed 4 command(s) from function 'boss:ninja_area/tp_back_at_end']
-[16:08:00] [Server thread/INFO]: Named entity bvo['Rage Creeper'/2295, l='ServerLevel[world]', x=512.60, y=78.00, z=-782.16] died: Rage Creeper was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
-[16:10:10] [Server thread/INFO]: Named entity bvo['Rage Creeper'/2618, l='ServerLevel[world]', x=590.23, y=48.00, z=-937.70] died: Rage Creeper was slain by Danielcf37 using [Phantom's Obsidian Spike of Evisceration]
-[16:10:17] [Server thread/INFO]: Named entity bvo['Rage Creeper'/2648, l='ServerLevel[world]', x=590.04, y=46.00, z=-924.56] died: Rage Creeper was killed whilst fighting TioSkrollex
-[16:10:30] [Server thread/INFO]: Named entity bxe['Piglin Bandit'/2799, l='ServerLevel[world]', x=563.56, y=52.00, z=-942.50] died: Piglin Bandit was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
-[16:10:32] [Server thread/INFO]: Named entity bxe['Piglin Bandit'/2801, l='ServerLevel[world]', x=563.64, y=52.00, z=-943.33] died: Piglin Bandit was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
-[16:10:34] [Server thread/INFO]: Named entity bwn['Flamecrawler'/2804, l='ServerLevel[world]', x=564.90, y=53.00, z=-938.85] died: Flamecrawler was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
-[16:10:36] [Server thread/INFO]: Named entity bwn['Flamecrawler'/2805, l='ServerLevel[world]', x=580.82, y=54.09, z=-942.53] died: Flamecrawler was slain by Danielcf37 using [Phantom's Obsidian Spike of Evisceration]
-[16:10:37] [Server thread/INFO]: Named entity bxe['Piglin Bandit'/2800, l='ServerLevel[world]', x=564.96, y=50.00, z=-935.85] died: Piglin Bandit was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
-[16:11:00] [Server thread/INFO]: Named entity bvm['Bombardier'/2616, l='ServerLevel[world]', x=569.70, y=58.00, z=-958.80] died: Bombardier was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
-[16:11:06] [Server thread/INFO]: Named entity bvm['Bombardier'/2867, l='ServerLevel[world]', x=566.04, y=59.00, z=-950.94] died: Bombardier was shot by TioSkrollex using [Harbinger of Pain]
-[16:11:11] [Server thread/INFO]: Named entity bwn['Flamecrawler'/2803, l='ServerLevel[world]', x=563.73, y=52.00, z=-939.73] died: Flamecrawler was killed whilst fighting TioSkrollex
-[16:13:03] [Server thread/INFO]: Named entity bvo['Rage Creeper'/2651, l='ServerLevel[world]', x=618.66, y=51.00, z=-932.59] died: Rage Creeper was shot by Danielcf37 using [Watcher's Bow of Healing]
-[16:13:37] [Server thread/INFO]: Named entity bvm['Bombardier'/3260, l='ServerLevel[world]', x=582.04, y=65.91, z=-993.87] died: Bombardier was shot by Danielcf37 using [Watcher's Bow of Healing]
-[16:14:05] [Server thread/INFO]: Named entity bvo['Rage Creeper'/3021, l='ServerLevel[world]', x=613.10, y=42.00, z=-959.86] died: Rage Creeper was doomed to fall by TioSkrollex using [Harbinger of Pain]
-[16:14:18] [Server thread/INFO]: Named entity bxe['Piglin Bandit'/3294, l='ServerLevel[world]', x=588.61, y=59.00, z=-965.68] died: Piglin Bandit was killed whilst fighting Danielcf37
-[16:14:20] [Server thread/INFO]: Named entity bxe['Piglin Bandit'/3292, l='ServerLevel[world]', x=588.51, y=58.94, z=-965.66] died: Piglin Bandit was slain by Danielcf37 using [Phantom's Obsidian Spike of Evisceration]
-[16:14:43] [Server thread/INFO]: Named entity bvo['Rage Creeper'/3097, l='ServerLevel[world]', x=609.55, y=72.00, z=-938.65] died: Rage Creeper was slain by Danielcf37 using [Phantom's Obsidian Spike of Evisceration]
-[16:14:45] [Server thread/INFO]: Named entity bxe['Piglin Bandit'/3378, l='ServerLevel[world]', x=604.79, y=72.30, z=-935.37] died: Piglin Bandit was blown up by Rage Creeper
-[16:14:45] [Server thread/INFO]: Named entity bxe['Piglin Bandit'/3299, l='ServerLevel[world]', x=608.50, y=72.00, z=-936.82] died: Piglin Bandit was blown up by Rage Creeper
-[16:14:51] [Server thread/INFO]: Named entity bxe['Piglin Bandit'/3223, l='ServerLevel[world]', x=603.66, y=72.00, z=-937.69] died: Piglin Bandit was slain by Danielcf37 using [Phantom's Obsidian Spike of Evisceration]
-[16:14:57] [Server thread/INFO]: Named entity bxe['Piglin Bandit'/3507, l='ServerLevel[world]', x=607.98, y=71.46, z=-934.60] died: Piglin Bandit was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
-[16:15:15] [Server thread/INFO]: Named entity bvo['Rage Creeper'/3417, l='ServerLevel[world]', x=616.98, y=45.00, z=-927.99] died: Rage Creeper was doomed to fall
-[16:15:49] [Server thread/INFO]: Named entity bxe['Piglin Bandit'/3035, l='ServerLevel[world]', x=583.77, y=56.00, z=-951.06] died: Piglin Bandit was doomed to fall by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
-[16:16:20] [Server thread/INFO]: Named entity bxe['Piglin Bandit'/3293, l='ServerLevel[world]', x=585.36, y=69.00, z=-998.27] died: Piglin Bandit was blown up by Rage Creeper
-[16:16:44] [Server thread/INFO]: Named entity bwn['Flamecrawler'/3777, l='ServerLevel[world]', x=550.62, y=81.40, z=-982.29] died: Flamecrawler was killed whilst fighting TioSkrollex
-[16:16:47] [Server thread/INFO]: Named entity bwn['Flamecrawler'/3776, l='ServerLevel[world]', x=550.52, y=82.14, z=-984.69] died: Flamecrawler was blown up by Creeper
-[16:16:49] [Server thread/INFO]: Named entity bwn['Flamecrawler'/3783, l='ServerLevel[world]', x=552.14, y=81.65, z=-987.29] died: Flamecrawler was slain by Danielcf37 using [Phantom's Obsidian Spike of Evisceration]
-[16:17:00] [Server thread/INFO]: Named entity bvm['Bombardier'/3779, l='ServerLevel[world]', x=555.95, y=89.00, z=-1007.42] died: Bombardier was blown up by Creeper
-[16:17:03] [Server thread/INFO]: Named entity bwn['Flamecrawler'/3781, l='ServerLevel[world]', x=555.44, y=89.11, z=-1007.28] died: Flamecrawler was slain by Danielcf37 using [Phantom's Obsidian Spike of Evisceration]
-[16:17:05] [Server thread/INFO]: Named entity bwn['Flamecrawler'/3782, l='ServerLevel[world]', x=550.17, y=86.00, z=-1007.93] died: Flamecrawler was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
-[16:17:16] [Server thread/INFO]: Named entity bwv['Zombee'/3827, l='ServerLevel[world]', x=550.48, y=84.43, z=-997.69] died: Zombee was slain by Danielcf37 using [Phantom's Obsidian Spike of Evisceration]
-[16:17:18] [Server thread/INFO]: Named entity bxe['Piglin Bandit'/3780, l='ServerLevel[world]', x=550.58, y=82.94, z=-994.27] died: Piglin Bandit was slain by Danielcf37 using [Phantom's Obsidian Spike of Evisceration]
-[16:17:18] [Server thread/INFO]: Named entity bxe['Piglin Bandit'/3919, l='ServerLevel[world]', x=550.57, y=83.94, z=-995.55] died: Piglin Bandit was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
-[16:17:32] [Server thread/INFO]: Named entity bwn['Flamecrawler'/3948, l='ServerLevel[world]', x=560.81, y=88.54, z=-1001.23] died: Flamecrawler was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
-[16:17:36] [Server thread/INFO]: Named entity bwv['Zombee'/3927, l='ServerLevel[world]', x=545.59, y=86.50, z=-1001.89] died: death.attack.magic.item
-[16:17:50] [Server thread/INFO]: Named entity bvo['Rage Creeper'/4035, l='ServerLevel[world]', x=536.54, y=97.00, z=-1020.30] died: Rage Creeper was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
-[16:17:51] [Server thread/INFO]: Named entity bxe['Piglin Bandit'/4033, l='ServerLevel[world]', x=552.62, y=86.00, z=-1007.41] died: Piglin Bandit was killed whilst fighting Danielcf37
-[16:17:52] [Server thread/INFO]: Named entity bvo['Rage Creeper'/4036, l='ServerLevel[world]', x=536.70, y=98.00, z=-1022.49] died: Rage Creeper was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
-[16:18:06] [Server thread/INFO]: Named entity bwv['Zombee'/4048, l='ServerLevel[world]', x=523.36, y=98.00, z=-1024.38] died: Zombee was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
-[16:18:08] [Server thread/INFO]: Named entity bwv['Zombee'/4028, l='ServerLevel[world]', x=525.65, y=98.00, z=-1024.50] died: Zombee was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
-[16:18:10] [Server thread/INFO]: Named entity bwv['Zombee'/3985, l='ServerLevel[world]', x=523.97, y=99.37, z=-1025.82] died: Zombee was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
-[16:18:22] [Server thread/INFO]: Named entity bwv['Zombee'/4112, l='ServerLevel[world]', x=525.43, y=98.00, z=-1014.53] died: Zombee was killed whilst fighting TioSkrollex
+[16:24:01] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:24:04] [ServerMain/INFO]: Loaded 7 recipes
+[16:24:04] [ServerMain/INFO]: Loaded 1633 advancements
+[16:24:04] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[16:24:04] [Server thread/INFO]: Loading properties
+[16:24:04] [Server thread/INFO]: Default game type: SURVIVAL
+[16:24:04] [Server thread/INFO]: Generating keypair
+[16:24:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:24:04] [Server thread/INFO]: Using epoll channel type
+[16:24:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:24:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:24:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:24:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:24:04] [Server thread/INFO]: Preparing level "world"
+[16:24:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:24:08] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:24:08] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:24:08] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:24:08] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:24:08] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:24:08] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:24:08] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:24:08] [Worker-Main-1/INFO]: Preparing spawn area: 25%
+[16:24:09] [Server thread/INFO]: Time elapsed: 4234 ms
+[16:24:09] [Server thread/INFO]: Done (4.365s)! For help, type "help"
+[16:24:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2386ms or 47 ticks behind
+[16:24:11] [Server thread/WARN]: UUID of added entity already exists: bga['Marker'/32, l='ServerLevel[world]', x=29999999.50, y=100.00, z=27115050.50]
+[16:24:11] [Server thread/WARN]: UUID of added entity already exists: bxe['Piglin'/49, l='ServerLevel[world]', x=659.50, y=5.00, z=508.50]
+[16:24:27] [Server thread/INFO]: TioSkrollex[/127.54.56.198:32881] logged in with entity id 72 at (29.593811495825257, 173.0, 245.33990727405444)
+[16:24:27] [Server thread/INFO]: TioSkrollex joined the game
+[16:24:37] [Server thread/INFO]: Danielcf37[/127.133.49.52:49953] logged in with entity id 170 at (26.730560433647113, 173.0, 239.63483525408336)
+[16:24:37] [Server thread/INFO]: Danielcf37 joined the game
+[16:26:15] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[16:26:15] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[16:26:15] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[16:26:18] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[16:26:18] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[16:26:18] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[16:27:43] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[16:27:43] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[16:27:43] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[16:27:49] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[16:27:49] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[16:27:49] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[16:27:53] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[16:27:53] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[16:27:53] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[16:27:56] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[16:27:56] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[16:27:56] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[16:27:59] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[16:27:59] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[16:27:59] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[16:28:01] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[16:28:01] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[16:28:01] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[16:28:04] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[16:28:04] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[16:28:04] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[16:28:07] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[16:28:07] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[16:28:07] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[16:30:30] [Server thread/WARN]: UUID of added entity already exists: buy['Glow Item Frame'/1287, l='ServerLevel[world]', x=-53.50, y=171.03, z=283.50]
+[16:30:59] [Server thread/INFO]: [Not Secure] <TioSkrollex> TioSkrollex
+[16:31:13] [Server thread/INFO]: Incorrect argument for command
+[16:31:13] [Server thread/INFO]: op Tioop TioSkrollex<--[HERE]
+[16:31:18] [Server thread/INFO]: Made Danielcf37 a server operator
+[16:31:22] [Server thread/INFO]: [Danielcf37: Executed 31 command(s) from function 'boss:void_arena/1_start']
+[16:31:37] [Server thread/INFO]: Named entity bwk['Twisted Thrall'/1509, l='ServerLevel[world]', x=-20.76, y=153.30, z=175.93] died: Twisted Thrall was killed whilst fighting TioSkrollex
+[16:31:38] [Server thread/INFO]: Named entity bwk['Twisted Thrall'/1510, l='ServerLevel[world]', x=-21.44, y=153.30, z=176.35] died: Twisted Thrall was killed whilst fighting Danielcf37
+[16:31:39] [Server thread/INFO]: Named entity bwk['Twisted Thrall'/1511, l='ServerLevel[world]', x=-20.93, y=153.30, z=176.03] died: Twisted Thrall was burnt to a crisp whilst fighting TioSkrollex
+[16:31:39] [Server thread/INFO]: Named entity bwk['Twisted Thrall'/1512, l='ServerLevel[world]', x=-23.94, y=154.00, z=175.91] died: Twisted Thrall was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[16:31:48] [Server thread/INFO]: Named entity bwk['Twisted Thrall'/1507, l='ServerLevel[world]', x=-34.18, y=155.79, z=161.95] died: Twisted Thrall was killed whilst fighting TioSkrollex
+[16:31:50] [Server thread/INFO]: Named entity bwk['Twisted Thrall'/1504, l='ServerLevel[world]', x=-33.46, y=154.92, z=161.35] died: Twisted Thrall was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[16:32:04] [Server thread/INFO]: Named entity bwk['Twisted Thrall'/1506, l='ServerLevel[world]', x=-13.97, y=153.30, z=168.73] died: Twisted Thrall was slain by Danielcf37 using [Phantom's Obsidian Spike of Evisceration]
+[16:32:06] [Server thread/INFO]: Named entity bwk['Twisted Thrall'/1508, l='ServerLevel[world]', x=-13.87, y=153.30, z=168.56] died: Twisted Thrall was slain by Danielcf37 using [Phantom's Obsidian Spike of Evisceration]
+[16:32:09] [Server thread/INFO]: Named entity bwk['Twisted Thrall'/1505, l='ServerLevel[world]', x=-22.02, y=155.00, z=199.64] died: Twisted Thrall was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[16:32:26] [Server thread/INFO]: Named entity bwt['Void Specter'/1502, l='ServerLevel[world]', x=-27.09, y=153.30, z=172.02] died: Void Specter was killed whilst fighting TioSkrollex
+[16:32:34] [Server thread/INFO]: Named entity bwk['Twisted Thrall'/1698, l='ServerLevel[world]', x=-16.59, y=154.00, z=168.78] died: Twisted Thrall was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[16:32:36] [Server thread/INFO]: Named entity bwk['Twisted Thrall'/1699, l='ServerLevel[world]', x=-20.77, y=153.30, z=173.96] died: Twisted Thrall was killed whilst fighting Danielcf37
+[16:32:42] [Server thread/INFO]: Named entity bwk['Twisted Thrall'/1702, l='ServerLevel[world]', x=-32.65, y=154.50, z=194.69] died: Twisted Thrall was killed whilst fighting TioSkrollex
+[16:32:54] [Server thread/INFO]: Named entity bwk['Twisted Thrall'/1695, l='ServerLevel[world]', x=-16.41, y=154.00, z=172.47] died: Twisted Thrall was killed whilst fighting Danielcf37
+[16:33:02] [Server thread/INFO]: Named entity bwk['Twisted Thrall'/1703, l='ServerLevel[world]', x=-22.71, y=150.88, z=165.50] died: Twisted Thrall tried to swim in lava
+[16:33:05] [Server thread/INFO]: Named entity bwk['Twisted Thrall'/1700, l='ServerLevel[world]', x=-27.83, y=154.00, z=182.31] died: Twisted Thrall was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[16:33:10] [Server thread/INFO]: Named entity bwk['Twisted Thrall'/1697, l='ServerLevel[world]', x=-17.78, y=153.30, z=176.86] died: Twisted Thrall was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[16:33:12] [Server thread/INFO]: Named entity bwk['Twisted Thrall'/1696, l='ServerLevel[world]', x=-17.50, y=153.30, z=176.33] died: Twisted Thrall was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[16:33:12] [Server thread/INFO]: Named entity bwk['Twisted Thrall'/1694, l='ServerLevel[world]', x=-26.83, y=154.00, z=180.82] died: Twisted Thrall was killed whilst fighting Danielcf37
+[16:33:14] [Server thread/INFO]: Named entity bwk['Twisted Thrall'/1701, l='ServerLevel[world]', x=-21.22, y=153.30, z=175.49] died: Twisted Thrall was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
