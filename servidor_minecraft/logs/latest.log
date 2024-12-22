@@ -354,3 +354,33 @@
 [02:37:46] [Server thread/INFO]: Named entity bwv['Zombee'/14499, l='ServerLevel[world]', x=512.30, y=54.20, z=-1008.16] died: Zombee was killed whilst fighting TioSkrollex
 [02:38:05] [Server thread/INFO]: Named entity bws['☆ Empyrian Shaman ☆'/15308, l='ServerLevel[world]', x=383.30, y=100.00, z=-989.21] died: ☆ Empyrian Shaman ☆ was slain by Danielcf37 using [The Sentinel]
 [02:38:06] [Server thread/INFO]: Named entity bwv['Zombee'/15295, l='ServerLevel[world]', x=385.37, y=100.00, z=-989.49] died: Zombee was slain by Danielcf37 using [The Sentinel]
+[02:38:13] [Server thread/INFO]: Named entity bvq['Drowned Hunter'/15318, l='ServerLevel[world]', x=491.89, y=51.05, z=-988.95] died: Drowned Hunter was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[02:38:15] [Server thread/INFO]: Named entity bwv['Zombee'/15355, l='ServerLevel[world]', x=389.32, y=100.00, z=-996.22] died: Zombee was slain by Danielcf37 using [Hateblade]
+[02:38:23] [Server thread/INFO]: Danielcf37 was blown up by Creeper
+[02:38:24] [Server thread/INFO]: Named entity brm['Raging Bee'/15449, l='ServerLevel[world]', x=377.16, y=110.30, z=-989.48] died: Raging Bee was killed whilst fighting Danielcf37
+[02:38:24] [Server thread/INFO]: Named entity brm['Raging Bee'/15450, l='ServerLevel[world]', x=391.22, y=108.22, z=-989.61] died: Raging Bee was killed whilst fighting Danielcf37
+[02:39:08] [Server thread/INFO]: Named entity brm['Raging Bee'/15758, l='ServerLevel[world]', x=384.65, y=111.40, z=-989.65] died: Raging Bee suffocated in a wall whilst fighting Danielcf37
+[02:39:10] [Server thread/INFO]: Named entity bvq['Drowned Hunter'/15297, l='ServerLevel[world]', x=507.49, y=51.00, z=-1005.48] died: Drowned Hunter was shot by TioSkrollex using [Harbinger of Pain]
+[02:39:20] [Server thread/INFO]: Named entity bwv['Zombee'/15112, l='ServerLevel[world]', x=408.74, y=100.37, z=-1002.88] died: Zombee was slain by Danielcf37 using [Hateblade]
+[02:39:28] [Server thread/INFO]: Named entity bwv['Zombee'/15834, l='ServerLevel[world]', x=413.52, y=100.07, z=-1010.80] died: Zombee was slain by Danielcf37 using [Hateblade]
+[02:39:45] [Server thread/INFO]: Named entity brm['Raging Bee'/15759, l='ServerLevel[world]', x=378.60, y=110.62, z=-989.47] died: Raging Bee was killed whilst fighting Danielcf37
+[02:40:07] [Server thread/INFO]: Named entity bwv['Zombee'/15928, l='ServerLevel[world]', x=480.50, y=72.00, z=-979.13] died: Zombee was slain by Danielcf37 using [Hateblade]
+[02:40:19] [Server thread/INFO]: Named entity bwv['Zombee'/15291, l='ServerLevel[world]', x=479.25, y=72.00, z=-976.23] died: Zombee was slain by Danielcf37 using [Hateblade]
+[02:40:20] [Server thread/INFO]: Named entity bwv['Zombee'/15518, l='ServerLevel[world]', x=478.40, y=72.57, z=-975.92] died: Zombee was slain by Danielcf37 using [Hateblade]
+[02:41:00] [Server thread/INFO]: Named entity bwv['Zombee'/16041, l='ServerLevel[world]', x=533.48, y=53.44, z=-991.51] died: Zombee was shot by TioSkrollex using [Harbinger of Pain]
+[02:41:09] [Server thread/INFO]: Named entity bws['☆ Empyrian Shaman ☆'/16010, l='ServerLevel[world]', x=523.89, y=54.58, z=-985.08] died: ☆ Empyrian Shaman ☆ was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[02:41:17] [Server thread/INFO]: Named entity bvz['Earth Golem'/16245, l='ServerLevel[world]', x=525.85, y=52.67, z=-986.84] died: Earth Golem was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[02:41:22] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=530, y=51, z=-986} gu{x=529, y=49, z=-987}
+[02:41:23] [Server thread/INFO]: Named entity bvz['Earth Golem'/16283, l='ServerLevel[world]', x=526.35, y=51.00, z=-988.43] died: Earth Golem was slain by Danielcf37 using [Hateblade]
+[02:41:26] [Server thread/INFO]: Named entity bww['Empyrian Curator'/16097, l='ServerLevel[world]', x=529.50, y=52.10, z=-990.51] died: Empyrian Curator was slain by Danielcf37 using [Hateblade]
+[02:41:29] [Server thread/INFO]: Named entity bww['Empyrian Curator'/16096, l='ServerLevel[world]', x=528.22, y=51.37, z=-986.33] died: Empyrian Curator was slain by Danielcf37 using [Hateblade]
+[02:41:30] [Server thread/INFO]: Named entity bvq['Drowned Hunter'/16309, l='ServerLevel[world]', x=526.28, y=51.04, z=-987.15] died: Drowned Hunter was slain by Danielcf37 using [Hateblade]
+[02:41:34] [Server thread/INFO]: Named entity bvq['Zombee'/15835, l='ServerLevel[world]', x=524.58, y=51.21, z=-991.92] died: Zombee was shot by TioSkrollex using [Harbinger of Pain]
+[02:41:42] [Server thread/INFO]: Named entity bvz['Earth Golem'/16057, l='ServerLevel[world]', x=526.43, y=51.00, z=-987.72] died: Earth Golem was slain by Danielcf37 using [Hateblade]
+[02:41:43] [Server thread/INFO]: Named entity bwv['Zombee'/16227, l='ServerLevel[world]', x=529.78, y=54.45, z=-996.58] died: Zombee was shot by TioSkrollex using [Harbinger of Pain]
+[02:41:45] [Server thread/INFO]: Named entity bvz['Earth Golem'/16092, l='ServerLevel[world]', x=531.27, y=52.67, z=-989.83] died: Earth Golem was slain by Danielcf37 using [Hateblade]
+[02:41:49] [Server thread/INFO]: Named entity bww['Empyrian Curator'/16090, l='ServerLevel[world]', x=531.12, y=51.60, z=-997.17] died: Empyrian Curator was shot by TioSkrollex using [Harbinger of Pain]
+[02:42:01] [Server thread/INFO]: Named entity bwv['Zombee'/16133, l='ServerLevel[world]', x=539.13, y=56.65, z=-987.54] died: Zombee was blown up by Creeper
+[02:42:16] [Server thread/INFO]: Named entity bwv['Zombee'/16054, l='ServerLevel[world]', x=536.70, y=52.02, z=-995.38] died: Zombee was slain by Danielcf37 using [Smoldering Labrys of Combustion]
+[02:42:17] [Server thread/INFO]: Named entity bwv['Zombee'/16421, l='ServerLevel[world]', x=529.11, y=57.83, z=-967.37] died: Zombee was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[02:42:53] [Server thread/WARN]: UUID of added entity already exists: buy['Glow Item Frame'/16685, l='ServerLevel[world]', x=-53.50, y=171.03, z=283.50]
