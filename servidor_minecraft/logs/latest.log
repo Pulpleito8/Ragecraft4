@@ -90,3 +90,169 @@
 [01:46:21] [Server thread/INFO]: Named entity bxe['Cannibal'/3730, l='ServerLevel[world]', x=727.63, y=164.00, z=-978.48] died: Cannibal was blown up by Rage Creeper
 [01:46:30] [Server thread/INFO]: Named entity bxe['Cannibal'/3726, l='ServerLevel[world]', x=718.30, y=164.00, z=-988.49] died: Cannibal was killed whilst fighting TioSkrollex
 [01:47:04] [Server thread/INFO]: Named entity bvo['Rage Creeper'/3514, l='ServerLevel[world]', x=728.50, y=168.00, z=-963.67] died: Rage Creeper was shot by TioSkrollex using [Harbinger of Pain]
+[01:47:52] [Server thread/INFO]: Named entity bxh['☆ Butcher ☆'/3861, l='ServerLevel[world]', x=724.35, y=163.45, z=-981.44] died: ☆ Butcher ☆ was killed whilst fighting TioSkrollex
+[01:47:59] [Server thread/INFO]: Named entity bwx['Monstrosity'/3859, l='ServerLevel[world]', x=731.66, y=168.00, z=-958.35] died: Monstrosity was slain by Danielcf37 using [Smoldering Labrys of Combustion]
+[01:48:07] [Server thread/INFO]: Named entity bwx['Monstrosity'/4053, l='ServerLevel[world]', x=727.60, y=168.00, z=-962.73] died: Monstrosity was slain by Danielcf37 using [Smoldering Labrys of Combustion]
+[01:48:10] [Server thread/INFO]: Named entity bvt['Bloodmite'/4109, l='ServerLevel[world]', x=727.55, y=168.00, z=-963.81] died: Bloodmite was slain by Danielcf37 using [Smoldering Labrys of Combustion]
+[01:48:11] [Server thread/INFO]: Named entity bvt['Bloodmite'/4078, l='ServerLevel[world]', x=727.98, y=168.00, z=-962.86] died: Bloodmite was slain by Danielcf37 using [Smoldering Labrys of Combustion]
+[01:48:12] [Server thread/INFO]: Named entity bvt['Bloodmite'/4110, l='ServerLevel[world]', x=727.86, y=168.00, z=-962.22] died: Bloodmite was slain by Danielcf37 using [Smoldering Labrys of Combustion]
+[01:48:17] [Server thread/INFO]: Named entity bvt['Bloodmite'/4108, l='ServerLevel[world]', x=729.06, y=168.00, z=-969.19] died: Bloodmite was killed whilst fighting TioSkrollex
+[01:48:19] [Server thread/INFO]: Named entity bvt['Bloodmite'/4077, l='ServerLevel[world]', x=730.93, y=168.00, z=-967.80] died: Bloodmite was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[01:48:19] [Server thread/INFO]: Named entity bvt['Bloodmite'/4076, l='ServerLevel[world]', x=730.93, y=168.00, z=-967.00] died: Bloodmite was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[01:48:45] [Server thread/INFO]: Named entity bwk['Leftovers'/4025, l='ServerLevel[world]', x=737.31, y=168.16, z=-946.24] died: Leftovers was killed
+[01:48:48] [Server thread/INFO]: Named entity bvo['Rage Creeper'/3943, l='ServerLevel[world]', x=730.04, y=168.00, z=-955.69] died: Rage Creeper burned to death
+[01:49:07] [Server thread/INFO]: Named entity bwx['Monstrosity'/4167, l='ServerLevel[world]', x=745.62, y=168.00, z=-946.68] died: Monstrosity was killed whilst fighting TioSkrollex
+[01:49:13] [Server thread/INFO]: Named entity bvt['Bloodmite'/4261, l='ServerLevel[world]', x=738.99, y=168.00, z=-942.06] died: Bloodmite was slain by Danielcf37 using [Smoldering Labrys of Combustion]
+[01:49:24] [Server thread/INFO]: Named entity bvt['Bloodmite'/4260, l='ServerLevel[world]', x=742.38, y=168.00, z=-952.47] died: Bloodmite was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[01:49:24] [Server thread/INFO]: Named entity bvt['Bloodmite'/4262, l='ServerLevel[world]', x=742.73, y=168.00, z=-951.29] died: Bloodmite was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[01:49:24] [Server thread/INFO]: Named entity bwk['Leftovers'/4061, l='ServerLevel[world]', x=739.33, y=167.30, z=-945.73] died: Leftovers was killed whilst fighting Danielcf37
+[01:49:30] [Server thread/INFO]: TioSkrollex blew up
+[01:49:30] [Server thread/INFO]: Named entity bvo['Bloodcloud'/4234, l='ServerLevel[world]', x=743.85, y=168.00, z=-950.06] died: Bloodcloud was killed
+[01:49:47] [Server thread/INFO]: Named entity bwk['Leftovers'/4001, l='ServerLevel[world]', x=731.42, y=169.00, z=-942.41] died: Leftovers was killed whilst fighting Danielcf37
+[01:50:00] [Server thread/INFO]: Named entity bvo['Rage Creeper'/3897, l='ServerLevel[world]', x=732.62, y=168.00, z=-945.67] died: Rage Creeper was slain by Danielcf37 using [Smoldering Labrys of Combustion]
+[01:50:02] [Server thread/INFO]: Named entity bvo['Rage Creeper'/4243, l='ServerLevel[world]', x=730.99, y=168.00, z=-945.97] died: Rage Creeper was slain by Danielcf37 using [Smoldering Labrys of Combustion]
+[01:50:21] [Server thread/INFO]: Named entity bwk['Leftovers'/4276, l='ServerLevel[world]', x=739.17, y=168.00, z=-943.87] died: Leftovers was killed whilst fighting TioSkrollex
+[01:50:22] [Server thread/INFO]: Named entity bwk['Leftovers'/4223, l='ServerLevel[world]', x=738.93, y=168.00, z=-942.41] died: Leftovers was killed whilst fighting TioSkrollex
+[01:50:22] [Server thread/INFO]: Named entity bwk['Leftovers'/4273, l='ServerLevel[world]', x=741.43, y=168.00, z=-940.32] died: Leftovers was killed whilst fighting Danielcf37
+[01:50:27] [Server thread/INFO]: Named entity bwn['Flamecrawler'/4521, l='ServerLevel[world]', x=742.16, y=168.80, z=-932.61] died: Flamecrawler was slain by Danielcf37 using [Smoldering Labrys of Combustion]
+[01:50:28] [Server thread/INFO]: Named entity bvo['Bloodcloud'/4648, l='ServerLevel[world]', x=743.40, y=167.69, z=-929.44] died: Bloodcloud was killed
+[01:50:33] [Server thread/WARN]: UUID of added entity already exists: buy['Glow Item Frame'/4664, l='ServerLevel[world]', x=-53.50, y=171.03, z=283.50]
+[01:51:03] [Server thread/INFO]: Named entity bwk['Leftovers'/4437, l='ServerLevel[world]', x=723.01, y=168.00, z=-939.75] died: Leftovers was killed whilst fighting Danielcf37
+[01:51:07] [Server thread/INFO]: Named entity bvo['Bloodcloud'/4324, l='ServerLevel[world]', x=742.30, y=168.00, z=-914.85] died: Bloodcloud was killed
+[01:51:36] [Server thread/INFO]: Named entity bwx['Monstrosity'/4834, l='ServerLevel[world]', x=731.50, y=168.23, z=-945.68] died: Monstrosity was slain by Danielcf37 using [Smoldering Labrys of Combustion]
+[01:51:39] [Server thread/INFO]: Named entity bvo['Bloodcloud'/4836, l='ServerLevel[world]', x=732.49, y=168.00, z=-954.82] died: Bloodcloud was killed
+[01:51:49] [Server thread/INFO]: Named entity bwx['Monstrosity'/4832, l='ServerLevel[world]', x=733.21, y=169.00, z=-952.66] died: Monstrosity was shot by Danielcf37 using [Watcher's Bow of Healing]
+[01:51:50] [Server thread/INFO]: Named entity bvo['Bloodcloud'/4962, l='ServerLevel[world]', x=743.04, y=167.82, z=-929.30] died: Bloodcloud was killed
+[01:51:57] [Server thread/INFO]: Named entity bvt['Bloodmite'/4973, l='ServerLevel[world]', x=734.43, y=168.00, z=-953.33] died: Bloodmite withered away
+[01:51:57] [Server thread/INFO]: Named entity bvt['Bloodmite'/4974, l='ServerLevel[world]', x=735.57, y=168.00, z=-954.73] died: Bloodmite withered away
+[01:51:57] [Server thread/INFO]: Named entity bvt['Bloodmite'/4975, l='ServerLevel[world]', x=732.97, y=169.00, z=-952.68] died: Bloodmite withered away
+[01:51:57] [Server thread/INFO]: Named entity bvt['Bloodmite'/4915, l='ServerLevel[world]', x=733.91, y=169.25, z=-951.74] died: Bloodmite withered away
+[01:51:57] [Server thread/INFO]: Named entity bvt['Bloodmite'/4916, l='ServerLevel[world]', x=734.01, y=169.00, z=-952.67] died: Bloodmite withered away
+[01:51:57] [Server thread/INFO]: Named entity bvt['Bloodmite'/4917, l='ServerLevel[world]', x=734.20, y=168.75, z=-952.65] died: Bloodmite withered away
+[01:51:59] [Server thread/INFO]: Named entity bwx['Baby Cannibal'/4312, l='ServerLevel[world]', x=732.84, y=168.00, z=-953.24] died: Baby Cannibal withered away whilst fighting Danielcf37
+[01:52:00] [Server thread/INFO]: Named entity bwx['Baby Cannibal'/4310, l='ServerLevel[world]', x=732.97, y=169.00, z=-952.83] died: Baby Cannibal withered away whilst fighting Danielcf37
+[01:52:00] [Server thread/INFO]: Named entity bwx['Baby Cannibal'/4311, l='ServerLevel[world]', x=733.96, y=169.25, z=-953.35] died: Baby Cannibal withered away whilst fighting Danielcf37
+[01:52:00] [Server thread/INFO]: Named entity bwx['Baby Cannibal'/4313, l='ServerLevel[world]', x=733.55, y=168.00, z=-950.62] died: Baby Cannibal withered away whilst fighting Danielcf37
+[01:52:00] [Server thread/INFO]: Named entity bwx['Monstrosity'/4318, l='ServerLevel[world]', x=733.56, y=169.00, z=-952.79] died: Monstrosity withered away whilst fighting Danielcf37
+[01:52:00] [Server thread/INFO]: Named entity bwx['Baby Cannibal'/4845, l='ServerLevel[world]', x=733.70, y=169.00, z=-951.95] died: Baby Cannibal withered away whilst fighting Danielcf37
+[01:52:00] [Server thread/INFO]: Named entity bwx['Baby Cannibal'/4846, l='ServerLevel[world]', x=733.65, y=169.00, z=-952.28] died: Baby Cannibal withered away whilst fighting Danielcf37
+[01:52:00] [Server thread/INFO]: Named entity bwx['Baby Cannibal'/4314, l='ServerLevel[world]', x=732.95, y=169.00, z=-952.46] died: Baby Cannibal withered away whilst fighting Danielcf37
+[01:52:00] [Server thread/INFO]: Named entity bwx['Baby Cannibal'/4320, l='ServerLevel[world]', x=734.25, y=169.00, z=-952.08] died: Baby Cannibal withered away whilst fighting Danielcf37
+[01:52:00] [Server thread/INFO]: Named entity bwx['Baby Cannibal'/4321, l='ServerLevel[world]', x=734.07, y=169.00, z=-952.55] died: Baby Cannibal withered away whilst fighting Danielcf37
+[01:52:00] [Server thread/INFO]: Named entity bwx['Baby Cannibal'/4322, l='ServerLevel[world]', x=734.35, y=168.00, z=-952.98] died: Baby Cannibal withered away whilst fighting Danielcf37
+[01:52:00] [Server thread/INFO]: Named entity bwx['Baby Cannibal'/4847, l='ServerLevel[world]', x=733.09, y=169.00, z=-952.02] died: Baby Cannibal withered away whilst fighting Danielcf37
+[01:52:07] [Server thread/INFO]: Named entity bwx['Monstrosity'/4306, l='ServerLevel[world]', x=733.46, y=169.00, z=-952.82] died: Monstrosity was shot by Danielcf37 using [Watcher's Bow of Healing]
+[01:52:07] [Server thread/INFO]: Named entity bwx['Monstrosity'/4302, l='ServerLevel[world]', x=733.45, y=169.00, z=-952.84] died: Monstrosity withered away whilst fighting Danielcf37
+[01:52:08] [Server thread/INFO]: Named entity bvt['Bloodmite'/5064, l='ServerLevel[world]', x=733.82, y=169.00, z=-952.31] died: Bloodmite withered away
+[01:52:08] [Server thread/INFO]: Named entity bvt['Bloodmite'/5065, l='ServerLevel[world]', x=733.70, y=168.80, z=-953.53] died: Bloodmite withered away
+[01:52:09] [Server thread/INFO]: Named entity bvt['Bloodmite'/5091, l='ServerLevel[world]', x=733.94, y=168.75, z=-953.20] died: Bloodmite was shot by Danielcf37 using [Watcher's Bow of Healing]
+[01:52:10] [Server thread/INFO]: Named entity bvt['Bloodmite'/5106, l='ServerLevel[world]', x=733.21, y=169.00, z=-952.88] died: Bloodmite was shot by Danielcf37 using [Watcher's Bow of Healing]
+[01:52:14] [Server thread/INFO]: Named entity bvt['Bloodmite'/5107, l='ServerLevel[world]', x=736.40, y=168.00, z=-952.42] died: Bloodmite was slain by Danielcf37 using [Smoldering Labrys of Combustion]
+[01:52:17] [Server thread/INFO]: Named entity bvt['Bloodmite'/5105, l='ServerLevel[world]', x=732.47, y=168.00, z=-950.84] died: Bloodmite was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[01:52:17] [Server thread/INFO]: Named entity bvt['Bloodmite'/5066, l='ServerLevel[world]', x=738.67, y=168.00, z=-953.23] died: Bloodmite was slain by Danielcf37 using [Smoldering Labrys of Combustion]
+[01:52:18] [Server thread/INFO]: Named entity bvt['Bloodmite'/5092, l='ServerLevel[world]', x=739.03, y=168.00, z=-953.52] died: Bloodmite was slain by Danielcf37 using [Smoldering Labrys of Combustion]
+[01:52:22] [Server thread/INFO]: Named entity bvt['Bloodmite'/5090, l='ServerLevel[world]', x=733.13, y=169.00, z=-952.50] died: Bloodmite was slain by Danielcf37 using [Smoldering Labrys of Combustion]
+[01:52:37] [Server thread/INFO]: Named entity bwk['Leftovers'/3840, l='ServerLevel[world]', x=722.67, y=167.30, z=-935.66] died: Leftovers was killed whilst fighting Danielcf37
+[01:52:39] [Server thread/INFO]: Named entity bvo['Bloodcloud'/5156, l='ServerLevel[world]', x=723.88, y=168.00, z=-925.25] died: Bloodcloud was killed
+[01:52:45] [Server thread/INFO]: Named entity bxh['☆ Butcher ☆'/4323, l='ServerLevel[world]', x=722.80, y=167.45, z=-935.81] died: ☆ Butcher ☆ was slain by Danielcf37 using [Smoldering Labrys of Combustion]
+[01:52:59] [Server thread/INFO]: Named entity bvo['Rage Creeper'/4226, l='ServerLevel[world]', x=721.83, y=168.00, z=-901.75] died: Rage Creeper was blown up by Rage Creeper
+[01:52:59] [Server thread/INFO]: Named entity bwk['Leftovers'/5237, l='ServerLevel[world]', x=721.62, y=169.21, z=-898.99] died: Leftovers was killed
+[01:53:08] [Server thread/INFO]: Named entity bwk['Leftovers'/4985, l='ServerLevel[world]', x=716.60, y=168.00, z=-926.48] died: Leftovers was killed whilst fighting TioSkrollex
+[01:53:09] [Server thread/INFO]: Named entity bwk['Leftovers'/5128, l='ServerLevel[world]', x=722.40, y=168.00, z=-913.86] died: Leftovers was killed whilst fighting Danielcf37
+[01:53:21] [Server thread/WARN]: UUID of added entity already exists: buy['Glow Item Frame'/5329, l='ServerLevel[world]', x=-53.50, y=171.03, z=283.50]
+[01:53:40] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[01:53:40] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[01:53:40] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[01:53:41] [Server thread/INFO]: Named entity bwk['Leftovers'/5423, l='ServerLevel[world]', x=705.50, y=168.56, z=-939.72] died: Leftovers was killed
+[01:53:48] [Server thread/INFO]: Named entity bvo['Bloodcloud'/5243, l='ServerLevel[world]', x=712.75, y=170.00, z=-923.07] died: Bloodcloud was killed
+[01:54:04] [Server thread/INFO]: Named entity bvo['Rage Creeper'/5327, l='ServerLevel[world]', x=724.37, y=168.00, z=-937.50] died: Rage Creeper was shot by TioSkrollex using [Harbinger of Pain]
+[01:54:08] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[01:54:08] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[01:54:08] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[01:54:27] [Server thread/INFO]: Named entity bvo['Bloodcloud'/5561, l='ServerLevel[world]', x=691.67, y=168.00, z=-928.61] died: Bloodcloud was killed
+[01:54:55] [Server thread/INFO]: TioSkrollex was blown up by Rage Creeper
+[01:54:55] [Server thread/INFO]: Named entity bvo['Rage Creeper'/5251, l='ServerLevel[world]', x=692.55, y=168.00, z=-912.54] died: Rage Creeper was blown up by Rage Creeper
+[01:54:55] [Server thread/INFO]: Named entity bvo['Rage Creeper'/5733, l='ServerLevel[world]', x=694.84, y=168.14, z=-913.73] died: Rage Creeper was blown up by Rage Creeper
+[01:54:55] [Server thread/INFO]: Named entity bvo['Rage Creeper'/5796, l='ServerLevel[world]', x=692.65, y=168.00, z=-916.41] died: Rage Creeper was blown up by Rage Creeper
+[01:54:55] [Server thread/INFO]: Named entity bwk['Leftovers'/5552, l='ServerLevel[world]', x=693.66, y=168.00, z=-914.14] died: Leftovers was killed whilst fighting Rage Creeper
+[01:55:20] [Server thread/INFO]: Named entity bwx['Monstrosity'/5722, l='ServerLevel[world]', x=709.40, y=168.00, z=-918.34] died: Monstrosity was blown up by Creeper
+[01:55:29] [Server thread/INFO]: Named entity bvo['Bloodcloud'/5992, l='ServerLevel[world]', x=698.64, y=168.00, z=-933.56] died: Bloodcloud was killed
+[01:55:33] [Server thread/INFO]: Named entity bwx['Monstrosity'/5724, l='ServerLevel[world]', x=710.73, y=168.00, z=-916.73] died: Monstrosity was slain by Danielcf37 using [Smoldering Labrys of Combustion]
+[01:55:35] [Server thread/INFO]: Named entity bvt['Bloodmite'/6177, l='ServerLevel[world]', x=713.68, y=168.00, z=-910.31] died: Bloodmite was slain by Danielcf37 using [Smoldering Labrys of Combustion]
+[01:55:52] [Server thread/INFO]: Named entity bvo['Bloodcloud'/6255, l='ServerLevel[world]', x=682.88, y=168.00, z=-930.07] died: Bloodcloud was killed
+[01:55:57] [Server thread/INFO]: Named entity bvm['Bombardier'/5843, l='ServerLevel[world]', x=685.70, y=168.00, z=-905.24] died: Bombardier was slain by Danielcf37 using [Smoldering Labrys of Combustion]
+[01:56:02] [Server thread/INFO]: Named entity bwk['Leftovers'/6259, l='ServerLevel[world]', x=678.68, y=168.00, z=-900.19] died: Leftovers was killed whilst fighting Danielcf37
+[01:56:06] [Server thread/INFO]: Named entity bvo['Rage Creeper'/5823, l='ServerLevel[world]', x=682.59, y=168.00, z=-902.39] died: Rage Creeper blew up
+[01:56:19] [Server thread/INFO]: Named entity bwk['Leftovers'/5420, l='ServerLevel[world]', x=671.39, y=170.00, z=-916.75] died: Leftovers was killed whilst fighting Danielcf37
+[01:56:39] [Server thread/INFO]: Named entity bwk['Leftovers'/5978, l='ServerLevel[world]', x=687.32, y=168.00, z=-930.48] died: Leftovers was killed
+[01:56:48] [Server thread/INFO]: Named entity bvt['Bloodmite'/6178, l='ServerLevel[world]', x=703.27, y=168.00, z=-934.50] died: Bloodmite was blown up by Rage Creeper
+[01:56:49] [Server thread/INFO]: Named entity bwk['Leftovers'/6369, l='ServerLevel[world]', x=694.08, y=168.00, z=-933.50] died: Leftovers was killed whilst fighting Danielcf37
+[01:57:02] [Server thread/INFO]: Named entity bvo['Bloodcloud'/6536, l='ServerLevel[world]', x=675.61, y=167.81, z=-911.54] died: Bloodcloud was killed
+[01:57:21] [Server thread/INFO]: Named entity bvt['Bloodmite'/6179, l='ServerLevel[world]', x=700.09, y=168.00, z=-905.16] died: Bloodmite was burnt to a crisp whilst fighting Danielcf37
+[01:57:26] [Server thread/INFO]: Named entity bxe['Cannibal'/6337, l='ServerLevel[world]', x=703.37, y=168.00, z=-914.53] died: Cannibal was slain by Danielcf37 using [Smoldering Labrys of Combustion]
+[01:57:27] [Server thread/INFO]: Named entity bvo['Bloodcloud'/6361, l='ServerLevel[world]', x=698.59, y=168.00, z=-913.53] died: Bloodcloud was killed
+[01:57:30] [Server thread/INFO]: Named entity bvo['Rage Creeper'/6227, l='ServerLevel[world]', x=703.96, y=168.00, z=-912.96] died: Rage Creeper was slain by Danielcf37 using [Smoldering Labrys of Combustion]
+[01:57:32] [Server thread/INFO]: Named entity bxe['Cannibal'/6635, l='ServerLevel[world]', x=701.39, y=168.00, z=-907.71] died: Cannibal was slain by Danielcf37 using [Smoldering Labrys of Combustion]
+[01:57:37] [Server thread/INFO]: Named entity bvo['Rage Creeper'/6511, l='ServerLevel[world]', x=702.50, y=168.00, z=-923.45] died: Rage Creeper was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[01:57:43] [Server thread/INFO]: Named entity bxe['Cannibal'/6633, l='ServerLevel[world]', x=704.80, y=168.00, z=-919.63] died: Cannibal was slain by Danielcf37 using [Smoldering Labrys of Combustion]
+[01:57:51] [Server thread/INFO]: Named entity bwx['Baby Cannibal'/6608, l='ServerLevel[world]', x=709.28, y=168.00, z=-891.48] died: Baby Cannibal was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[01:57:51] [Server thread/INFO]: Named entity bwx['Baby Cannibal'/6609, l='ServerLevel[world]', x=709.53, y=169.00, z=-889.97] died: Baby Cannibal was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[01:57:56] [Server thread/INFO]: Named entity bvo['Rage Creeper'/6638, l='ServerLevel[world]', x=700.11, y=168.00, z=-897.30] died: Rage Creeper withered away whilst fighting Danielcf37
+[01:58:06] [Server thread/INFO]: Named entity bxe['Cannibal'/6631, l='ServerLevel[world]', x=706.12, y=168.00, z=-924.54] died: Cannibal was slain by Danielcf37 using [Smoldering Labrys of Combustion]
+[01:58:16] [Server thread/INFO]: Named entity bxh['☆ Butcher ☆'/6317, l='ServerLevel[world]', x=712.70, y=168.00, z=-911.50] died: ☆ Butcher ☆ was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[01:58:21] [Server thread/INFO]: Named entity bxe['Cannibal'/6826, l='ServerLevel[world]', x=711.90, y=168.00, z=-916.14] died: Cannibal was slain by Danielcf37 using [Smoldering Labrys of Combustion]
+[01:58:30] [Server thread/INFO]: Named entity bxe['Cannibal'/5436, l='ServerLevel[world]', x=691.89, y=168.00, z=-892.56] died: Cannibal was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[01:58:31] [Server thread/INFO]: Named entity bxe['Cannibal'/6830, l='ServerLevel[world]', x=704.64, y=168.00, z=-915.63] died: Cannibal was slain by Danielcf37 using [Smoldering Labrys of Combustion]
+[01:59:07] [Server thread/INFO]: Named entity bvo['Bloodcloud'/5828, l='ServerLevel[world]', x=671.46, y=170.00, z=-924.76] died: Bloodcloud was killed
+[01:59:10] [Server thread/INFO]: Named entity bwk['Leftovers'/6950, l='ServerLevel[world]', x=674.30, y=169.00, z=-922.89] died: Leftovers was killed whilst fighting TioSkrollex
+[01:59:25] [Server thread/INFO]: Named entity bwk['Leftovers'/7076, l='ServerLevel[world]', x=670.72, y=170.54, z=-922.50] died: Leftovers was killed whilst fighting Danielcf37
+[01:59:32] [Server thread/INFO]: Named entity bwk['Leftovers'/7008, l='ServerLevel[world]', x=672.27, y=169.54, z=-925.37] died: Leftovers was killed whilst fighting Danielcf37
+[01:59:43] [Server thread/INFO]: Named entity bvt['Bloodmite'/6937, l='ServerLevel[world]', x=699.77, y=168.00, z=-925.71] died: Bloodmite was killed whilst fighting TioSkrollex
+[01:59:44] [Server thread/INFO]: Named entity bvt['Bloodmite'/7004, l='ServerLevel[world]', x=700.33, y=168.00, z=-925.78] died: Bloodmite was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[01:59:44] [Server thread/INFO]: Named entity bvt['Bloodmite'/7002, l='ServerLevel[world]', x=700.08, y=168.00, z=-927.06] died: Bloodmite was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[01:59:44] [Server thread/INFO]: Named entity bvt['Bloodmite'/6938, l='ServerLevel[world]', x=697.85, y=168.00, z=-923.46] died: Bloodmite was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[01:59:44] [Server thread/INFO]: Named entity bvt['Bloodmite'/6936, l='ServerLevel[world]', x=696.91, y=168.00, z=-926.55] died: Bloodmite was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[01:59:49] [Server thread/INFO]: Named entity bvt['Bloodmite'/6745, l='ServerLevel[world]', x=670.74, y=170.00, z=-918.24] died: Bloodmite withered away
+[01:59:58] [Server thread/INFO]: Named entity bvt['Bloodmite'/7003, l='ServerLevel[world]', x=686.47, y=168.00, z=-920.14] died: Bloodmite was slain by Danielcf37 using [Hateblade]
+[01:59:59] [Server thread/INFO]: Named entity bwn['Flamecrawler'/7270, l='ServerLevel[world]', x=687.21, y=168.00, z=-917.50] died: Flamecrawler was slain by Danielcf37 using [Hateblade]
+[02:00:31] [Server thread/INFO]: Named entity bxh['☆ Butcher ☆'/5732, l='ServerLevel[world]', x=664.27, y=171.45, z=-917.35] died: ☆ Butcher ☆ burned to death
+[02:00:54] [Server thread/INFO]: Named entity bvo['Bloodcloud'/6306, l='ServerLevel[world]', x=699.70, y=165.30, z=-938.70] died: Bloodcloud was killed
+[02:00:54] [Server thread/INFO]: Named entity bvo['Bloodcloud'/6513, l='ServerLevel[world]', x=699.30, y=165.30, z=-938.30] died: Bloodcloud was killed
+[02:00:54] [Server thread/INFO]: Named entity bvo['Bloodcloud'/7305, l='ServerLevel[world]', x=699.30, y=165.28, z=-938.70] died: Bloodcloud was killed
+[02:00:54] [Server thread/INFO]: Named entity bvo['Bloodcloud'/7479, l='ServerLevel[world]', x=699.30, y=165.29, z=-938.70] died: Bloodcloud was killed
+[02:00:54] [Server thread/INFO]: Named entity bvo['Bloodcloud'/7565, l='ServerLevel[world]', x=699.30, y=165.30, z=-938.30] died: Bloodcloud was killed
+[02:00:54] [Server thread/INFO]: Named entity bvo['Bloodcloud'/7672, l='ServerLevel[world]', x=699.70, y=165.29, z=-938.70] died: Bloodcloud was killed
+[02:00:55] [Server thread/INFO]: Named entity bxh['☆ Butcher ☆'/6399, l='ServerLevel[world]', x=651.17, y=175.00, z=-920.72] died: ☆ Butcher ☆ was slain by Danielcf37 using [Smoldering Labrys of Combustion]
+[02:01:04] [Server thread/INFO]: Named entity bvo['Bloodcloud'/7777, l='ServerLevel[world]', x=699.44, y=165.18, z=-938.38] died: Bloodcloud was killed
+[02:01:19] [Server thread/INFO]: Named entity bvo['Bloodcloud'/7805, l='ServerLevel[world]', x=636.33, y=177.00, z=-920.53] died: Bloodcloud was killed
+[02:01:26] [Server thread/INFO]: Named entity bwn['Flamecrawler'/7818, l='ServerLevel[world]', x=648.47, y=176.00, z=-918.87] died: Flamecrawler was slain by Danielcf37 using [Smoldering Labrys of Combustion]
+[02:01:41] [Server thread/INFO]: Named entity bvo['Bloodcloud'/7873, l='ServerLevel[world]', x=624.33, y=176.75, z=-926.89] died: Bloodcloud was killed
+[02:01:52] [Server thread/INFO]: Named entity bwk['Leftovers'/7695, l='ServerLevel[world]', x=623.75, y=176.00, z=-923.30] died: Leftovers was killed whilst fighting Danielcf37
+[02:01:59] [Server thread/INFO]: Named entity bwk['Leftovers'/7888, l='ServerLevel[world]', x=615.67, y=178.00, z=-920.49] died: Leftovers was killed whilst fighting Danielcf37
+[02:02:00] [Server thread/INFO]: Named entity bvo['Rage Creeper'/7909, l='ServerLevel[world]', x=628.17, y=176.64, z=-921.63] died: Rage Creeper was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[02:02:18] [Server thread/INFO]: Named entity bvo['Bloodcloud'/7922, l='ServerLevel[world]', x=630.44, y=177.00, z=-927.18] died: Bloodcloud was killed
+[02:02:23] [Server thread/INFO]: Named entity bvo['Rage Creeper'/7682, l='ServerLevel[world]', x=630.70, y=179.00, z=-930.70] died: Rage Creeper was slain by Danielcf37 using [Smoldering Labrys of Combustion]
+[02:02:27] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=631, y=190, z=-928} gu{x=631, y=190, z=-927}
+[02:02:29] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=632, y=189, z=-928} gu{x=632, y=189, z=-926}
+[02:02:29] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=632, y=189, z=-928} gu{x=632, y=189, z=-926}
+[02:02:29] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=632, y=189, z=-929} gu{x=632, y=189, z=-926}
+[02:02:31] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=632, y=191, z=-927} gu{x=633, y=190, z=-926}
+[02:02:31] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=632, y=191, z=-927} gu{x=633, y=190, z=-926}
+[02:02:43] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=636, y=192, z=-919} gu{x=636, y=191, z=-918}
+[02:02:49] [Server thread/INFO]: Named entity bvo['Rage Creeper'/8040, l='ServerLevel[world]', x=627.25, y=176.64, z=-915.11] died: Rage Creeper was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[02:02:53] [Server thread/INFO]: Named entity bvo['Bloodcloud'/8189, l='ServerLevel[world]', x=616.30, y=176.63, z=-914.38] died: Bloodcloud was killed
+[02:03:15] [Server thread/INFO]: Named entity bvo['Bloodcloud'/8228, l='ServerLevel[world]', x=613.88, y=178.00, z=-920.48] died: Bloodcloud was killed
+[02:03:18] [Server thread/INFO]: Named entity bvm['Bombardier'/8223, l='ServerLevel[world]', x=590.30, y=179.13, z=-921.28] died: Bombardier was slain by Danielcf37 using [Smoldering Labrys of Combustion]
+[02:03:31] [Server thread/INFO]: Named entity bwk['Leftovers'/7984, l='ServerLevel[world]', x=608.05, y=176.00, z=-940.70] died: Leftovers was killed whilst fighting TioSkrollex
+[02:03:35] [Server thread/INFO]: Named entity bvo['Rage Creeper'/8024, l='ServerLevel[world]', x=600.56, y=176.50, z=-938.62] died: Rage Creeper was killed whilst fighting TioSkrollex
+[02:03:42] [Server thread/INFO]: Named entity bvo['Bloodcloud'/8372, l='ServerLevel[world]', x=602.69, y=176.19, z=-941.52] died: Bloodcloud was killed
+[02:03:45] [Server thread/INFO]: Named entity bvo['Rage Creeper'/8155, l='ServerLevel[world]', x=595.57, y=178.18, z=-918.76] died: Rage Creeper was shot by Danielcf37 using [Watcher's Bow of Healing]
+[02:03:47] [Server thread/INFO]: Named entity bwn['Flamecrawler'/8331, l='ServerLevel[world]', x=602.33, y=176.60, z=-930.23] died: Flamecrawler was shot by Danielcf37 using [Watcher's Bow of Healing]
+[02:03:49] [Server thread/INFO]: Named entity bvo['Bloodcloud'/8295, l='ServerLevel[world]', x=604.59, y=177.77, z=-936.23] died: Bloodcloud was killed
+[02:03:57] [Server thread/INFO]: Named entity bvo['Bloodcloud'/8439, l='ServerLevel[world]', x=591.46, y=176.71, z=-919.58] died: Bloodcloud was killed
+[02:04:04] [Server thread/INFO]: Named entity bvo['Bloodcloud'/8336, l='ServerLevel[world]', x=590.01, y=177.00, z=-918.28] died: Bloodcloud was killed
+[02:04:05] [Server thread/INFO]: Named entity bvo['Bloodcloud'/8483, l='ServerLevel[world]', x=611.41, y=176.54, z=-914.47] died: Bloodcloud was killed
+[02:04:18] [Server thread/INFO]: Named entity bvo['Bloodcloud'/8485, l='ServerLevel[world]', x=609.95, y=178.00, z=-921.46] died: Bloodcloud was killed
+[02:04:36] [Server thread/INFO]: Named entity bvo['Bloodcloud'/8438, l='ServerLevel[world]', x=588.35, y=176.77, z=-934.14] died: Bloodcloud was killed
+[02:04:48] [Server thread/INFO]: Named entity bwk['Leftovers'/7810, l='ServerLevel[world]', x=596.66, y=176.00, z=-927.00] died: Leftovers was killed whilst fighting TioSkrollex
+[02:05:18] [Server thread/WARN]: UUID of added entity already exists: buy['Glow Item Frame'/8734, l='ServerLevel[world]', x=-53.50, y=171.03, z=283.50]
