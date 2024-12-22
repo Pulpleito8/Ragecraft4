@@ -630,3 +630,12 @@
 [03:07:30] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
 [03:07:30] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
 [03:07:30] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:09:53] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:09:53] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:09:53] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:09:55] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:09:55] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:09:55] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:18:07] [Server thread/INFO]: Named entity bwv['Zombee'/22832, l='ServerLevel[world]', x=437.81, y=75.01, z=-969.03] died: Zombee was killed whilst fighting TioSkrollex
+[03:18:39] [Server thread/INFO]: Named entity bwv['Zombee'/22840, l='ServerLevel[world]', x=386.18, y=86.26, z=-963.05] died: Zombee was killed whilst fighting TioSkrollex
+[03:18:43] [Server thread/INFO]: Named entity bwv['Zombee'/22767, l='ServerLevel[world]', x=387.47, y=85.43, z=-961.31] died: Zombee was slain by TioSkrollex using [Phantom's Rapier of Evisceration]
