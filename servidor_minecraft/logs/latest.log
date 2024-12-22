@@ -256,3 +256,19 @@
 [02:04:36] [Server thread/INFO]: Named entity bvo['Bloodcloud'/8438, l='ServerLevel[world]', x=588.35, y=176.77, z=-934.14] died: Bloodcloud was killed
 [02:04:48] [Server thread/INFO]: Named entity bwk['Leftovers'/7810, l='ServerLevel[world]', x=596.66, y=176.00, z=-927.00] died: Leftovers was killed whilst fighting TioSkrollex
 [02:05:18] [Server thread/WARN]: UUID of added entity already exists: buy['Glow Item Frame'/8734, l='ServerLevel[world]', x=-53.50, y=171.03, z=283.50]
+[02:07:53] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:07:53] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:07:53] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:07:56] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:07:56] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:07:56] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:08:26] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:08:26] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:08:26] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:08:41] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:08:41] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:08:41] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:16:18] [Server thread/INFO]: Named entity bvz['Wildfire'/10639, l='ServerLevel[world]', x=860.28, y=9.81, z=-895.86] died: Wildfire was slain by Danielcf37 using [Hateblade]
+[02:16:29] [Server thread/INFO]: Named entity bvz['Wildfire'/10637, l='ServerLevel[world]', x=864.50, y=9.00, z=-924.74] died: Wildfire was killed whilst fighting TioSkrollex
+[02:16:36] [Server thread/INFO]: Named entity bvz['Wildfire'/10653, l='ServerLevel[world]', x=862.93, y=9.00, z=-931.21] died: Wildfire was slain by Danielcf37 using [Hateblade]
+[02:17:42] [Server thread/INFO]: Named entity bxe['Piglin Bandit'/11006, l='ServerLevel[world]', x=546.52, y=85.19, z=-998.42] died: Piglin Bandit was slain by Danielcf37 using [Hateblade]
