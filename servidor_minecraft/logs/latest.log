@@ -789,3 +789,93 @@
 [03:38:24] [Server thread/WARN]: UUID of added entity already exists: buy['Glow Item Frame'/26553, l='ServerLevel[world]', x=-53.50, y=171.03, z=283.50]
 [03:38:26] [Server thread/WARN]: UUID of added entity already exists: buy['Glow Item Frame'/26630, l='ServerLevel[world]', x=-53.50, y=171.03, z=283.50]
 [03:38:32] [Server thread/WARN]: UUID of added entity already exists: buy['Glow Item Frame'/26709, l='ServerLevel[world]', x=-53.50, y=171.03, z=283.50]
+[03:40:06] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:40:06] [Server thread/ERROR]: Display entityNot a string
+[03:40:06] [Server thread/ERROR]: Display entityNot a string
+[03:40:21] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:40,cr_boots:1,cr_chestplate:1,cr_helmet:1,cr_leggings:1,cr_rarity:1,cr_tier:1,cr_upgrade:1,dis_upgrade:1,display:{Lore:['{"text":"Uncommon Upgrade Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"c","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"8","color":"blue","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"1","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"any Armor item ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','{"text":"+0.5 Armor","color":"blue","bold":false,"italic":false}'],Name:'{"text":"Rune of the Turtle","color":"#269AFF","bold":true,"italic":false}'}}}
+[03:40:21] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:40:21] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:40:21] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:40:21] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:40:21] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:40:51] [Server thread/ERROR]: Display entityNot a string
+[03:42:45] [Server thread/ERROR]: Display entityNot a string
+[03:42:55] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:21,cr_boots:1,cr_modifier:84,cr_rarity:1,cr_tier:4,display:{Lore:['{"text":"Uncommon Suffix Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"d","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"15","color":"light_purple","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"4","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"Boots ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','[{"text":"[Bullrush] ","color":"red","bold":true,"italic":false},{"text":"Sprint and attack to deal 10","color":"#FA8578","bold":false,"italic":false}]','{"text":"damage to all nearby enemies and knock","color":"#FA8578","bold":false,"italic":false}','{"text":"them away. This damage is increased to","color":"#FA8578","bold":false,"italic":false}','{"text":"15 if you are wielding an axe.","color":"#FA8578","bold":false,"italic":false}'],Name:'{"text":"Rune of the Bull","color":"#269AFF","bold":true,"italic":false}'}}}
+[03:42:55] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:42:55] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:42:55] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:42:55] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:42:55] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:42:55] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:42:57] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:42:57] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:42:57] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:43:08] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:43:08] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:43:08] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:43:12] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:43:12] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:43:12] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:43:16] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:43:16] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:43:16] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:43:19] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:43:19] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:43:19] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:43:21] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:43:21] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:43:21] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:43:24] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:43:24] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:43:24] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:44:08] [Server thread/INFO]: Named entity bwv['Zombee'/27888, l='ServerLevel[world]', x=358.75, y=122.00, z=-1005.85] died: Zombee was killed whilst fighting Danielcf37
+[03:44:29] [Server thread/INFO]: Named entity bwv['Zombee'/28014, l='ServerLevel[world]', x=383.20, y=122.92, z=-1022.07] died: Zombee was slain by TioSkrollex using [Phantom's Rapier of Evisceration]
+[03:44:32] [Server thread/INFO]: Named entity bww['☆ Bee Keeper ☆'/28020, l='ServerLevel[world]', x=381.50, y=122.00, z=-1023.60] died: ☆ Bee Keeper ☆ was slain by Danielcf37 using [Gluttony]
+[03:44:37] [Server thread/INFO]: Named entity brm['Raging Bee'/28054, l='ServerLevel[world]', x=379.73, y=123.46, z=-1017.18] died: Raging Bee withered away whilst fighting Danielcf37
+[03:44:37] [Server thread/INFO]: Named entity brm['Raging Bee'/28055, l='ServerLevel[world]', x=380.69, y=122.43, z=-1020.63] died: Raging Bee withered away whilst fighting Danielcf37
+[03:44:37] [Server thread/INFO]: Named entity brm['Raging Bee'/28078, l='ServerLevel[world]', x=381.67, y=122.77, z=-1018.53] died: Raging Bee withered away whilst fighting Danielcf37
+[03:44:38] [Server thread/INFO]: Named entity bwv['Zombee'/28053, l='ServerLevel[world]', x=379.55, y=121.50, z=-1015.52] died: Zombee withered away whilst fighting Danielcf37
+[03:44:38] [Server thread/INFO]: Named entity brm['Raging Bee'/28077, l='ServerLevel[world]', x=380.36, y=123.21, z=-1018.47] died: Raging Bee was killed whilst fighting Danielcf37
+[03:44:38] [Server thread/INFO]: Named entity brm['Raging Bee'/28083, l='ServerLevel[world]', x=381.05, y=122.99, z=-1018.69] died: Raging Bee was killed whilst fighting Danielcf37
+[03:44:40] [Server thread/INFO]: Named entity bwv['Zombee'/28057, l='ServerLevel[world]', x=365.76, y=122.98, z=-1029.01] died: Zombee was slain by TioSkrollex using [Phantom's Rapier of Evisceration]
+[03:45:10] [Server thread/INFO]: Named entity bwv['Zombee'/28066, l='ServerLevel[world]', x=373.84, y=120.95, z=-1028.96] died: Zombee was killed whilst fighting Danielcf37
+[03:45:14] [Server thread/INFO]: Named entity bwv['Zombee'/28060, l='ServerLevel[world]', x=384.30, y=122.00, z=-1027.30] died: Zombee was killed whilst fighting Danielcf37
+[03:45:30] [Server thread/INFO]: Named entity bwv['Zombee'/28148, l='ServerLevel[world]', x=380.17, y=121.80, z=-1041.47] died: Zombee was slain by Danielcf37 using [Gluttony]
+[03:45:41] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=384, y=123, z=-1030} gu{x=384, y=121, z=-1029}
+[03:45:43] [Server thread/INFO]: Named entity bwv['Zombee'/28246, l='ServerLevel[world]', x=387.02, y=122.24, z=-1029.43] died: Zombee was killed whilst fighting Danielcf37
+[03:46:03] [Server thread/INFO]: Named entity bwe['Ancient Phantom'/28221, l='ServerLevel[world]', x=398.53, y=123.33, z=-1047.33] died: Ancient Phantom was killed whilst fighting TioSkrollex
+[03:46:18] [Server thread/INFO]: Named entity bww['Empyrian Curator'/28354, l='ServerLevel[world]', x=361.75, y=134.00, z=-1040.49] died: Empyrian Curator was killed whilst fighting Danielcf37
+[03:46:22] [Server thread/INFO]: Named entity bww['Empyrian Curator'/28355, l='ServerLevel[world]', x=363.88, y=134.91, z=-1041.47] died: Empyrian Curator was blown up by Creeper
+[03:46:22] [Server thread/INFO]: Named entity brm['Raging Bee'/28390, l='ServerLevel[world]', x=363.26, y=135.23, z=-1042.20] died: Raging Bee was blown up by Creeper
+[03:46:22] [Server thread/INFO]: Named entity brm['Raging Bee'/28391, l='ServerLevel[world]', x=364.79, y=135.23, z=-1040.36] died: Raging Bee was blown up by Creeper
+[03:46:23] [Server thread/INFO]: Named entity bww['Empyrian Curator'/28347, l='ServerLevel[world]', x=399.97, y=122.00, z=-1050.41] died: Empyrian Curator was slain by TioSkrollex using [Phantom's Rapier of Evisceration]
+[03:46:24] [Server thread/INFO]: Named entity bww['☆ Bee Keeper ☆'/28357, l='ServerLevel[world]', x=365.77, y=134.50, z=-1044.26] died: ☆ Bee Keeper ☆ was killed whilst fighting Danielcf37
+[03:46:37] [Server thread/INFO]: Named entity brm['Raging Bee'/28414, l='ServerLevel[world]', x=347.31, y=136.37, z=-1027.83] died: Raging Bee was blown up by Creeper
+[03:46:37] [Server thread/INFO]: Named entity brm['Raging Bee'/28411, l='ServerLevel[world]', x=347.49, y=135.24, z=-1024.25] died: Raging Bee was blown up by Creeper
+[03:46:37] [Server thread/INFO]: Named entity brm['Raging Bee'/28415, l='ServerLevel[world]', x=346.55, y=134.00, z=-1021.10] died: Raging Bee was blown up by Creeper
+[03:46:47] [Server thread/INFO]: Named entity bww['Empyrian Curator'/28505, l='ServerLevel[world]', x=412.30, y=122.00, z=-1059.36] died: Empyrian Curator was slain by TioSkrollex using [Phantom's Rapier of Evisceration]
+[03:46:47] [Server thread/INFO]: Named entity bww['Empyrian Curator'/28351, l='ServerLevel[world]', x=412.81, y=122.00, z=-1058.68] died: Empyrian Curator was slain by TioSkrollex using [Phantom's Rapier of Evisceration]
+[03:47:09] [Server thread/INFO]: Named entity bww['Empyrian Curator'/28552, l='ServerLevel[world]', x=337.83, y=133.45, z=-1027.70] died: Empyrian Curator was slain by Danielcf37 using [Gluttony]
+[03:47:18] [Server thread/INFO]: Named entity bwv['Zombee'/27924, l='ServerLevel[world]', x=347.90, y=133.82, z=-1024.70] died: Zombee was killed whilst fighting Danielcf37
+[03:47:19] [Server thread/INFO]: Named entity brm['Raging Bee'/28586, l='ServerLevel[world]', x=346.62, y=134.00, z=-1023.82] died: Raging Bee was slain by Danielcf37 using [Gluttony]
+[03:47:24] [Server thread/INFO]: Named entity brm['Raging Bee'/28621, l='ServerLevel[world]', x=346.37, y=136.18, z=-1026.79] died: Raging Bee was slain by Danielcf37 using [Gluttony]
+[03:47:28] [Server thread/INFO]: Named entity brm['Raging Bee'/28620, l='ServerLevel[world]', x=348.28, y=136.07, z=-1025.73] died: Raging Bee was killed whilst fighting Danielcf37
+[03:47:30] [Server thread/INFO]: Named entity brm['Raging Bee'/28585, l='ServerLevel[world]', x=336.98, y=134.04, z=-1025.99] died: Raging Bee withered away whilst fighting Danielcf37
+[03:47:35] [Server thread/INFO]: Named entity brm['Raging Bee'/28692, l='ServerLevel[world]', x=337.79, y=134.95, z=-1024.39] died: Raging Bee was slain by Danielcf37 using [Gluttony]
+[03:47:40] [Server thread/INFO]: Named entity bwv['Zombee'/28655, l='ServerLevel[world]', x=340.38, y=134.00, z=-1024.57] died: Zombee was slain by Danielcf37 using [Gluttony]
+[03:47:41] [Server thread/INFO]: Named entity brm['Raging Bee'/28712, l='ServerLevel[world]', x=338.07, y=134.25, z=-1025.20] died: Raging Bee was slain by Danielcf37 using [Gluttony]
+[03:47:42] [Server thread/INFO]: Named entity bww['☆ Bee Keeper ☆'/28553, l='ServerLevel[world]', x=336.38, y=133.45, z=-1025.95] died: ☆ Bee Keeper ☆ was slain by Danielcf37 using [Gluttony]
+[03:47:47] [Server thread/INFO]: Named entity brm['Raging Bee'/28691, l='ServerLevel[world]', x=336.18, y=134.04, z=-1025.93] died: Raging Bee withered away whilst fighting Danielcf37
+[03:47:47] [Server thread/INFO]: Named entity brm['Raging Bee'/28730, l='ServerLevel[world]', x=336.98, y=134.04, z=-1025.99] died: Raging Bee withered away whilst fighting Danielcf37
+[03:47:47] [Server thread/INFO]: Named entity brm['Raging Bee'/28713, l='ServerLevel[world]', x=335.77, y=135.58, z=-1024.47] died: Raging Bee withered away whilst fighting Danielcf37
+[03:47:47] [Server thread/INFO]: Named entity brm['Raging Bee'/28728, l='ServerLevel[world]', x=337.65, y=134.23, z=-1022.56] died: Raging Bee withered away whilst fighting Danielcf37
+[03:47:47] [Server thread/INFO]: Named entity brm['Raging Bee'/28731, l='ServerLevel[world]', x=340.18, y=136.50, z=-1024.73] died: Raging Bee withered away whilst fighting Danielcf37
+[03:47:54] [Server thread/INFO]: Named entity bww['Empyrian Curator'/28776, l='ServerLevel[world]', x=336.58, y=133.45, z=-1025.96] died: Empyrian Curator was killed whilst fighting Danielcf37
+[03:48:23] [Server thread/INFO]: Named entity bwv['Zombee'/28839, l='ServerLevel[world]', x=341.46, y=134.00, z=-1026.27] died: Zombee was killed whilst fighting Danielcf37
+[03:48:25] [Server thread/INFO]: Named entity bwv['Zombee'/28708, l='ServerLevel[world]', x=343.11, y=134.14, z=-1026.60] died: Zombee was killed whilst fighting Danielcf37
+[03:48:45] [Server thread/INFO]: Named entity bwv['Zombee'/28910, l='ServerLevel[world]', x=398.73, y=122.00, z=-1084.16] died: Zombee was slain by TioSkrollex using [Phantom's Rapier of Evisceration]
+[03:48:49] [Server thread/INFO]: Named entity bww['Empyrian Curator'/28575, l='ServerLevel[world]', x=388.46, y=122.00, z=-1082.63] died: Empyrian Curator was slain by TioSkrollex using [Phantom's Rapier of Evisceration]
+[03:48:50] [Server thread/INFO]: Named entity brm['Raging Bee'/28944, l='ServerLevel[world]', x=387.52, y=123.40, z=-1081.92] died: Raging Bee was slain by TioSkrollex using [Phantom's Rapier of Evisceration]
+[03:48:57] [Server thread/INFO]: Named entity brm['Raging Bee'/28945, l='ServerLevel[world]', x=396.67, y=122.08, z=-1083.21] died: Raging Bee was slain by TioSkrollex using [Phantom's Rapier of Evisceration]
+[03:49:18] [Server thread/INFO]: Named entity bww['☆ Bee Keeper ☆'/28576, l='ServerLevel[world]', x=373.36, y=123.00, z=-1115.48] died: ☆ Bee Keeper ☆ was burnt to a crisp whilst fighting TioSkrollex
+[03:49:18] [Server thread/INFO]: Named entity brm['Raging Bee'/28975, l='ServerLevel[world]', x=368.96, y=122.44, z=-1116.22] died: Raging Bee was slain by TioSkrollex using [Phantom's Rapier of Evisceration]
