@@ -1204,3 +1204,13 @@
 [06:36:20] [Server thread/INFO]: Named entity bvm['Bombardier'/42988, l='ServerLevel[world]', x=837.91, y=42.95, z=-872.52] died: Bombardier was shot by Danielcf37 using [Watcher's Bow of Healing]
 [06:36:21] [Server thread/INFO]: Named entity bvz['Wildfire'/43018, l='ServerLevel[world]', x=837.31, y=5.00, z=-888.30] died: Wildfire suffocated in a wall
 [06:36:22] [Server thread/INFO]: Named entity bws['Grenadier'/42754, l='ServerLevel[world]', x=837.77, y=40.50, z=-878.77] died: Grenadier was shot by TioSkrollex using [The Sting]
+[06:36:33] [Server thread/INFO]: Named entity brm['Infernal Wisp'/43099, l='ServerLevel[world]', x=838.24, y=40.96, z=-879.06] died: Infernal Wisp was slain by Danielcf37 using [Gluttony]
+[06:36:37] [Server thread/INFO]: Named entity brm['Infernal Wisp'/43100, l='ServerLevel[world]', x=838.97, y=41.14, z=-882.43] died: Infernal Wisp withered away whilst fighting TioSkrollex
+[06:36:41] [Server thread/INFO]: TioSkrollex blew up
+[06:36:44] [Server thread/INFO]: Danielcf37 was doomed to fall
+[06:37:51] [Server thread/INFO]: Named entity bvz['Wildfire'/43020, l='ServerLevel[world]', x=841.49, y=5.00, z=-884.61] died: Wildfire suffocated in a wall
+[06:38:25] [Server thread/INFO]: Named entity bwn['Icecrawler'/43948, l='ServerLevel[world]', x=928.70, y=-177.90, z=-943.30] died: Icecrawler was killed
+[06:45:13] [Server thread/ERROR]: Display entityNot a string
+[06:45:13] [Server thread/ERROR]: Display entityNot a string
+[06:45:13] [Server thread/ERROR]: Display entityNot a string
+[06:46:16] [Server thread/ERROR]: Display entityNot a string
