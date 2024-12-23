@@ -1273,3 +1273,17 @@
 [07:01:40] [Server thread/INFO]: Danielcf37 was doomed to fall
 [07:03:41] [Server thread/INFO]: Named entity bvo['Brimstone Creeper'/48819, l='ServerLevel[world]', x=860.41, y=82.00, z=-837.50] died: Brimstone Creeper blew up
 [07:06:25] [Server thread/INFO]: Named entity bvz['Wildfire'/49723, l='ServerLevel[world]', x=811.53, y=153.00, z=-835.73] died: Wildfire was shot by TioSkrollex using [The Sting]
+[07:07:59] [Server thread/INFO]: Named entity bvo['Brimstone Creeper'/48994, l='ServerLevel[world]', x=848.46, y=93.00, z=-836.47] died: Brimstone Creeper was slain by Danielcf37 using [Sorcerer's Rapier of Evisceration]
+[07:08:25] [Server thread/INFO]: Named entity bvz['Wildfire'/50201, l='ServerLevel[world]', x=848.62, y=5.00, z=-838.60] died: Wildfire fell from a high place
+[07:09:45] [Server thread/WARN]: UUID of added entity already exists: buy['Glow Item Frame'/50565, l='ServerLevel[world]', x=-53.50, y=171.03, z=283.50]
+[07:13:28] [Server thread/INFO]: Named entity brm['Infernal Wisp'/50220, l='ServerLevel[world]', x=850.40, y=79.00, z=-831.19] died: Infernal Wisp was killed whilst fighting Danielcf37
+[07:13:41] [Server thread/WARN]: TioSkrollex moved wrongly!
+[07:14:07] [Server thread/INFO]: Named entity bvz['Wildfire'/51045, l='ServerLevel[world]', x=812.73, y=153.00, z=-830.39] died: Wildfire was shot by TioSkrollex using [The Sting]
+[07:14:09] [Server thread/INFO]: Named entity bvz['Wildfire'/51043, l='ServerLevel[world]', x=816.38, y=154.00, z=-827.20] died: Wildfire withered away whilst fighting TioSkrollex
+[07:14:24] [Server thread/INFO]: Named entity bwt['☆ Dreadmage ☆'/49712, l='ServerLevel[world]', x=827.26, y=153.00, z=-822.90] died: ☆ Dreadmage ☆ was slain by TioSkrollex using [Assassin's Claymore of Magma]
+[07:15:38] [Server thread/INFO]: Named entity bwt['☆ Dreadguard ☆'/51259, l='ServerLevel[world]', x=816.94, y=153.00, z=-824.06] died: ☆ Dreadguard ☆ was shot by TioSkrollex using [The Sting]
+[07:15:44] [Server thread/INFO]: Named entity bvz['Wildfire'/51270, l='ServerLevel[world]', x=822.38, y=153.00, z=-821.64] died: Wildfire blew up
+[07:15:56] [Server thread/INFO]: Named entity bwt['☆ Dreadmage ☆'/51258, l='ServerLevel[world]', x=814.34, y=153.00, z=-826.20] died: ☆ Dreadmage ☆ was slain by TioSkrollex using [Assassin's Claymore of Magma]
+[07:15:58] [Server thread/INFO]: Named entity bvz['Wildfire'/51330, l='ServerLevel[world]', x=813.44, y=153.00, z=-828.49] died: Wildfire was slain by TioSkrollex using [Assassin's Claymore of Magma]
+[07:16:04] [Server thread/INFO]: Named entity bvz['Wildfire'/51334, l='ServerLevel[world]', x=814.32, y=153.00, z=-820.17] died: Wildfire was slain by TioSkrollex using [Assassin's Claymore of Magma]
+[07:16:32] [Server thread/INFO]: Named entity bvo['Brimstone Creeper'/51274, l='ServerLevel[world]', x=800.47, y=153.00, z=-883.12] died: Brimstone Creeper was slain by TioSkrollex using [Assassin's Claymore of Magma]
