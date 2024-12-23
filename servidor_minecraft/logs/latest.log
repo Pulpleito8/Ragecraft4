@@ -341,3 +341,10 @@
 [02:47:37] [Server thread/INFO]: Named entity bwv['Zombee'/5189, l='ServerLevel[world]', x=347.50, y=97.00, z=-1229.07] died: Zombee withered away
 [02:49:51] [Server thread/WARN]: UUID of added entity already exists: buy['Glow Item Frame'/5618, l='ServerLevel[world]', x=-53.50, y=171.03, z=283.50]
 [02:50:46] [Server thread/WARN]: Danielcf37 moved wrongly!
+[03:05:38] [Server thread/INFO]: TioSkrollex[/127.54.56.198:36139] logged in with entity id 7269 at (278.4611041674309, 104.0, -1245.1846789737278)
+[03:05:38] [Server thread/INFO]: TioSkrollex joined the game
+[03:10:09] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=423, y=106, z=-1217} gu{x=422, y=106, z=-1218}
+[03:11:30] [Server thread/INFO]: Named entity bwv['Zombee'/7917, l='ServerLevel[world]', x=376.33, y=101.00, z=-1116.29] died: Zombee was slain by TioSkrollex using [Phantom's Rapier of Evisceration]
+[03:11:31] [Server thread/INFO]: Named entity bwv['Zombee'/7967, l='ServerLevel[world]', x=378.30, y=101.00, z=-1117.48] died: Zombee was slain by TioSkrollex using [Phantom's Rapier of Evisceration]
+[03:11:32] [Server thread/INFO]: Named entity bwv['Zombee'/7972, l='ServerLevel[world]', x=378.62, y=101.48, z=-1116.69] died: Zombee was slain by TioSkrollex using [Phantom's Rapier of Evisceration]
+[03:11:33] [Server thread/INFO]: Named entity bwv['Zombee'/7950, l='ServerLevel[world]', x=378.58, y=101.48, z=-1117.41] died: Zombee was slain by TioSkrollex using [Phantom's Rapier of Evisceration]
