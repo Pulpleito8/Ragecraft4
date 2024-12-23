@@ -742,3 +742,39 @@
 [04:14:17] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
 [04:14:17] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
 [04:14:17] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[04:14:39] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[04:14:39] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[04:14:39] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[04:17:47] [Server thread/INFO]: Named entity bwn['Nightmare'/19340, l='ServerLevel[world]', x=868.17, y=34.00, z=-969.65] died: Nightmare was shot by TioSkrollex using [The Sting]
+[04:17:54] [Server thread/INFO]: Named entity bwn['Nightmare'/19339, l='ServerLevel[world]', x=867.45, y=35.00, z=-972.84] died: Nightmare was slain by TioSkrollex using [Phantom's Rapier of Evisceration]
+[04:18:42] [Server thread/INFO]: Named entity bww['☆ Vampire ☆'/19598, l='ServerLevel[world]', x=842.76, y=-186.00, z=-1003.99] died: ☆ Vampire ☆ was killed whilst fighting Danielcf37
+[04:18:57] [Server thread/INFO]: Named entity brg['☆ Vampire ☆'/19651, l='ServerLevel[world]', x=852.42, y=-188.87, z=-1016.90] died: ☆ Vampire ☆ was killed
+[04:19:13] [Server thread/INFO]: Named entity bww['☆ Vampire ☆'/19680, l='ServerLevel[world]', x=852.04, y=-205.69, z=-1008.82] died: ☆ Vampire ☆ was killed whilst fighting TioSkrollex
+[04:19:28] [Server thread/INFO]: Named entity brg['☆ Vampire ☆'/19701, l='ServerLevel[world]', x=847.08, y=-202.05, z=-1012.71] died: ☆ Vampire ☆ was killed
+[04:19:34] [Server thread/INFO]: Named entity bww['☆ Vampire ☆'/19734, l='ServerLevel[world]', x=848.73, y=-203.00, z=-1008.06] died: ☆ Vampire ☆ was killed whilst fighting TioSkrollex
+[04:19:35] [Server thread/INFO]: Named entity brg['☆ Vampire ☆'/19745, l='ServerLevel[world]', x=848.75, y=58.22, z=-1007.56] died: ☆ Vampire ☆ was slain by TioSkrollex using [Phantom's Rapier of Evisceration]
+[04:20:29] [Server thread/INFO]: Named entity bww['☆ Vampire ☆'/19804, l='ServerLevel[world]', x=827.77, y=-177.00, z=-1011.55] died: ☆ Vampire ☆ was killed whilst fighting TioSkrollex
+[04:20:37] [Server thread/INFO]: Named entity brg['☆ Vampire ☆'/19832, l='ServerLevel[world]', x=835.60, y=85.34, z=-1011.69] died: ☆ Vampire ☆ withered away
+[04:20:52] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=787, y=92, z=-1010} gu{x=786, y=91, z=-1010}
+[04:20:52] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=787, y=92, z=-1010} gu{x=786, y=91, z=-1010}
+[04:20:58] [Server thread/INFO]: Named entity bwn['Nightmare'/19810, l='ServerLevel[world]', x=818.01, y=91.40, z=-1014.50] died: Nightmare was shot by Danielcf37 using [Watcher's Bow of Healing]
+[04:20:59] [Server thread/INFO]: Named entity bwn['Nightmare'/19777, l='ServerLevel[world]', x=817.31, y=91.17, z=-1013.36] died: Nightmare withered away whilst fighting Danielcf37
+[04:21:10] [Server thread/INFO]: Named entity bww['☆ Vampire ☆'/19896, l='ServerLevel[world]', x=802.27, y=-170.00, z=-1017.51] died: ☆ Vampire ☆ was killed whilst fighting Danielcf37
+[04:21:15] [Server thread/INFO]: Named entity bwv['Scarecrow'/19891, l='ServerLevel[world]', x=807.30, y=90.00, z=-1019.49] died: Scarecrow was slain by Danielcf37 using [Gluttony]
+[04:21:25] [Server thread/INFO]: Named entity bwv['Scarecrow'/19889, l='ServerLevel[world]', x=811.70, y=90.00, z=-1015.27] died: Scarecrow was slain by Danielcf37 using [Gluttony]
+[04:21:25] [Server thread/INFO]: Named entity brg['☆ Vampire ☆'/19951, l='ServerLevel[world]', x=800.75, y=-169.76, z=-1001.98] died: ☆ Vampire ☆ was killed
+[04:21:39] [Server thread/INFO]: Named entity bww['☆ Vampire ☆'/20000, l='ServerLevel[world]', x=817.05, y=-170.00, z=-1011.08] died: ☆ Vampire ☆ was killed whilst fighting Danielcf37
+[04:21:54] [Server thread/INFO]: Named entity brg['☆ Vampire ☆'/20016, l='ServerLevel[world]', x=835.88, y=-171.06, z=-1017.78] died: ☆ Vampire ☆ was killed
+[04:22:22] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=788, y=92, z=-1017} gu{x=787, y=92, z=-1017}
+[04:22:22] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=788, y=92, z=-1017} gu{x=787, y=92, z=-1017}
+[04:22:22] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=788, y=92, z=-1017} gu{x=787, y=92, z=-1017}
+[04:22:38] [Server thread/INFO]: Named entity bwn['Nightmare'/19969, l='ServerLevel[world]', x=798.32, y=90.63, z=-1012.53] died: Nightmare was slain by Danielcf37 using [Gluttony]
+[04:22:50] [Server thread/INFO]: Named entity bww['☆ Vampire ☆'/20065, l='ServerLevel[world]', x=809.28, y=-169.00, z=-1014.56] died: ☆ Vampire ☆ was killed whilst fighting Danielcf37
+[04:22:52] [Server thread/INFO]: Named entity bwn['Nightmare'/20196, l='ServerLevel[world]', x=787.50, y=92.00, z=-1036.50] died: Nightmare suffocated in a wall
+[04:23:05] [Server thread/INFO]: Named entity brg['☆ Vampire ☆'/20215, l='ServerLevel[world]', x=812.24, y=-169.01, z=-1016.96] died: ☆ Vampire ☆ was killed whilst fighting Danielcf37
+[04:23:14] [Server thread/INFO]: Named entity bww['☆ Vampire ☆'/20259, l='ServerLevel[world]', x=808.78, y=-170.55, z=-1019.06] died: ☆ Vampire ☆ was killed whilst fighting Danielcf37
+[04:23:14] [Server thread/INFO]: Named entity brg['☆ Vampire ☆'/20278, l='ServerLevel[world]', x=812.01, y=91.32, z=-1019.25] died: ☆ Vampire ☆ was killed whilst fighting Danielcf37
+[04:23:21] [Server thread/INFO]: Named entity bwn['Nightmare'/19956, l='ServerLevel[world]', x=785.03, y=96.10, z=-1013.30] died: Nightmare was slain by TioSkrollex using [Phantom's Rapier of Evisceration]
+[04:23:44] [Server thread/INFO]: Named entity bwn['Nightmare'/20324, l='ServerLevel[world]', x=760.01, y=93.00, z=-1081.03] died: Nightmare withered away
+[04:23:52] [Server thread/INFO]: Named entity bwn['Nightmare'/20364, l='ServerLevel[world]', x=761.50, y=95.00, z=-1075.50] died: Nightmare suffocated in a wall
+[04:24:09] [Server thread/INFO]: Named entity bwn['Nightmare'/20147, l='ServerLevel[world]', x=767.15, y=91.09, z=-1017.45] died: Nightmare was slain by Danielcf37 using [Gluttony]
