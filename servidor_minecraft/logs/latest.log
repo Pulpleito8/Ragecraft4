@@ -695,3 +695,50 @@
 [04:04:04] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=423, y=90, z=-1202} gu{x=422, y=88, z=-1202}
 [04:04:07] [Server thread/INFO]: Named entity bwv['Zombee'/16003, l='ServerLevel[world]', x=425.84, y=88.45, z=-1207.60] died: Zombee was killed whilst fighting TioSkrollex
 [04:04:07] [Server thread/INFO]: Named entity bwv['Zombee'/16020, l='ServerLevel[world]', x=426.63, y=88.45, z=-1207.44] died: Zombee was slain by TioSkrollex using [Phantom's Rapier of Evisceration]
+[04:04:16] [Server thread/INFO]: Named entity bwv['Zombee'/16163, l='ServerLevel[world]', x=426.04, y=88.45, z=-1207.56] died: Zombee was slain by TioSkrollex using [Phantom's Rapier of Evisceration]
+[04:04:25] [Server thread/WARN]: UUID of added entity already exists: buy['Glow Item Frame'/16319, l='ServerLevel[world]', x=-53.50, y=171.03, z=283.50]
+[04:04:33] [Server thread/INFO]: Named entity bwv['Zombee'/16245, l='ServerLevel[world]', x=418.92, y=89.00, z=-1199.83] died: Zombee was slain by TioSkrollex using [Phantom's Rapier of Evisceration]
+[04:04:35] [Server thread/WARN]: UUID of added entity already exists: buy['Glow Item Frame'/16408, l='ServerLevel[world]', x=-53.50, y=171.03, z=283.50]
+[04:04:45] [Server thread/INFO]: Named entity bwv['Zombee'/16393, l='ServerLevel[world]', x=431.83, y=89.00, z=-1201.66] died: Zombee was killed whilst fighting TioSkrollex
+[04:05:22] [Server thread/INFO]: Named entity bwv['Zombee'/15464, l='ServerLevel[world]', x=405.11, y=82.00, z=-1204.03] died: Zombee was slain by TioSkrollex using [Phantom's Rapier of Evisceration]
+[04:05:31] [Server thread/INFO]: Named entity bws['Empyrian Shaman'/15703, l='ServerLevel[world]', x=409.41, y=82.00, z=-1194.32] died: Empyrian Shaman was slain by TioSkrollex using [Phantom's Rapier of Evisceration]
+[04:06:09] [Server thread/INFO]: Named entity bvn['Doomfang'/16295, l='ServerLevel[world]', x=439.34, y=89.00, z=-1197.82] died: Doomfang was slain by TioSkrollex using [Phantom's Rapier of Evisceration]
+[04:06:11] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=436, y=90, z=-1203} gu{x=435, y=88, z=-1204}
+[04:06:11] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=436, y=90, z=-1203} gu{x=435, y=88, z=-1204}
+[04:06:18] [Server thread/INFO]: Named entity bwv['Zombee'/16884, l='ServerLevel[world]', x=447.81, y=90.71, z=-1212.28] died: Zombee was killed whilst fighting Danielcf37
+[04:06:20] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=452, y=90, z=-1192} gu{x=452, y=89, z=-1193}
+[04:07:25] [Server thread/INFO]: Named entity bvn['Doomfang'/17046, l='ServerLevel[world]', x=375.76, y=82.00, z=-1221.05] died: Doomfang was killed
+[04:08:27] [Server thread/WARN]: UUID of added entity already exists: buy['Glow Item Frame'/17218, l='ServerLevel[world]', x=-53.50, y=171.03, z=283.50]
+[04:09:15] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[04:09:15] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[04:09:15] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[04:09:41] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[04:09:41] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[04:09:41] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[04:09:46] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[04:09:46] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[04:09:46] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[04:10:07] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[04:10:07] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[04:10:07] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[04:13:31] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[04:13:31] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[04:13:31] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[04:13:39] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[04:13:39] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[04:13:39] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[04:13:46] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[04:13:46] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[04:13:46] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[04:13:49] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[04:13:49] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[04:13:49] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[04:13:59] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[04:13:59] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[04:13:59] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[04:14:15] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[04:14:15] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[04:14:15] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[04:14:17] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[04:14:17] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[04:14:17] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
