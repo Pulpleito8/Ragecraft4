@@ -613,3 +613,85 @@
 [03:52:44] [Server thread/INFO]: Named entity brm['Raging Bee'/14109, l='ServerLevel[world]', x=430.64, y=73.15, z=-1205.01] died: Raging Bee was killed whilst fighting Danielcf37
 [03:52:44] [Server thread/INFO]: Named entity brm['Raging Bee'/14110, l='ServerLevel[world]', x=427.68, y=78.16, z=-1197.04] died: Raging Bee was killed whilst fighting Danielcf37
 [03:53:42] [Server thread/ERROR]: Display entityNot a string
+[03:54:08] [Server thread/INFO]: TioSkrollex[/127.54.56.198:45815] logged in with entity id 14405 at (425.2208004028837, 60.0, -1202.699999988079)
+[03:54:08] [Server thread/INFO]: TioSkrollex joined the game
+[03:54:14] [Server thread/INFO]: TioSkrollex was stung to death
+[03:54:15] [Server thread/ERROR]: Display entityNot a string
+[03:54:16] [Server thread/INFO]: Named entity brm['Raging Bee'/14480, l='ServerLevel[world]', x=424.39, y=60.84, z=-1203.68] died: Raging Bee was killed whilst fighting TioSkrollex
+[03:54:16] [Server thread/INFO]: Named entity brm['Raging Bee'/14481, l='ServerLevel[world]', x=425.47, y=61.93, z=-1203.57] died: Raging Bee was killed whilst fighting TioSkrollex
+[03:54:42] [Server thread/ERROR]: Display entityNot a string
+[03:56:50] [Server thread/INFO]: Named entity brm['Raging Bee'/14892, l='ServerLevel[world]', x=427.22, y=72.71, z=-1196.67] died: Raging Bee was slain by TioSkrollex using [Phantom's Rapier of Evisceration]
+[03:56:50] [Server thread/INFO]: Named entity brm['Raging Bee'/14893, l='ServerLevel[world]', x=427.17, y=71.15, z=-1195.39] died: Raging Bee was slain by TioSkrollex using [Phantom's Rapier of Evisceration]
+[03:57:01] [Server thread/INFO]: Named entity bwv['Zombee'/14033, l='ServerLevel[world]', x=423.28, y=60.00, z=-1193.39] died: Zombee was killed whilst fighting TioSkrollex
+[03:57:01] [Server thread/INFO]: Named entity brm['Raging Bee'/14923, l='ServerLevel[world]', x=424.17, y=60.00, z=-1193.62] died: Raging Bee was slain by TioSkrollex using [Phantom's Rapier of Evisceration]
+[03:57:02] [Server thread/INFO]: Named entity brm['Raging Bee'/14922, l='ServerLevel[world]', x=422.35, y=60.07, z=-1192.33] died: Raging Bee was slain by TioSkrollex using [Phantom's Rapier of Evisceration]
+[03:57:03] [Server thread/INFO]: Named entity bwv['Zombee'/13937, l='ServerLevel[world]', x=422.70, y=59.00, z=-1193.70] died: Zombee was slain by TioSkrollex using [Phantom's Rapier of Evisceration]
+[03:57:03] [Server thread/INFO]: Named entity bvn['Doomfang'/14487, l='ServerLevel[world]', x=424.52, y=60.00, z=-1196.30] died: Doomfang was slain by TioSkrollex using [Phantom's Rapier of Evisceration]
+[03:57:03] [Server thread/INFO]: Named entity brm['Raging Bee'/14948, l='ServerLevel[world]', x=425.21, y=60.84, z=-1192.37] died: Raging Bee was slain by TioSkrollex using [Phantom's Rapier of Evisceration]
+[03:57:03] [Server thread/INFO]: Named entity brm['Raging Bee'/14949, l='ServerLevel[world]', x=423.41, y=60.00, z=-1194.07] died: Raging Bee was slain by TioSkrollex using [Phantom's Rapier of Evisceration]
+[03:57:05] [Server thread/INFO]: Named entity bww['☆ Bee Keeper ☆'/13108, l='ServerLevel[world]', x=422.30, y=59.00, z=-1192.38] died: ☆ Bee Keeper ☆ was slain by TioSkrollex using [Phantom's Rapier of Evisceration]
+[03:57:07] [Server thread/INFO]: Named entity brm['Raging Bee'/14967, l='ServerLevel[world]', x=422.88, y=61.17, z=-1192.15] died: Raging Bee was slain by TioSkrollex using [Phantom's Rapier of Evisceration]
+[03:57:08] [Server thread/INFO]: Named entity brm['Raging Bee'/14968, l='ServerLevel[world]', x=422.95, y=60.23, z=-1191.35] died: Raging Bee was slain by TioSkrollex using [Phantom's Rapier of Evisceration]
+[03:57:09] [Server thread/INFO]: Named entity brm['Raging Bee'/14969, l='ServerLevel[world]', x=422.95, y=61.84, z=-1192.84] died: Raging Bee was slain by TioSkrollex using [Phantom's Rapier of Evisceration]
+[03:57:10] [Server thread/INFO]: Named entity bwv['Zombee'/13414, l='ServerLevel[world]', x=408.69, y=82.00, z=-1210.96] died: Zombee was killed whilst fighting Danielcf37
+[03:57:16] [Server thread/INFO]: Named entity bvn['Doomfang'/14498, l='ServerLevel[world]', x=430.33, y=60.00, z=-1203.70] died: Doomfang was killed
+[03:57:27] [Server thread/INFO]: Named entity bwv['Zombee'/13958, l='ServerLevel[world]', x=430.31, y=61.75, z=-1206.41] died: Zombee was slain by TioSkrollex using [Phantom's Rapier of Evisceration]
+[03:57:36] [Server thread/INFO]: Named entity bwv['Zombee'/13613, l='ServerLevel[world]', x=428.23, y=59.00, z=-1205.97] died: Zombee was slain by TioSkrollex using [Phantom's Rapier of Evisceration]
+[03:57:49] [Server thread/INFO]: Named entity bvn['Doomfang'/14008, l='ServerLevel[world]', x=426.65, y=69.50, z=-1192.35] died: Doomfang was shot by Danielcf37 using [Watcher's Bow of Healing]
+[03:58:06] [Server thread/INFO]: Named entity bvo['Veiled Creeper'/15052, l='ServerLevel[world]', x=439.06, y=71.50, z=-1209.80] died: Veiled Creeper was burnt to a crisp whilst fighting TioSkrollex
+[03:58:23] [Server thread/INFO]: Named entity bvz['Earth Golem'/15094, l='ServerLevel[world]', x=442.46, y=71.02, z=-1207.21] died: Earth Golem was killed whilst fighting Danielcf37
+[03:58:26] [Server thread/INFO]: Named entity bvz['Earth Golem'/15126, l='ServerLevel[world]', x=444.80, y=70.00, z=-1205.51] died: Earth Golem was killed whilst fighting Danielcf37
+[03:58:30] [Server thread/INFO]: Named entity bvz['Earth Golem'/15141, l='ServerLevel[world]', x=446.90, y=70.00, z=-1209.56] died: Earth Golem was killed whilst fighting Danielcf37
+[03:58:35] [Server thread/INFO]: Named entity bvz['Earth Golem'/15158, l='ServerLevel[world]', x=446.48, y=69.77, z=-1208.50] died: Earth Golem was killed whilst fighting Danielcf37
+[03:58:38] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=459, y=71, z=-1207} gu{x=461, y=70, z=-1207}
+[03:58:38] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=459, y=71, z=-1207} gu{x=461, y=70, z=-1207}
+[03:58:38] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=459, y=71, z=-1207} gu{x=461, y=70, z=-1207}
+[03:58:39] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=457, y=72, z=-1215} gu{x=457, y=70, z=-1217}
+[03:58:41] [Server thread/INFO]: Named entity bvz['Earth Golem'/15191, l='ServerLevel[world]', x=453.46, y=72.04, z=-1205.60] died: Earth Golem was slain by Danielcf37 using [Gluttony]
+[03:58:43] [Server thread/INFO]: Named entity bww['Empyrian Curator'/15137, l='ServerLevel[world]', x=453.42, y=71.00, z=-1207.34] died: Empyrian Curator was killed whilst fighting Danielcf37
+[03:58:49] [Server thread/INFO]: Named entity brm['Raging Bee'/15208, l='ServerLevel[world]', x=453.46, y=72.04, z=-1210.72] died: Raging Bee withered away whilst fighting Danielcf37
+[03:58:49] [Server thread/INFO]: Named entity brm['Raging Bee'/15209, l='ServerLevel[world]', x=454.51, y=73.28, z=-1212.21] died: Raging Bee withered away whilst fighting Danielcf37
+[03:58:49] [Server thread/INFO]: Named entity bvz['Earth Golem'/15215, l='ServerLevel[world]', x=453.43, y=71.00, z=-1213.50] died: Earth Golem was slain by Danielcf37 using [Gluttony]
+[03:58:51] [Server thread/INFO]: Named entity brm['Raging Bee'/15240, l='ServerLevel[world]', x=441.86, y=73.17, z=-1205.42] died: Raging Bee was killed by ☆ Empyrian Shaman ☆ using magic
+[03:58:54] [Server thread/INFO]: Named entity brm['Raging Bee'/15239, l='ServerLevel[world]', x=443.52, y=71.00, z=-1201.49] died: Raging Bee was slain by Danielcf37 using [Gluttony]
+[03:58:55] [Server thread/INFO]: Named entity bww['☆ Bee Keeper ☆'/15160, l='ServerLevel[world]', x=436.55, y=71.00, z=-1204.87] died: ☆ Bee Keeper ☆ was slain by TioSkrollex using [Phantom's Rapier of Evisceration]
+[03:58:55] [Server thread/INFO]: Named entity bws['☆ Empyrian Shaman ☆'/15090, l='ServerLevel[world]', x=443.51, y=72.00, z=-1200.29] died: ☆ Empyrian Shaman ☆ was slain by Danielcf37 using [Gluttony]
+[03:58:56] [Server thread/INFO]: Named entity brm['Raging Bee'/15269, l='ServerLevel[world]', x=435.80, y=71.24, z=-1205.01] died: Raging Bee was slain by TioSkrollex using [Phantom's Rapier of Evisceration]
+[03:58:58] [Server thread/INFO]: Named entity bvz['Earth Golem'/15228, l='ServerLevel[world]', x=433.10, y=72.00, z=-1204.50] died: Earth Golem was shot by TioSkrollex using [Chaotic Bowblade of Might]
+[03:59:02] [Server thread/INFO]: Named entity bvz['Earth Golem'/15257, l='ServerLevel[world]', x=441.44, y=71.00, z=-1203.02] died: Earth Golem withered away whilst fighting Danielcf37
+[03:59:03] [Server thread/INFO]: Named entity brm['Raging Bee'/15248, l='ServerLevel[world]', x=437.77, y=72.68, z=-1203.88] died: Raging Bee was killed whilst fighting Danielcf37
+[03:59:04] [Server thread/INFO]: Named entity brm['Raging Bee'/15249, l='ServerLevel[world]', x=437.87, y=71.77, z=-1204.21] died: Raging Bee was killed by [Gluttony] trying to hurt Danielcf37
+[03:59:05] [Server thread/INFO]: Named entity brm['Raging Bee'/15270, l='ServerLevel[world]', x=425.92, y=72.00, z=-1204.50] died: Raging Bee was burnt to a crisp whilst fighting TioSkrollex
+[03:59:06] [Server thread/INFO]: Named entity bww['☆ Bee Keeper ☆'/15188, l='ServerLevel[world]', x=434.80, y=71.00, z=-1206.21] died: ☆ Bee Keeper ☆ was slain by Danielcf37 using [Gluttony]
+[03:59:08] [Server thread/INFO]: Named entity bww['Empyrian Curator'/15174, l='ServerLevel[world]', x=425.57, y=72.00, z=-1206.07] died: Empyrian Curator was slain by TioSkrollex using [Phantom's Rapier of Evisceration]
+[03:59:08] [Server thread/INFO]: Named entity brm['Raging Bee'/15283, l='ServerLevel[world]', x=425.45, y=73.39, z=-1206.65] died: Raging Bee was slain by TioSkrollex using [Phantom's Rapier of Evisceration]
+[03:59:18] [Server thread/INFO]: Named entity brm['Raging Bee'/15328, l='ServerLevel[world]', x=448.50, y=71.35, z=-1201.46] died: Raging Bee withered away whilst fighting Danielcf37
+[03:59:19] [Server thread/INFO]: Named entity brm['Raging Bee'/15326, l='ServerLevel[world]', x=445.09, y=71.08, z=-1201.56] died: Raging Bee withered away whilst fighting Danielcf37
+[03:59:24] [Server thread/INFO]: Named entity brm['Raging Bee'/15329, l='ServerLevel[world]', x=452.45, y=72.33, z=-1202.01] died: Raging Bee was killed by [Gluttony] trying to hurt Danielcf37
+[03:59:49] [Server thread/INFO]: Named entity bwn['☆ Spider Queen ☆'/15378, l='ServerLevel[world]', x=461.66, y=-189.00, z=-1203.03] died: ☆ Spider Queen ☆ was killed
+[03:59:57] [Server thread/INFO]: Named entity bwv['Zombee'/15107, l='ServerLevel[world]', x=455.00, y=71.00, z=-1207.33] died: Zombee was killed whilst fighting Danielcf37
+[04:00:01] [Server thread/INFO]: Named entity bvn['Doomfang'/15440, l='ServerLevel[world]', x=461.75, y=72.14, z=-1206.69] died: Doomfang was slain by Danielcf37 using [Gluttony]
+[04:00:01] [Server thread/INFO]: Named entity bvn['Doomfang'/15439, l='ServerLevel[world]', x=459.86, y=71.00, z=-1206.08] died: Doomfang was killed
+[04:00:03] [Server thread/INFO]: Named entity bvn['Doomfang'/15441, l='ServerLevel[world]', x=463.51, y=71.00, z=-1201.87] died: Doomfang was slain by TioSkrollex using [Phantom's Rapier of Evisceration]
+[04:00:07] [Server thread/INFO]: Named entity bvn['Doomfang'/15442, l='ServerLevel[world]', x=461.02, y=74.76, z=-1210.65] died: Doomfang was killed
+[04:01:19] [Server thread/INFO]: Named entity bwv['Zombee'/15377, l='ServerLevel[world]', x=393.20, y=82.00, z=-1218.83] died: Zombee was slain by Danielcf37 using [Gluttony]
+[04:01:49] [Server thread/INFO]: Named entity bwv['Zombee'/15214, l='ServerLevel[world]', x=406.98, y=82.14, z=-1205.97] died: Zombee was killed whilst fighting TioSkrollex
+[04:02:00] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=406, y=90, z=-1224} gu{x=407, y=89, z=-1224}
+[04:02:13] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=378, y=90, z=-1242} gu{x=378, y=88, z=-1242}
+[04:02:46] [Server thread/INFO]: Named entity bww['Empyrian Curator'/15685, l='ServerLevel[world]', x=404.70, y=98.00, z=-1204.85] died: Empyrian Curator was slain by TioSkrollex using [Phantom's Rapier of Evisceration]
+[04:03:12] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=393, y=107, z=-1208} gu{x=392, y=107, z=-1207}
+[04:03:13] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=393, y=108, z=-1207} gu{x=392, y=107, z=-1207}
+[04:03:20] [Server thread/INFO]: Named entity bvo['Veiled Creeper'/15940, l='ServerLevel[world]', x=390.05, y=100.00, z=-1209.94] died: Veiled Creeper was killed whilst fighting Danielcf37
+[04:03:30] [Server thread/INFO]: Named entity bwe['Ancient Phantom'/15913, l='ServerLevel[world]', x=398.15, y=122.97, z=-1198.94] died: Ancient Phantom was shot by TioSkrollex using [Chaotic Bowblade of Might]
+[04:03:49] [Server thread/INFO]: Named entity bwv['Zombee'/15990, l='ServerLevel[world]', x=417.81, y=89.00, z=-1205.11] died: Zombee withered away whilst fighting TioSkrollex
+[04:03:51] [Server thread/INFO]: Named entity bws['Empyrian Shaman'/16054, l='ServerLevel[world]', x=417.49, y=89.00, z=-1207.74] died: Empyrian Shaman was blown up by Creeper
+[04:03:51] [Server thread/INFO]: Named entity bwv['Zombee'/15809, l='ServerLevel[world]', x=421.71, y=89.50, z=-1203.50] died: Zombee was blown up by Creeper
+[04:03:51] [Server thread/INFO]: Named entity bwv['Zombee'/15979, l='ServerLevel[world]', x=418.48, y=89.62, z=-1205.63] died: Zombee was blown up by Creeper
+[04:03:51] [Server thread/INFO]: Danielcf37 was blown up by Creeper
+[04:03:56] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=415, y=89, z=-1212} gu{x=416, y=88, z=-1213}
+[04:03:56] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=415, y=89, z=-1212} gu{x=416, y=88, z=-1213}
+[04:03:58] [Server thread/INFO]: Named entity bwv['Zombee'/15874, l='ServerLevel[world]', x=417.62, y=88.00, z=-1208.33] died: Zombee was killed whilst fighting TioSkrollex
+[04:04:03] [Server thread/INFO]: Named entity bwv['Zombee'/16086, l='ServerLevel[world]', x=416.70, y=87.94, z=-1203.74] died: Zombee was slain by TioSkrollex using [Phantom's Rapier of Evisceration]
+[04:04:04] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=423, y=90, z=-1202} gu{x=422, y=88, z=-1202}
+[04:04:07] [Server thread/INFO]: Named entity bwv['Zombee'/16003, l='ServerLevel[world]', x=425.84, y=88.45, z=-1207.60] died: Zombee was killed whilst fighting TioSkrollex
+[04:04:07] [Server thread/INFO]: Named entity bwv['Zombee'/16020, l='ServerLevel[world]', x=426.63, y=88.45, z=-1207.44] died: Zombee was slain by TioSkrollex using [Phantom's Rapier of Evisceration]
