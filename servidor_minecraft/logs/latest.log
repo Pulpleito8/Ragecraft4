@@ -348,3 +348,33 @@
 [03:11:31] [Server thread/INFO]: Named entity bwv['Zombee'/7967, l='ServerLevel[world]', x=378.30, y=101.00, z=-1117.48] died: Zombee was slain by TioSkrollex using [Phantom's Rapier of Evisceration]
 [03:11:32] [Server thread/INFO]: Named entity bwv['Zombee'/7972, l='ServerLevel[world]', x=378.62, y=101.48, z=-1116.69] died: Zombee was slain by TioSkrollex using [Phantom's Rapier of Evisceration]
 [03:11:33] [Server thread/INFO]: Named entity bwv['Zombee'/7950, l='ServerLevel[world]', x=378.58, y=101.48, z=-1117.41] died: Zombee was slain by TioSkrollex using [Phantom's Rapier of Evisceration]
+[03:14:41] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:14:41] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:14:41] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:14:44] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:14:44] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:14:44] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:14:46] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:14:46] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:14:46] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:14:49] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:14:49] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:14:49] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:14:50] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:14:50] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:14:50] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:14:53] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:14:53] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:14:53] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:14:54] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:14:54] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:14:54] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:14:57] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:14:57] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:14:57] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:14:57] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:14:57] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:14:57] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:14:58] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:14:58] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:14:58] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
