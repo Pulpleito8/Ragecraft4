@@ -315,3 +315,29 @@
 [02:42:05] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=385, y=89, z=-1269} gu{x=385, y=88, z=-1271}
 [02:42:07] [Server thread/INFO]: Named entity bwv['Zombee'/4386, l='ServerLevel[world]', x=382.52, y=89.93, z=-1273.00] died: Zombee was slain by Danielcf37 using [Gluttony]
 [02:43:03] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=353, y=98, z=-1261} gu{x=352, y=96, z=-1262}
+[02:44:20] [Server thread/INFO]: Named entity bwv['Zombee'/4612, l='ServerLevel[world]', x=285.26, y=103.00, z=-1226.57] died: Zombee was shot by Danielcf37 using [Watcher's Bow of Healing]
+[02:44:42] [Server thread/INFO]: Named entity bvn['Doomfang'/4750, l='ServerLevel[world]', x=261.75, y=104.00, z=-1236.69] died: Doomfang was killed
+[02:44:51] [Server thread/INFO]: Named entity bwv['Zombee'/4700, l='ServerLevel[world]', x=334.42, y=98.00, z=-1229.55] died: Zombee withered away
+[02:44:52] [Server thread/INFO]: Named entity bwv['Zombee'/4711, l='ServerLevel[world]', x=340.46, y=97.00, z=-1229.50] died: Zombee withered away
+[02:44:52] [Server thread/INFO]: Named entity bwv['Zombee'/4720, l='ServerLevel[world]', x=338.55, y=97.00, z=-1228.48] died: Zombee withered away
+[02:44:52] [Server thread/INFO]: Named entity bwv['Zombee'/4723, l='ServerLevel[world]', x=336.23, y=97.50, z=-1229.46] died: Zombee withered away
+[02:45:01] [Server thread/INFO]: Named entity bwv['Zombee'/4604, l='ServerLevel[world]', x=295.69, y=102.45, z=-1228.99] died: Zombee was slain by Danielcf37 using [Gluttony]
+[02:45:02] [Server thread/INFO]: Named entity bwv['Zombee'/4569, l='ServerLevel[world]', x=295.09, y=102.45, z=-1229.02] died: Zombee was slain by Danielcf37 using [Gluttony]
+[02:45:14] [Server thread/INFO]: Named entity bvn['Doomfang'/4751, l='ServerLevel[world]', x=269.83, y=103.00, z=-1224.73] died: Doomfang withered away
+[02:45:22] [Server thread/INFO]: Named entity bwn['☆ Spider Queen ☆'/4760, l='ServerLevel[world]', x=277.76, y=-157.21, z=-1226.72] died: ☆ Spider Queen ☆ was killed whilst fighting Danielcf37
+[02:45:30] [Server thread/INFO]: Named entity bvn['Doomfang'/4749, l='ServerLevel[world]', x=275.48, y=103.00, z=-1238.10] died: Doomfang was killed
+[02:45:33] [Server thread/INFO]: Named entity bvn['Doomfang'/4901, l='ServerLevel[world]', x=279.10, y=103.06, z=-1228.69] died: Doomfang was killed
+[02:45:35] [Server thread/INFO]: Named entity bvn['Doomfang'/4902, l='ServerLevel[world]', x=280.75, y=103.00, z=-1231.70] died: Doomfang was killed
+[02:45:42] [Server thread/INFO]: Named entity bwv['Zombee'/4663, l='ServerLevel[world]', x=264.29, y=104.26, z=-1227.09] died: Zombee was killed whilst fighting TioSkrollex
+[02:45:55] [Server thread/INFO]: Named entity bwn['☆ Spider Queen ☆'/4756, l='ServerLevel[world]', x=289.21, y=-153.00, z=-1229.09] died: ☆ Spider Queen ☆ was killed whilst fighting Danielcf37
+[02:46:01] [Server thread/INFO]: Named entity bwn['☆ Spider Queen ☆'/4729, l='ServerLevel[world]', x=289.30, y=-157.00, z=-1229.05] died: ☆ Spider Queen ☆ was killed whilst fighting Danielcf37
+[02:46:01] [Server thread/INFO]: Named entity bwn['☆ Spider Queen ☆'/4688, l='ServerLevel[world]', x=286.89, y=-157.00, z=-1217.16] died: ☆ Spider Queen ☆ was killed whilst fighting TioSkrollex
+[02:46:18] [Server thread/INFO]: TioSkrollex lost connection: Disconnected
+[02:46:18] [Server thread/INFO]: TioSkrollex left the game
+[02:46:22] [Server thread/INFO]: Named entity bvn['Doomfang'/5022, l='ServerLevel[world]', x=282.44, y=103.00, z=-1228.95] died: Doomfang was killed
+[02:46:30] [Server thread/INFO]: Named entity bvn['Doomfang'/5021, l='ServerLevel[world]', x=312.78, y=103.00, z=-1227.50] died: Doomfang withered away
+[02:46:53] [Server thread/INFO]: Named entity bwv['Zombee'/5123, l='ServerLevel[world]', x=316.71, y=103.00, z=-1227.52] died: Zombee was slain by Danielcf37 using [Gluttony]
+[02:47:26] [Server thread/INFO]: Named entity bvn['Doomfang'/5280, l='ServerLevel[world]', x=343.96, y=101.00, z=-1212.50] died: Doomfang was killed
+[02:47:37] [Server thread/INFO]: Named entity bwv['Zombee'/5189, l='ServerLevel[world]', x=347.50, y=97.00, z=-1229.07] died: Zombee withered away
+[02:49:51] [Server thread/WARN]: UUID of added entity already exists: buy['Glow Item Frame'/5618, l='ServerLevel[world]', x=-53.50, y=171.03, z=283.50]
+[02:50:46] [Server thread/WARN]: Danielcf37 moved wrongly!
