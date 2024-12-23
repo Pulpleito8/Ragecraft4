@@ -926,3 +926,32 @@
 [05:11:20] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
 [05:11:20] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
 [05:11:20] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[05:15:42] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[05:15:42] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[05:15:42] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[05:15:45] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[05:15:45] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[05:15:45] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[05:20:06] [Server thread/INFO]: Named entity bvz['Wildfire'/28065, l='ServerLevel[world]', x=862.78, y=14.45, z=-874.52] died: Wildfire was slain by Danielcf37 using [Sorcerer's Rapier of Evisceration]
+[05:20:09] [Server thread/INFO]: Named entity bwt['☆ Dreadguard ☆'/28126, l='ServerLevel[world]', x=857.51, y=9.00, z=-861.01] died: ☆ Dreadguard ☆ was shot by TioSkrollex using [The Sting]
+[05:20:12] [Server thread/INFO]: Named entity brm['Infernal Wisp'/28139, l='ServerLevel[world]', x=857.89, y=9.98, z=-861.21] died: Infernal Wisp was shot by TioSkrollex using [The Sting]
+[05:20:16] [Server thread/INFO]: Named entity bws['Grenadier'/28125, l='ServerLevel[world]', x=857.56, y=9.00, z=-861.53] died: Grenadier was blown up by Creeper
+[05:20:19] [Server thread/INFO]: Named entity bvz['Wildfire'/28133, l='ServerLevel[world]', x=860.46, y=5.00, z=-860.70] died: Wildfire withered away
+[05:20:27] [Server thread/INFO]: Named entity bvz['Wildfire'/28129, l='ServerLevel[world]', x=857.50, y=9.00, z=-869.03] died: Wildfire was shot by TioSkrollex using [The Sting]
+[05:20:43] [Server thread/INFO]: Named entity brm['Infernal Wisp'/28258, l='ServerLevel[world]', x=856.46, y=9.92, z=-855.52] died: Infernal Wisp was shot by TioSkrollex using [Sorcerer's Rapier of Evisceration]
+[05:20:44] [Server thread/INFO]: Named entity brm['Infernal Wisp'/28188, l='ServerLevel[world]', x=856.65, y=10.62, z=-860.77] died: Infernal Wisp was killed whilst fighting TioSkrollex
+[05:20:47] [Server thread/INFO]: Named entity brm['Infernal Wisp'/28189, l='ServerLevel[world]', x=866.96, y=15.00, z=-873.35] died: Infernal Wisp was killed trying to hurt Danielcf37
+[05:20:51] [Server thread/INFO]: Named entity bwt['☆ Dreadguard ☆'/28068, l='ServerLevel[world]', x=862.35, y=15.00, z=-867.04] died: ☆ Dreadguard ☆ was slain by TioSkrollex using [Sorcerer's Rapier of Evisceration]
+[05:21:00] [Server thread/INFO]: Named entity bvz['Wildfire'/28140, l='ServerLevel[world]', x=858.52, y=15.00, z=-875.55] died: Wildfire was slain by Danielcf37 using [Sorcerer's Rapier of Evisceration]
+[05:21:04] [Server thread/INFO]: Named entity bvw['Infernal Ghast'/28347, l='ServerLevel[world]', x=845.86, y=48.37, z=-854.12] died: Infernal Ghast withered away whilst fighting TioSkrollex
+[05:21:08] [Server thread/INFO]: Named entity bvz['Wildfire'/28256, l='ServerLevel[world]', x=861.86, y=16.85, z=-874.45] died: Wildfire was slain by Danielcf37 using [Sorcerer's Rapier of Evisceration]
+[05:21:10] [Server thread/INFO]: Named entity bvz['Wildfire'/28142, l='ServerLevel[world]', x=862.00, y=15.00, z=-873.93] died: Wildfire was killed whilst fighting Danielcf37
+[05:21:14] [Server thread/INFO]: Named entity bvz['Wildfire'/28144, l='ServerLevel[world]', x=858.73, y=15.00, z=-879.32] died: Wildfire was slain by Danielcf37 using [Sorcerer's Rapier of Evisceration]
+[05:21:18] [Server thread/INFO]: Named entity bvz['Wildfire'/28365, l='ServerLevel[world]', x=850.53, y=15.00, z=-871.95] died: Wildfire was killed whilst fighting TioSkrollex
+[05:21:19] [Server thread/INFO]: Named entity bvz['Wildfire'/28363, l='ServerLevel[world]', x=853.39, y=15.00, z=-873.25] died: Wildfire was slain by Danielcf37 using [Sorcerer's Rapier of Evisceration]
+[05:22:17] [Server thread/INFO]: Named entity bvw['Infernal Ghast'/28544, l='ServerLevel[world]', x=811.86, y=20.44, z=-849.88] died: Infernal Ghast was shot by TioSkrollex using [Sorcerer's Rapier of Evisceration]
+[05:22:21] [Server thread/INFO]: Named entity bvm['Bombardier'/28539, l='ServerLevel[world]', x=833.02, y=9.21, z=-844.97] died: Bombardier was slain by Danielcf37 using [Sorcerer's Rapier of Evisceration]
+[05:22:35] [Server thread/INFO]: Named entity bvo['Brimstone Creeper'/28572, l='ServerLevel[world]', x=818.70, y=10.00, z=-849.07] died: Brimstone Creeper was slain by Danielcf37 using [Sorcerer's Rapier of Evisceration]
+[05:22:38] [Server thread/INFO]: Named entity bvo['Brimstone Creeper'/28573, l='ServerLevel[world]', x=816.71, y=9.00, z=-851.06] died: Brimstone Creeper was slain by Danielcf37 using [Sorcerer's Rapier of Evisceration]
+[05:22:47] [Server thread/INFO]: Named entity bwt['☆ Dreadguard ☆'/28574, l='ServerLevel[world]', x=824.65, y=9.00, z=-854.35] died: ☆ Dreadguard ☆ was slain by Danielcf37 using [Sorcerer's Rapier of Evisceration]
+[05:25:12] [Server thread/INFO]: Named entity bwt['☆ Dreadmage ☆'/28767, l='ServerLevel[world]', x=889.65, y=5.00, z=-876.65] died: ☆ Dreadmage ☆ was slain by Danielcf37 using [Sorcerer's Rapier of Evisceration]
