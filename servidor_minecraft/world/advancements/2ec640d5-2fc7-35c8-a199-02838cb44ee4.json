@@ -215,5 +215,11 @@
     },
     "done": true
   },
+  "mobs:taunt_trickster": {
+    "criteria": {
+      "requirement": "2024-12-23 04:32:20 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

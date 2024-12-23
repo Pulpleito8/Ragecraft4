@@ -778,3 +778,40 @@
 [04:23:44] [Server thread/INFO]: Named entity bwn['Nightmare'/20324, l='ServerLevel[world]', x=760.01, y=93.00, z=-1081.03] died: Nightmare withered away
 [04:23:52] [Server thread/INFO]: Named entity bwn['Nightmare'/20364, l='ServerLevel[world]', x=761.50, y=95.00, z=-1075.50] died: Nightmare suffocated in a wall
 [04:24:09] [Server thread/INFO]: Named entity bwn['Nightmare'/20147, l='ServerLevel[world]', x=767.15, y=91.09, z=-1017.45] died: Nightmare was slain by Danielcf37 using [Gluttony]
+[04:25:28] [Server thread/INFO]: Named entity bvo['Frigid Creeper'/20566, l='ServerLevel[world]', x=907.57, y=49.00, z=-1005.43] died: Frigid Creeper was shot by TioSkrollex using [The Sting]
+[04:25:29] [Server thread/INFO]: Named entity bwn['Icecrawler'/20564, l='ServerLevel[world]', x=901.70, y=-209.85, z=-1002.76] died: Icecrawler was killed whilst fighting Danielcf37
+[04:25:30] [Server thread/INFO]: Named entity bwn['Icecrawler'/20554, l='ServerLevel[world]', x=904.34, y=-210.29, z=-1001.16] died: Icecrawler was killed whilst fighting TioSkrollex
+[04:25:36] [Server thread/INFO]: Named entity bwn['Icecrawler'/20565, l='ServerLevel[world]', x=902.43, y=-211.64, z=-1001.02] died: Icecrawler was killed whilst fighting Danielcf37
+[04:25:57] [Server thread/INFO]: Named entity bvo['Frigid Creeper'/20671, l='ServerLevel[world]', x=922.23, y=52.00, z=-987.98] died: Frigid Creeper withered away whilst fighting Danielcf37
+[04:26:11] [Server thread/INFO]: Named entity bvo['Frigid Creeper'/20555, l='ServerLevel[world]', x=896.87, y=44.92, z=-993.46] died: Frigid Creeper was slain by TioSkrollex using [Phantom's Rapier of Evisceration]
+[04:28:16] [Server thread/INFO]: Named entity bvo['Rage Creeper'/21124, l='ServerLevel[world]', x=608.49, y=57.00, z=-789.24] died: Rage Creeper was shot by Danielcf37 using [Watcher's Bow of Healing]
+[04:28:56] [Server thread/INFO]: Named entity bwn['Flamecrawler'/21210, l='ServerLevel[world]', x=624.21, y=66.00, z=-783.55] died: Flamecrawler was slain by TioSkrollex using [Phantom's Rapier of Evisceration]
+[04:29:08] [Server thread/INFO]: Named entity bwn['Flamecrawler'/21209, l='ServerLevel[world]', x=623.70, y=67.00, z=-780.73] died: Flamecrawler was slain by Danielcf37 using [Gluttony]
+[04:29:14] [Server thread/INFO]: Named entity bwn['Flamecrawler'/21135, l='ServerLevel[world]', x=626.30, y=70.26, z=-803.30] died: Flamecrawler was slain by Danielcf37 using [Gluttony]
+[04:29:18] [Server thread/INFO]: Named entity bwn['Flamecrawler'/21322, l='ServerLevel[world]', x=614.74, y=67.00, z=-798.21] died: Flamecrawler was killed whilst fighting TioSkrollex
+[04:30:50] [Server thread/WARN]: TioSkrollex moved wrongly!
+[04:31:43] [Server thread/INFO]: Named entity bvo['Rage Creeper'/21633, l='ServerLevel[world]', x=671.77, y=41.46, z=-914.30] died: Rage Creeper was slain by TioSkrollex using [Phantom's Rapier of Evisceration]
+[04:32:23] [Server thread/INFO]: Named entity bww['Trickster'/21766, l='ServerLevel[world]', x=685.68, y=29.00, z=-848.63] died: Trickster was slain by TioSkrollex using [Phantom's Rapier of Evisceration]
+[04:32:32] [Server thread/INFO]: Named entity bww['Trickster'/21784, l='ServerLevel[world]', x=685.59, y=26.50, z=-867.49] died: Trickster was slain by Danielcf37 using [Gluttony]
+[04:32:43] [Server thread/INFO]: Named entity bww['Trickster'/21733, l='ServerLevel[world]', x=685.05, y=28.45, z=-848.47] died: Trickster was killed whilst fighting TioSkrollex
+[04:32:48] [Server thread/INFO]: Named entity bww['Trickster'/21810, l='ServerLevel[world]', x=685.70, y=28.00, z=-856.02] died: Trickster was slain by Danielcf37 using [Gluttony]
+[04:33:00] [Server thread/INFO]: Named entity bww['Trickster'/21799, l='ServerLevel[world]', x=688.94, y=28.68, z=-849.37] died: Trickster was slain by TioSkrollex using [Phantom's Rapier of Evisceration]
+[04:33:12] [Server thread/INFO]: Named entity bww['Trickster'/21879, l='ServerLevel[world]', x=684.93, y=28.95, z=-845.70] died: Trickster was slain by Danielcf37 using [Gluttony]
+[04:33:19] [Server thread/INFO]: Named entity bww['Trickster'/21837, l='ServerLevel[world]', x=684.52, y=30.00, z=-843.04] died: Trickster was slain by TioSkrollex using [Phantom's Rapier of Evisceration]
+[04:33:24] [Server thread/INFO]: Named entity bww['Trickster'/21866, l='ServerLevel[world]', x=686.29, y=30.50, z=-851.56] died: Trickster was slain by Danielcf37 using [Gluttony]
+[04:33:25] [Server thread/INFO]: Named entity bww['Trickster'/21877, l='ServerLevel[world]', x=685.51, y=28.42, z=-855.56] died: Trickster was killed whilst fighting Danielcf37
+[04:34:25] [Server thread/INFO]: Named entity bvo['Rage Creeper'/22066, l='ServerLevel[world]', x=664.71, y=29.90, z=-822.41] died: Rage Creeper withered away
+[04:34:27] [Server thread/INFO]: Named entity bxe['Piglin Bandit'/22067, l='ServerLevel[world]', x=683.21, y=30.00, z=-821.82] died: Piglin Bandit was slain by Danielcf37 using [Gluttony]
+[04:34:27] [Server thread/INFO]: Named entity bvo['Rage Creeper'/22008, l='ServerLevel[world]', x=647.58, y=32.00, z=-818.12] died: Rage Creeper was killed whilst fighting TioSkrollex
+[04:34:31] [Server thread/INFO]: Named entity bww['Trickster'/22027, l='ServerLevel[world]', x=664.91, y=29.45, z=-822.42] died: Trickster was killed whilst fighting Danielcf37
+[04:34:37] [Server thread/INFO]: Named entity bvo['Rage Creeper'/21986, l='ServerLevel[world]', x=645.67, y=36.91, z=-817.50] died: Rage Creeper was slain by TioSkrollex using [Phantom's Rapier of Evisceration]
+[04:34:44] [Server thread/INFO]: Named entity bvo['Rage Creeper'/22137, l='ServerLevel[world]', x=644.30, y=39.14, z=-824.19] died: Rage Creeper was slain by Danielcf37 using [Gluttony]
+[04:34:49] [Server thread/INFO]: Named entity bvm['Bombardier'/22155, l='ServerLevel[world]', x=645.52, y=44.00, z=-822.77] died: Bombardier was killed whilst fighting Danielcf37
+[04:34:54] [Server thread/INFO]: Named entity bvo['Rage Creeper'/21985, l='ServerLevel[world]', x=651.70, y=38.00, z=-819.05] died: Rage Creeper was killed whilst fighting TioSkrollex
+[04:34:59] [Server thread/INFO]: Named entity bvm['Bombardier'/22062, l='ServerLevel[world]', x=641.49, y=48.70, z=-812.96] died: Bombardier was killed whilst fighting Danielcf37
+[04:35:37] [Server thread/INFO]: Named entity bww['Trickster'/22158, l='ServerLevel[world]', x=685.70, y=30.00, z=-839.77] died: Trickster was slain by TioSkrollex using [Phantom's Rapier of Evisceration]
+[04:35:41] [Server thread/INFO]: Named entity bww['Trickster'/22213, l='ServerLevel[world]', x=684.75, y=30.00, z=-835.08] died: Trickster was slain by Danielcf37 using [Gluttony]
+[04:36:08] [Server thread/WARN]: UUID of added entity already exists: buy['Glow Item Frame'/22390, l='ServerLevel[world]', x=-53.50, y=171.03, z=283.50]
+[04:43:21] [Server thread/ERROR]: Display entityNot a string
+[04:43:21] [Server thread/ERROR]: Display entityNot a string
+[04:43:21] [Server thread/ERROR]: Display entityNot a string
