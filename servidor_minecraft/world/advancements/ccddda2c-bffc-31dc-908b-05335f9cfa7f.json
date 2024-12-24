@@ -227,15 +227,15 @@
     },
     "done": true
   },
-  "mobs:taunt_trickster": {
-    "criteria": {
-      "requirement": "2024-12-23 04:32:43 +0000"
-    },
-    "done": true
-  },
   "skills:0_rot_blast_explain": {
     "criteria": {
       "requirement": "2024-12-23 03:12:18 +0000"
+    },
+    "done": true
+  },
+  "mobs:taunt_trickster": {
+    "criteria": {
+      "requirement": "2024-12-23 04:32:43 +0000"
     },
     "done": true
   },
